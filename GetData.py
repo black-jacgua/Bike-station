@@ -66,9 +66,10 @@ code = [
 
 
 for i in range(16):
-
+    print(i)
     for param in code: 
         getData(param[0], param[1], param[2], i)
+   
 
     time.sleep(44)
 
