@@ -12,7 +12,7 @@ df = pd.concat(dfs, ignore_index=True)
 
 #Regrouper les donnees suivant : country, city et position en faisant le sum de velo disponibles
 df0 = df.groupby(['country','city','position']).sum(numeric_only=True).reset_index()
-df0 = df0[df0['position'] != 17]
+#df0 = df0[df0['position'] != 17]
 
 
 # pour trouver les variation dans de la quantite de velo
