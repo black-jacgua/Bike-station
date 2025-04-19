@@ -38,7 +38,7 @@ then displays it through an interactive dashboard built with Tableau Desktop.
 
 
 
-📁 Project Structure
+📁 Project Structure  
 .  
 ├── getting/  
 │   └── _*.csv                       # Downloaded data files  
@@ -54,9 +54,10 @@ then displays it through an interactive dashboard built with Tableau Desktop.
 ├── README.md  
 ├── requirements.txt  
 └── LICENSE  
-  
-  
-  
+
+<br/>
+<br/>
+<br/>
   
 🚀 How to Run Locally
 
@@ -81,7 +82,7 @@ Open the Tableau dashboard and connect it to the updated CSV files.
 
 📊 Tableau Dashboard
 
-Interactive dashboard published on Tableau Public:
+Interactive dashboard published on Tableau Public:  
 https://public.tableau.com/app/profile/rotshill.jb/viz/Bike_station_17450466535500/Dashboard1
 
 
