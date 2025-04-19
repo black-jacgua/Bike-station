@@ -39,25 +39,25 @@ then displays it through an interactive dashboard built with Tableau Desktop.
 
 
 📁 Project Structure
-.
-├── getting/
-│   └── _*.csv                       # Downloaded data files
-├── live/
-│   └── .csv                         # Validated data file
-├── .github/
-│   └── workflows/
-│       └── data-pipelines.yml      # GitHub Action for hourly automation
-|       └── upload.yml              # GitHub Action for hourly automation
-├── GetData.py                     # Downloaded data script
-├── PrepaData.py                    # Validated data script
-├── upload_drive.py                # Update data in drive
-├── README.md
-├── requirements.txt
-└── LICENSE
-
-
-
-
+.  
+├── getting/  
+│   └── _*.csv                       # Downloaded data files  
+├── live/  
+│   └── .csv                         # Validated data file  
+├── .github/  
+│   └── workflows/  
+│       └── data-pipelines.yml      # GitHub Action for hourly automation  
+|       └── upload.yml              # GitHub Action for hourly automation  
+├── GetData.py                     # Downloaded data script  
+├── PrepaData.py                    # Validated data script  
+├── upload_drive.py                # Update data in drive  
+├── README.md  
+├── requirements.txt  
+└── LICENSE  
+  
+  
+  
+  
 🚀 How to Run Locally
 
 Clone the repository:
