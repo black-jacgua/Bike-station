@@ -14,6 +14,7 @@ else:
 gauth.SaveCredentialsFile("credentials.json")
 drive = GoogleDrive(gauth)
 
-file_to_update = drive.CreateFile({'id': 'ID_DU_FICHIER_SUR_DRIVE'})
-file_to_update.SetContentFile('path/local/du/fichier.txt')
+file_to_update = drive.CreateFile({'id': '1IHYSaJTBeGQC3Q7FLbiGTeUnIdX4G6rp'})
+
+file_to_update.SetContentFile('./live/bike_frenquency_station.csv')
 file_to_update.Upload()
