@@ -3,6 +3,9 @@
 This project tracks bike-sharing activity in major cities around the world using the CityBikes API. It collects, processes, and analyzes real-time data on bike availability, 
 then displays it through an interactive dashboard built with Tableau Desktop.
 
+<br/>
+<br/>
+<br/>
 
 📌 Project Goals
 
@@ -20,7 +23,9 @@ then displays it through an interactive dashboard built with Tableau Desktop.
 
         Proportional comparisons by region.
 
-
+<br/>
+<br/>
+<br/>
 
 🛠️ Technologies Used
 
@@ -36,7 +41,9 @@ then displays it through an interactive dashboard built with Tableau Desktop.
 
     GitHub Actions for automated hourly data updates.
 
-
+<br/>
+<br/>
+<br/>
 
 📁 Project Structure  
 .  
@@ -63,21 +70,24 @@ then displays it through an interactive dashboard built with Tableau Desktop.
 
 Clone the repository:
 git clone https://github.com/black-jacgua/Bike-station.git
-cd citybike-tracker
+cd Bike-station
 
-
+<br/>
 Install dependencies:
 pip install -r requirements.txt
 
-
+<br/>
 Run the scripts manually:
 python getData.py
 python prepaData.py
 
+<br/>
 Open the Tableau dashboard and connect it to the updated CSV files.
 
 
-
+<br/>
+<br/>
+<br/>
 
 
 📊 Tableau Dashboard
@@ -85,21 +95,27 @@ Open the Tableau dashboard and connect it to the updated CSV files.
 Interactive dashboard published on Tableau Public:  
 https://public.tableau.com/app/profile/rotshill.jb/viz/Bike_station_17450466535500/Dashboard1
 
-
+<br/>
+<br/>
+<br/>
 
 🔄 Automated Execution
 
 A GitHub Actions workflow is scheduled to run every hour, triggering both data collection and processing scripts. 
 Updated results are synced to Google Drive, enabling real-time dashboards without manual updates.
 
-
+<br/>
+<br/>
+<br/>
 
 
 📄 License
 
 Distributed under the MIT License. See the LICENSE file for more information.
 
-
+<br/>
+<br/>
+<br/>
 
 ✨ Future Improvements
 
