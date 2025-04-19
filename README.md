@@ -41,12 +41,16 @@ then displays it through an interactive dashboard built with Tableau Desktop.
 📁 Project Structure
 .
 ├── getting/
-│   └── getData.py           # Downloads live station data
+│   └── _*.csv                       # Downloaded data files
 ├── live/
-│   └── analyzeData.py       # Processes the data (frequency, variations, etc.)
+│   └── .csv                         # Validated data file
 ├── .github/
 │   └── workflows/
-│       └── run-scripts.yml  # GitHub Action for hourly automation
+│       └── data-pipelines.yml      # GitHub Action for hourly automation
+|       └── upload.yml              # GitHub Action for hourly automation
+├── GetData.py                     # Downloaded data script
+├── PrepaData.py                    # Validated data script
+├── upload_drive.py                # Update data in drive
 ├── README.md
 ├── requirements.txt
 └── LICENSE
