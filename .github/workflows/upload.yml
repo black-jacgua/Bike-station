@@ -4,11 +4,10 @@ on:
   schedule:
     - cron: '0 * * * *'   # Toutes les heures
   workflow_dispatch:
-
   push:
     branches:
       - main
-  
+
 permissions:
   contents: write
 
@@ -27,9 +26,11 @@ jobs:
       - name: Install dependencies
         run: pip install pydrive2
 
-      - name: Write credentials file
-        run: |
-          echo "${{ secrets.GDRIVE_CREDENTIALS }}" > credentials.json
+      - name: Write client_secrets.json
+        run: echo "${{ secrets.GDRIVE_CLIENT_SECRETS }}" > client_secrets.json
+
+      - name: Write credentials.json
+        run: echo "${{ secrets.GDRIVE_CREDENTIALS }}" > credentials.json
 
       - name: Upload file to Google Drive
         run: python upload_drive.py
