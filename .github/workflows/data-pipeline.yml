@@ -42,4 +42,5 @@ jobs:
           git add getting/
           git add live/bike_frenquency_station.csv
           git commit -m "Update cleaned data"
-          git push
+          git pull origin main --rebase
+          git push origin main
