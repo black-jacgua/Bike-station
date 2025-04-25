@@ -1,5 +1,5 @@
 name,free_bikes,empty_slots,city,country,position
-virtuell - S Treptower Park (Puschkinallee/Elsenstraße),3,2.0,Berlin,Germany,11
+virtuell - S Treptower Park (Puschkinallee/Elsenstraße),1,4.0,Berlin,Germany,11
 virtuell - U Ullsteinstraße (Staubenrauchbrücke),1,5.0,Berlin,Germany,11
 virtuell - Olivaer Platz (Nordwest),0,4.0,Berlin,Germany,11
 Katzbachstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,15.0,Berlin,Germany,11
@@ -23,7 +23,7 @@ virtuell - Wrangelstraße/Falckensteinstraße,4,0.0,Berlin,Germany,11
 virtuell - Paulsborner Straße/Kudowastraße,1,3.0,Berlin,Germany,11
 virtuell - Ostseestraße/Goethestraße,0,4.0,Berlin,Germany,11
 virtuell - Aalemannufer (Niederneuendorfer Allee),1,3.0,Berlin,Germany,11
-virtuell - S Ostkreuz (Südost),0,3.0,Berlin,Germany,11
+virtuell - S Ostkreuz (Südost),3,0.0,Berlin,Germany,11
 virtuell - Schwedter Straße/Korsörer Straße,1,3.0,Berlin,Germany,11
 virtuell - Kufsteiner Straße/Freiherr-vom-Stein-Straße,0,4.0,Berlin,Germany,11
 virtuell - U Blaschkoallee,0,4.0,Berlin,Germany,11
@@ -106,7 +106,7 @@ virtuell - Eichbuschallee/Erich-Lodemann-Straße,5,0.0,Berlin,Germany,11
 virtuell - Geisbergstraße/Kelheimer Straße,0,4.0,Berlin,Germany,11
 virtuell - Hauptstraße/Friedrich-Engels-Straße,1,3.0,Berlin,Germany,11
 virtuell – Morusstraße/Briesestraße,0,4.0,Berlin,Germany,11
-U Hausvogteiplatz | BONUS-Station: Return(Rückgabe) here=15 mins free,1,15.0,Berlin,Germany,11
+U Hausvogteiplatz | BONUS-Station: Return(Rückgabe) here=15 mins free,2,14.0,Berlin,Germany,11
 virtuell - Stadtbad Neukölln,0,4.0,Berlin,Germany,11
 virtuell - Uber Platz (Mühlenstraße),0,3.0,Berlin,Germany,11
 virtuell - Prenzlauer Promenade/Elsa-Brändström-Straße,0,4.0,Berlin,Germany,11
@@ -114,8 +114,8 @@ virtuell - Krausnickstraße/Große Hamburger Straße,0,4.0,Berlin,Germany,11
 virtuell - Treskowallee/Odesaplatz,0,4.0,Berlin,Germany,11
 virtuell - M Am Steinberg,0,4.0,Berlin,Germany,11
 virtuell - Gemeinschaftskrankenhaus Havelhöhe,1,3.0,Berlin,Germany,11
-virtuell - Frankenstraße/Goltzstraße,1,3.0,Berlin,Germany,11
-virtuell - S Prenzlauer Alle (Nordost),1,5.0,Berlin,Germany,11
+virtuell - Frankenstraße/Goltzstraße,0,4.0,Berlin,Germany,11
+virtuell - S Prenzlauer Alle (Nordost),0,6.0,Berlin,Germany,11
 Ansbacher Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,1,12.0,Berlin,Germany,11
 virtuell - Mahlsdorfer Straße/Hoerniestraße,0,4.0,Berlin,Germany,11
 virtuell - An der Wuhle (Lindenstraße),0,4.0,Berlin,Germany,11
@@ -137,16 +137,16 @@ virtuell - M Gounodstraße (Indira-Gandhi-Straße),0,4.0,Berlin,Germany,11
 virtuell - Stubenrauchstraße (Massantebrücke),0,4.0,Berlin,Germany,11
 virtuell - Bolivarallee/Ulmenallee,0,4.0,Berlin,Germany,11
 virtuell - S+U Alexanderplatz/Gontardstraße (Fernsehturm),0,4.0,Berlin,Germany,11
-Helios Klinikum Berlin-Buch,6,14.0,Berlin,Germany,11
+Helios Klinikum Berlin-Buch,7,13.0,Berlin,Germany,11
 virtuell - Herzbergstraße (evangelisches Krankenhaus),0,3.0,Berlin,Germany,11
-virtuell - Kiehlufer/Bouchéstraße,2,2.0,Berlin,Germany,11
+virtuell - Kiehlufer/Bouchéstraße,1,3.0,Berlin,Germany,11
 virtuell - Ehrlichstraße/Wildensteiner Straße,0,4.0,Berlin,Germany,11
 virtuell - Zeppelinstraße/Roedernstraße,0,4.0,Berlin,Germany,11
 virtuell - Morsestraße/Carnotstraße,0,4.0,Berlin,Germany,11
 virtuell - Köpenicker Straße/Am Studio,0,4.0,Berlin,Germany,11
 Jelbi U Warschauer Straße/ Tamara-Danz-Straße (FHA/TA),1,8.0,Berlin,Germany,11
 virtuell - Tegeler Weg/Brahestraße,1,3.0,Berlin,Germany,11
-virtuell – Weichselstraße/Weserstraße,7,0.0,Berlin,Germany,11
+virtuell – Weichselstraße/Weserstraße,6,0.0,Berlin,Germany,11
 virtuell - Berchtesgadener Straße/Apostel-Paulus-Straße,0,4.0,Berlin,Germany,11
 virtuell - Gustav-Müller-Platz (Leberstraße),0,4.0,Berlin,Germany,11
 virtuell - U Amrumer Straße,0,4.0,Berlin,Germany,11
@@ -154,7 +154,7 @@ Jelbi Frobenstraße/Bülowstraße (SCH/FR),0,2.0,Berlin,Germany,11
 virtuell - Eisenacher Straße/Rixdorfer Straße,1,3.0,Berlin,Germany,11
 virtuell - Köpenicker Straße/Pücklerstraße,1,3.0,Berlin,Germany,11
 virtuell - Dudenstraße/Boelckestraße,0,4.0,Berlin,Germany,11
-virtuell - Chausseestraße (Französischer Friedhof),2,2.0,Berlin,Germany,11
+virtuell - Chausseestraße (Französischer Friedhof),3,1.0,Berlin,Germany,11
 virtuell - Buchberger Straße/Frankfurter Allee,4,0.0,Berlin,Germany,11
 virtuell - Groß-Berliner Damm/Nieberstraße,0,4.0,Berlin,Germany,11
 virtuell - Joseph-Joachim-Platz,0,6.0,Berlin,Germany,11
@@ -175,7 +175,7 @@ virtuell - Tiergarten (Hofjägerallee/Tiergartenstraße),0,4.0,Berlin,Germany,11
 Jelbi Messe/Halle 19 (WES/HA),0,8.0,Berlin,Germany,11
 virtuell - Kurt-Weill-Platz (Klinik Helle Mitte),0,4.0,Berlin,Germany,11
 virtuell - EDEKA Baumschulenstraße,1,3.0,Berlin,Germany,11
-virtuell - Togostraße/Kameruner Straße,2,2.0,Berlin,Germany,11
+virtuell - Togostraße/Kameruner Straße,0,4.0,Berlin,Germany,11
 virtuell - S Schlachtensee (Nordost),0,4.0,Berlin,Germany,11
 Sony Center | BONUS-Station: Return(Rückgabe) here=15 mins free,0,10.0,Berlin,Germany,11
 virtuell - Dudenstraße/Methfesselstraße,0,4.0,Berlin,Germany,11
@@ -225,9 +225,9 @@ virtuell - S Rahnsdorf (Süd),2,2.0,Berlin,Germany,11
 virtuell - Eitzbachweg/Hatzenporter Weg,0,4.0,Berlin,Germany,11
 virtuell - S Wartenberg (West),0,4.0,Berlin,Germany,11
 virtuell - Mensa HfS (Ernst Busch),0,4.0,Berlin,Germany,11
-virtuell - U Naturkundemuseum (Nord),1,3.0,Berlin,Germany,11
+virtuell - U Naturkundemuseum (Nord),0,4.0,Berlin,Germany,11
 virtuell - Schiffbauerdamm/Bertolt-Brecht-Platz,0,4.0,Berlin,Germany,11
-virtuell - Siegmunds Hof,4,0.0,Berlin,Germany,11
+virtuell - Siegmunds Hof,5,0.0,Berlin,Germany,11
 virtuell - Obentrautstraße/Großbeerenstraße,0,4.0,Berlin,Germany,11
 virtuell - Heilbronner Straße/Georg-Wilhelm-Straße,0,4.0,Berlin,Germany,11
 virtuell - Pestalozzistraße/Schlüterstraße,0,4.0,Berlin,Germany,11
@@ -248,12 +248,12 @@ virtuell - Gedenkstätte Dt. Widerstand (Stauffenbergstraße),1,3.0,Berlin,Germa
 Jelbi S+U Potsdamer Platz/Leipziger Platz  (MIT/PL),1,7.0,Berlin,Germany,11
 virtuell - Neuendorfer Straße (Vivantes Klinikum Spandau),2,2.0,Berlin,Germany,11
 virtuell - Martin-Luther-Krankenhaus (Paulsborner Straße),0,4.0,Berlin,Germany,11
-S Treptower Park | BONUS-Station: Return(Rückgabe) here=15 mins free,1,4.0,Berlin,Germany,11
-Jelbi Campus Buch/D79 (BUC/D79),0,10.0,Berlin,Germany,11
+S Treptower Park | BONUS-Station: Return(Rückgabe) here=15 mins free,3,2.0,Berlin,Germany,11
+Jelbi Campus Buch/D79 (BUC/D79),1,9.0,Berlin,Germany,11
 virtuell - U Viktoria-Luise-Platz (Ost),0,3.0,Berlin,Germany,11
 virtuell - M Jan-Petersen-Straße (Raoul-Wallenberg-Straße),0,4.0,Berlin,Germany,11
 virtuell - Max-Herrmann-Straße/Mehrower Allee,0,4.0,Berlin,Germany,11
-U Eberswalder Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,11,3.0,Berlin,Germany,11
+U Eberswalder Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,10,4.0,Berlin,Germany,11
 virtuell - Hauptstraße/Ulrich-Plenzdorf-Straße,1,2.0,Berlin,Germany,11
 virtuell - Bahnhofstraße/Kinzerallee,0,4.0,Berlin,Germany,11
 virtuell - Mariannenstraße/Naunynstraße,0,4.0,Berlin,Germany,11
@@ -261,7 +261,7 @@ virtuell - Witzlebenstraße/Suarezstraße,1,3.0,Berlin,Germany,11
 virtuell - Oelsnitzer Straße/Stollberger Straße,0,4.0,Berlin,Germany,11
 virtuell - S Hackescher Markt (Nord),0,4.0,Berlin,Germany,11
 virtuell - Kaiser-Wilhelm-Platz (Crellestraße),0,4.0,Berlin,Germany,11
-virtuell - Danneckerstraße (Am Rudolfplatz),2,2.0,Berlin,Germany,11
+virtuell - Danneckerstraße (Am Rudolfplatz),1,3.0,Berlin,Germany,11
 virtuell - Hauptstraße/Gustav-Tempel-Straße,0,4.0,Berlin,Germany,11
 virtuell - Franz-Ehrlich-Straße/Ernst-Augustin-Straße,1,3.0,Berlin,Germany,11
 virtuell - Bergmannstraße/Südstern,1,3.0,Berlin,Germany,11
@@ -296,12 +296,12 @@ virtuell - Olivaer Platz/Wielandstraße,0,4.0,Berlin,Germany,11
 Jelbi Alte Schönhauser Straße/Linienstraße (MIT/LI),2,5.0,Berlin,Germany,11
 virtuell - HWR Campus Lichtenberg (Alfred-Kowalke-Straße),3,1.0,Berlin,Germany,11
 virtuell - Brunsbütteler Damm/Nauener Straße,1,3.0,Berlin,Germany,11
-virtuell - Haberstraße/Schmalenbachstraße,1,3.0,Berlin,Germany,11
+virtuell - Haberstraße/Schmalenbachstraße,2,2.0,Berlin,Germany,11
 virtuell - Wilhelmsmühlenweg (Hönower Straße),0,4.0,Berlin,Germany,11
 virtuell - Alt-Stralau (Dorfkiche Stralau),1,3.0,Berlin,Germany,11
 virtuell - Berliner Straße/Barstraße,0,4.0,Berlin,Germany,11
 virtuell - Büchnerweg/Nipkowstraße,0,4.0,Berlin,Germany,11
-Maxstr. | BONUS-Station: Return(Rückgabe) here=15 mins free,1,9.0,Berlin,Germany,11
+Maxstr. | BONUS-Station: Return(Rückgabe) here=15 mins free,2,8.0,Berlin,Germany,11
 virtuell - S Oranienburger Straße,1,3.0,Berlin,Germany,11
 Jelbi Kienitzer Straße/Hermannstraße (NEU/KH),0,7.0,Berlin,Germany,11
 virtuell - Zur Nachtheide (Wendenschloßstraße),0,4.0,Berlin,Germany,11
@@ -315,7 +315,7 @@ virtuell - Sophie-Charlotten-Straße/Philippistraße,1,3.0,Berlin,Germany,11
 virtuell - Cäsarstraße/Aristotelessteig,0,4.0,Berlin,Germany,11
 virtuell - Bergstraße/Heesestraße,1,3.0,Berlin,Germany,11
 virtuell - U Schlesisches Tor (Nordwest),0,4.0,Berlin,Germany,11
-virtuell - Treptower Straße/Weigandufer,3,1.0,Berlin,Germany,11
+virtuell - Treptower Straße/Weigandufer,4,0.0,Berlin,Germany,11
 virtuell - Klausener Platz,0,4.0,Berlin,Germany,11
 virtuell - EDEKA Görse & Meichsner (Eichborndamm),1,3.0,Berlin,Germany,11
 virtuell - Heinersdorf (Kaufland),0,4.0,Berlin,Germany,11
@@ -330,7 +330,7 @@ virtuell - Paul-Lincke-Ufer (Boulodrome),0,4.0,Berlin,Germany,11
 virtuell - Chausseestraße/Boyenstraße,1,3.0,Berlin,Germany,11
 virtuell - S Rummelsburg (Hauptstraße),0,4.0,Berlin,Germany,11
 virtuell - U Freie Universität (Ost),0,4.0,Berlin,Germany,11
-virtuell - Holzmarktstraße/Krautstraße,0,4.0,Berlin,Germany,11
+virtuell - Holzmarktstraße/Krautstraße,1,3.0,Berlin,Germany,11
 Jelbi Charité Campus Mitte / Rahel-Hirsch-Weg (MIT/RA),1,7.0,Berlin,Germany,11
 Jelbi Dircksenstraße/Rochstraße (MIT/DR),0,8.0,Berlin,Germany,11
 virtuell - Königstraße (Immanuel Krankenhaus Berlin),0,4.0,Berlin,Germany,11
@@ -342,8 +342,8 @@ virtuell - S+U Neukölln (Süd),1,4.0,Berlin,Germany,11
 virtuell – Lohmühlenstraße/Karl-Kunger-Straße,0,4.0,Berlin,Germany,11
 virtuell - Lichtenberger Straße/Palisadenstraße,0,4.0,Berlin,Germany,11
 virtuell - Möllendorffstraße/Kielblockstraße,0,4.0,Berlin,Germany,11
-virtuell - Rudower Straße/Möwenweg (Ida Wolff Krankenhaus),0,4.0,Berlin,Germany,11
-virtuell - Hochschule für Wirtschaft und Recht (Badensche Straße),1,3.0,Berlin,Germany,11
+virtuell - Rudower Straße/Möwenweg (Ida Wolff Krankenhaus),1,3.0,Berlin,Germany,11
+virtuell - Hochschule für Wirtschaft und Recht (Badensche Straße),0,4.0,Berlin,Germany,11
 virtuell - EDEKA Berkaer Straße,2,2.0,Berlin,Germany,11
 virtuell - Filehner Straße (Gehsener Straße),0,4.0,Berlin,Germany,11
 virtuell - Hermann-Blankenstein-Straße/Walter-Friedländer-Straße,0,4.0,Berlin,Germany,11
@@ -355,7 +355,7 @@ virtuell - Tempelherrenstraße/Wilmsstraße,2,2.0,Berlin,Germany,11
 virtuell - Am Fischtal (Riemeisterstraße),3,1.0,Berlin,Germany,11
 virtuell - EDEKA Templiner Straße,2,2.0,Berlin,Germany,11
 virtuell - M Bernhard-Bästlein-Straße (Herzbergstraße),2,2.0,Berlin,Germany,11
-virtuell - Lückstraße/Emanuelstraße,3,1.0,Berlin,Germany,11
+virtuell - Lückstraße/Emanuelstraße,2,2.0,Berlin,Germany,11
 virtuell - Janusz-Korczak-Straße (Lyonel-Feininger-Straße),1,3.0,Berlin,Germany,11
 virtuell - Neue Bahnhofstraße/Boxhagener Straße (Nord),0,4.0,Berlin,Germany,11
 virtuell - Heckerdamm/Jungfernheideweg,1,3.0,Berlin,Germany,11
@@ -374,14 +374,14 @@ virtuell - Niemegker Straße (Wittenberger Straße),0,4.0,Berlin,Germany,11
 Wühlischstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,1,11.0,Berlin,Germany,11
 virtuell - Neue Christstraße/Nehringstraße,4,0.0,Berlin,Germany,11
 virtuell - U Adenauerplatz (Südwest),2,2.0,Berlin,Germany,11
-virtuell - S Ostkreuz (Südwest),0,6.0,Berlin,Germany,11
+virtuell - S Ostkreuz (Südwest),1,5.0,Berlin,Germany,11
 Köpenicker Landstraße/Baumschulenstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,2,6.0,Berlin,Germany,11
 virtuell - Sachsendamm (A100),2,3.0,Berlin,Germany,11
 virtuell - Gartenstraße/Bernauer Straße,0,4.0,Berlin,Germany,11
 U Berliner Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,9.0,Berlin,Germany,11
 Jelbi Grützmacherweg (HAS/GR),0,5.0,Berlin,Germany,11
 virtuell - EDEKA Center Niemann (Blankenburger Straße),1,3.0,Berlin,Germany,11
-virtuell - Neue Hochstraße/Grenzstraße,1,3.0,Berlin,Germany,11
+virtuell - Neue Hochstraße/Grenzstraße,0,4.0,Berlin,Germany,11
 virtuell - Oranienplatz/Dresdener Straße,0,4.0,Berlin,Germany,11
 virtuell - Franklinstraße/Glutenbergstraße,1,3.0,Berlin,Germany,11
 virtuell - Güntzelstraße/Prinzregentenstraße,2,2.0,Berlin,Germany,11
@@ -392,7 +392,7 @@ virtuell - U Schwartzkopffstraße,1,3.0,Berlin,Germany,11
 virtuell - Stadtbad Lankwitz,1,3.0,Berlin,Germany,11
 virtuell - Columbiadamm/Friesenstraße,0,4.0,Berlin,Germany,11
 virtuell - Anna-Seghers-Straße/Silberberger Straße,0,4.0,Berlin,Germany,11
-virtuell - Schwäbische Straße/Barbarossastraße,1,3.0,Berlin,Germany,11
+virtuell - Schwäbische Straße/Barbarossastraße,0,4.0,Berlin,Germany,11
 U Weberwiese | BONUS-Station: Return(Rückgabe) here=15 mins free,0,7.0,Berlin,Germany,11
 virtuell - Kommandantenstraße/Axel-Springer-Straße,0,4.0,Berlin,Germany,11
 Schwimmbad Seestraße | BONUS-Station: Return(Rückgabe) here=15 mins free,1,9.0,Berlin,Germany,11
@@ -422,13 +422,13 @@ virtuell – Thomasstraße/Rübelandstraße,1,3.0,Berlin,Germany,11
 U Gneisenaustraße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,7.0,Berlin,Germany,11
 virtuell - Ebereschenallee/Eschenallee,0,4.0,Berlin,Germany,11
 virtuell - Klingsorstraße/Birkbuschstraße,0,4.0,Berlin,Germany,11
-virtuell - M Simplonstraße (Wühlischstraße),6,0.0,Berlin,Germany,11
+virtuell - M Simplonstraße (Wühlischstraße),3,1.0,Berlin,Germany,11
 virtuell - Alt-Buckow/Buckower Damm,0,4.0,Berlin,Germany,11
 virtuell - Bruno-Wille-Straße/Rahnsdorfer Straße,0,4.0,Berlin,Germany,11
 virtuell - Schorfheidestraße/Eichhorster Weg,0,6.0,Berlin,Germany,11
-virtuell - Pariser Straße/Fasanenstraße,1,3.0,Berlin,Germany,11
+virtuell - Pariser Straße/Fasanenstraße,0,4.0,Berlin,Germany,11
 virtuell - Alt-Moabit/Elberfelder Straße,1,3.0,Berlin,Germany,11
-virtuell - Auguststraße/Tucholskystraße,7,0.0,Berlin,Germany,11
+virtuell - Auguststraße/Tucholskystraße,8,0.0,Berlin,Germany,11
 virtuell - Badstraße/Exerzierstraße,0,4.0,Berlin,Germany,11
 virtuell - Quedlinburger Straße/Ilsenburger Straße,0,4.0,Berlin,Germany,11
 virtuell - U Sophie-Charlotte-Platz (Nord),1,3.0,Berlin,Germany,11
@@ -475,7 +475,7 @@ virtuell - Straßmannstraße/Petersburger Platz,0,4.0,Berlin,Germany,11
 virtuell - U Louis-Lewin-Straße (Nord),1,3.0,Berlin,Germany,11
 virtuell - Herrstraße/Ragniter Allee,1,3.0,Berlin,Germany,11
 virtuell - EDEKA Lenkeit (Rixdorfer Straße),1,3.0,Berlin,Germany,11
-virtuell - Kottbuser Damm/Boppstraße,2,2.0,Berlin,Germany,11
+virtuell - Kottbuser Damm/Boppstraße,3,1.0,Berlin,Germany,11
 virtuell - Oudenarder Straße/Groninger Straße,2,2.0,Berlin,Germany,11
 virtuell - Daumstraße/Gartenfelder Straße,0,4.0,Berlin,Germany,11
 virtuell - EDEKA Stadie (Prager Platz),2,2.0,Berlin,Germany,11
@@ -513,7 +513,7 @@ virtuell - Glockenturmstraße/Angerburger Allee,1,3.0,Berlin,Germany,11
 virtuell - Kaiser-Wilhelm-Straße/Alt-Lankwitz,1,3.0,Berlin,Germany,11
 Jelbi Zimmerstraße (MIT/ZI),0,6.0,Berlin,Germany,11
 virtuell - Kastanienallee (Prater Biergarten),0,4.0,Berlin,Germany,11
-virtuell - M Albertinenstraße (Pistoriusstraße),1,3.0,Berlin,Germany,11
+virtuell - M Albertinenstraße (Pistoriusstraße),0,4.0,Berlin,Germany,11
 virtuell - Pichelswerder (Heerstraße),1,3.0,Berlin,Germany,11
 virtuell - S Treptower Park (Südwest),1,4.0,Berlin,Germany,11
 Straßburger Straße/Belforter Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,10.0,Berlin,Germany,11
@@ -539,7 +539,7 @@ virtuell - Regensburger Straße/Ansbacher Straße,0,4.0,Berlin,Germany,11
 Jelbi Allerstraße/Weisestraße (NEU/AW),1,3.0,Berlin,Germany,11
 virtuell - S Stresow,0,4.0,Berlin,Germany,11
 virtuell - S+U Alexanderplatz (Karl-Liebknecht-Straße/Panoramastraße),0,4.0,Berlin,Germany,11
-U Moritzplatz | BONUS-Station: Return(Rückgabe) here=15 mins free,0,10.0,Berlin,Germany,11
+U Moritzplatz | BONUS-Station: Return(Rückgabe) here=15 mins free,1,9.0,Berlin,Germany,11
 virtuell - U Heinrich-Heine-Straße (Abstellfläche-Mikromobilität),4,2.0,Berlin,Germany,11
 virtuell - Blockdammweg/Ehrlichstraße,1,3.0,Berlin,Germany,11
 virtuell - Sangeallee/Wallensteinstraße,0,4.0,Berlin,Germany,11
@@ -550,9 +550,9 @@ virtuell - Konstanzer Straße/Düsseldorfer Straße ,1,3.0,Berlin,Germany,11
 virtuell - Blumberger Damm/Mehrower Allee,0,4.0,Berlin,Germany,11
 virtuell - S+U Yorckstraße (West),0,4.0,Berlin,Germany,11
 virtuell - M Roederplatz (Weißenseer Weg),1,3.0,Berlin,Germany,11
-virtuell - Frankfurter Allee/Stasi (Abstellfläche-Mikromobilität),1,5.0,Berlin,Germany,11
+virtuell - Frankfurter Allee/Stasi (Abstellfläche-Mikromobilität),2,4.0,Berlin,Germany,11
 virtuell - Fürstenwalder Allee/Fahlenbergstraße,0,4.0,Berlin,Germany,11
-virtuell - Zachertstraße/Lincolnstraße,1,3.0,Berlin,Germany,11
+virtuell - Zachertstraße/Lincolnstraße,0,4.0,Berlin,Germany,11
 virtuell - S Bornholmer Straße (Ost),0,4.0,Berlin,Germany,11
 virtuell - S Tegel (Ost),0,4.0,Berlin,Germany,11
 virtuell - Gernotstraße/Gudrunstraße,0,4.0,Berlin,Germany,11
@@ -573,7 +573,7 @@ virtuell - M Oberseestraße (Konrad-Wolf-Straße),0,4.0,Berlin,Germany,11
 virtuell - Fürstenwalder Allee/Schule,0,4.0,Berlin,Germany,11
 virtuell - Schulenburgring/Bayernring,1,3.0,Berlin,Germany,11
 virtuell - U Theodor-Heuss-Platz (Kaiserdamm/Ahornallee),4,0.0,Berlin,Germany,11
-virtuell - EDEKA Friedrichsstraße (Franz-Klühs-Straße),1,3.0,Berlin,Germany,11
+virtuell - EDEKA Friedrichsstraße (Franz-Klühs-Straße),2,2.0,Berlin,Germany,11
 virtuell - Rudolstädter Straße (Gretel-Bergmann-Sporthalle),1,3.0,Berlin,Germany,11
 virtuell - Brauhofstraße/Otto-Suhr-Allee,0,4.0,Berlin,Germany,11
 virtuell - Boxhagener Straße/Niederbarnimstraße,3,1.0,Berlin,Germany,11
@@ -584,7 +584,7 @@ virtuell - Fürstenwalder Allee/Hochlandstraße,1,3.0,Berlin,Germany,11
 virtuell - Rigaerstraße/Proskauer Straße,0,4.0,Berlin,Germany,11
 virtuell - Wittstocker Straße/Berlichingenstraße,0,4.0,Berlin,Germany,11
 Wrangelstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,5,8.0,Berlin,Germany,11
-virtuell - U Mierendorffplatz (Nordwest),0,4.0,Berlin,Germany,11
+virtuell - U Mierendorffplatz (Nordwest),1,3.0,Berlin,Germany,11
 Jelbi S+U Lichtenberg (RUM/LIB),2,8.0,Berlin,Germany,11
 virtuell - S Treptower Park (Martin-Hoffmann-Straße),0,4.0,Berlin,Germany,11
 virtuell - S Bundesplatz (Nordost),0,4.0,Berlin,Germany,11
@@ -614,7 +614,7 @@ virtuell - Limastraße/Elvirasteig,1,3.0,Berlin,Germany,11
 virtuell - Hans-Poelzig-Straße/Sigmund-Bergmann-Straße (Fähre),0,4.0,Berlin,Germany,11
 virtuell - Hagenplatz,0,3.0,Berlin,Germany,11
 virtuell - Charlottenbrunner Straße/Orber Straße,2,2.0,Berlin,Germany,11
-virtuell - Lahnstraße/Neuköllnische Brücke,5,0.0,Berlin,Germany,11
+virtuell - Lahnstraße/Neuköllnische Brücke,6,0.0,Berlin,Germany,11
 virtuell - Cantianstraße/Milastraße,0,4.0,Berlin,Germany,11
 virtuell - Eschenbachstraße/Trojanstraße,0,4.0,Berlin,Germany,11
 virtuell - Mittelheide/Uhlenhorster Straße,0,4.0,Berlin,Germany,11
@@ -627,7 +627,7 @@ virtuell - Simplonstraße/Revaler Straße,0,4.0,Berlin,Germany,11
 virtuell - Senefelderstraße/Göhrener Straße ,0,4.0,Berlin,Germany,11
 virtuell - Gerlindeweg (Friederikestraße),0,4.0,Berlin,Germany,11
 virtuell - M Rummelsburger Straße/Edisonstraße,0,4.0,Berlin,Germany,11
-Jelbi S+U Potsdamer Platz (MIT/PO),1,8.0,Berlin,Germany,11
+Jelbi S+U Potsdamer Platz (MIT/PO),1,9.0,Berlin,Germany,11
 virtuell - Wittenbergplatz (Goltzstraße),0,4.0,Berlin,Germany,11
 virtuell - Amtsgerichtsplatz,1,3.0,Berlin,Germany,11
 Jelbi Daumstraße/Rhenaniastraße (HAS/DRS),0,5.0,Berlin,Germany,11
@@ -684,7 +684,7 @@ virtuell - Helene-Jacobs-Straße/Kissinger Straße,3,1.0,Berlin,Germany,11
 virtuell - U Ruhleben (Nordwest),0,4.0,Berlin,Germany,11
 virtuell - Lewishamstraße/Waitzstraße,0,4.0,Berlin,Germany,11
 virtuell - Bethaniendamm/Engeldamm,1,3.0,Berlin,Germany,11
-virtuell - U Gneisenaustraße (Zossener Straße),1,3.0,Berlin,Germany,11
+virtuell - U Gneisenaustraße (Zossener Straße),0,4.0,Berlin,Germany,11
 virtuell - Marzahner Chausee/Zur alten Börse,0,4.0,Berlin,Germany,11
 virtuell - S Schlachtensee (Nord),1,3.0,Berlin,Germany,11
 virtuell - Grunewaldstraße/Gothaer Straße,1,3.0,Berlin,Germany,11
@@ -699,7 +699,7 @@ virtuell - Technologiepark Humboldthain,0,4.0,Berlin,Germany,11
 virtuell - M Jenaer Straße (Riesaer Straße/Süd),0,4.0,Berlin,Germany,11
 virtuell - Mainzer Straße/Bundesallee,1,3.0,Berlin,Germany,11
 virtuell - U Britz-Süd (Ost),0,4.0,Berlin,Germany,11
-Jelbi-Punkt U Mohrenstraße (MIT/MS),1,9.0,Berlin,Germany,11
+Jelbi-Punkt U Mohrenstraße (MIT/MS),0,10.0,Berlin,Germany,11
 virtuell - Alt-Stralau/Tunnelstraße,6,0.0,Berlin,Germany,11
 virtuell - U Biesdorf-Süd (Nord),2,2.0,Berlin,Germany,11
 virtuell - Märkische Allee/Wuhletalstraße,0,4.0,Berlin,Germany,11
@@ -728,7 +728,7 @@ virtuell - Rumeyplan (Boelckestraße),0,4.0,Berlin,Germany,11
 virtuell - Martin-Luther-Straße (Rudolph-Wilde-Park),0,4.0,Berlin,Germany,11
 virtuell - Palisadenstraße/Koppenstraße,2,2.0,Berlin,Germany,11
 virtuell - Seestraße (Heideglühen/Ost),0,4.0,Berlin,Germany,11
-Jelbi S Buch/P+R-Parkplatz (BUC/BP),57,0.0,Berlin,Germany,11
+Jelbi S Buch/P+R-Parkplatz (BUC/BP),50,0.0,Berlin,Germany,11
 virtuell - Olbersstraße/Scheinerweg,1,3.0,Berlin,Germany,11
 virtuell - Kaiserin-Augusta-Straße/Friedrich-Franz-Straße,0,4.0,Berlin,Germany,11
 virtuell - Brandenburgische Straße/Paulsborner Straße,1,3.0,Berlin,Germany,11
@@ -802,7 +802,7 @@ virtuell - U Sophie-Charlotte-Platz (Südost),0,4.0,Berlin,Germany,11
 virtuell - JVA Plötzensee,0,4.0,Berlin,Germany,11
 virtuell - Meyerinckplatz (Süd),2,2.0,Berlin,Germany,11
 virtuell - M Greifswalder Straße/Danziger Straße (Eugen-Schönhaar-Straße),1,3.0,Berlin,Germany,11
-virtuell - U Spittelmarkt (Ost),1,5.0,Berlin,Germany,11
+virtuell - U Spittelmarkt (Ost),2,4.0,Berlin,Germany,11
 virtuell - M Greifswalder Straße/Danziger Straße (Ost),0,4.0,Berlin,Germany,11
 virtuell - Bernauer Straße/Ruppiner Straße,0,4.0,Berlin,Germany,11
 virtuell - S Nöldnerplatz (Leopoldstraße),1,3.0,Berlin,Germany,11
@@ -811,7 +811,7 @@ virtuell - Heidestraße/Hedwig-Porschütz-Straße,0,4.0,Berlin,Germany,11
 virtuell - Crellestraße/Langenscheidtbrücke,0,4.0,Berlin,Germany,11
 virtuell - Tiergartenstraße (Hildenbrandstraße),1,3.0,Berlin,Germany,11
 virtuell - Berliner Straße/Lindenallee,0,4.0,Berlin,Germany,11
-virtuell - Dammweg/Orionstraße,4,0.0,Berlin,Germany,11
+virtuell - Dammweg/Orionstraße,2,2.0,Berlin,Germany,11
 U Ernst-Reuter-Platz | BONUS-Station: Return(Rückgabe) here=15 mins free,0,14.0,Berlin,Germany,11
 virtuell - Herrstraße (Malteser-Krankenhaus),0,4.0,Berlin,Germany,11
 virtuell - Rüdersdorfer Straße/Fredersdorfer Straße,0,4.0,Berlin,Germany,11
@@ -821,9 +821,9 @@ Jelbi Johann-Hittorf-Str. (ADL/JH),0,4.0,Berlin,Germany,11
 virtuell - Choriner Straße/Lottumstraße,2,2.0,Berlin,Germany,11
 virtuell - Hohenzollerndamm/Nikolsburger Straße,0,4.0,Berlin,Germany,11
 Jelbi U Friedrich-Wilhelm Platz/Wiesbadenerstr. (FRI/WI),0,7.0,Berlin,Germany,11
-virtuell - Ohlauer Straße/Reichenberger Straße,3,1.0,Berlin,Germany,11
+virtuell - Ohlauer Straße/Reichenberger Straße,4,0.0,Berlin,Germany,11
 virtuell - M Alt-Marzahn (Allee der Kosmonauten),2,2.0,Berlin,Germany,11
-virtuell - Reichenberger Straße/Glogauer Straße,4,0.0,Berlin,Germany,11
+virtuell - Reichenberger Straße/Glogauer Straße,3,1.0,Berlin,Germany,11
 virtuell - Bismarckstraße/Fritschestraße,0,4.0,Berlin,Germany,11
 virtuell - Gleimstraße/Schönhauser Allee,0,4.0,Berlin,Germany,11
 virtuell - Oberspreestraße/Johanna-Tesch-Straße,1,3.0,Berlin,Germany,11
@@ -833,7 +833,7 @@ virtuell - Darmstädter Straße/Württembergische Straße,0,4.0,Berlin,Germany,1
 virtuell - Hauptstraße/Lauterstraße,1,3.0,Berlin,Germany,11
 virtuell - Tongaweg (Papenberger Weg),0,4.0,Berlin,Germany,11
 virtuell - Ginkgoweg (Springbornstraße),0,4.0,Berlin,Germany,11
-S Plänterwald | BONUS-Station: Return(Rückgabe) here=15 mins free,6,1.0,Berlin,Germany,11
+S Plänterwald | BONUS-Station: Return(Rückgabe) here=15 mins free,9,0.0,Berlin,Germany,11
 virtuell - Eulerstraße/Klever Straße,0,4.0,Berlin,Germany,11
 virtuell - Wiesenwinkel (Friedrich-Engels-Straße),0,4.0,Berlin,Germany,11
 virtuell - M Brückenstraße (Spreestraße),0,4.0,Berlin,Germany,11
@@ -854,7 +854,7 @@ virtuell - S+U Innsbrucker Platz (Voßbergstraße),1,3.0,Berlin,Germany,11
 Jelbi Mariannenstraße/ Skalitzer Straße (KRE/MA),0,6.0,Berlin,Germany,11
 virtuell - Dubliner Straße (Holländerstraße),0,4.0,Berlin,Germany,11
 virtuell - Seestraße/Antwerper Straße,0,4.0,Berlin,Germany,11
-S+U Alexanderplatz (Dircksenstraße) | BONUS-Station: Return(Rückgabe) here=15 mins free,2,11.0,Berlin,Germany,11
+S+U Alexanderplatz (Dircksenstraße) | BONUS-Station: Return(Rückgabe) here=15 mins free,1,12.0,Berlin,Germany,11
 virtuell - Olivaer Platz (Südost),1,3.0,Berlin,Germany,11
 Am Tempelhofer Feld | BONUS-Station: Return(Rückgabe) here=15 mins free,0,8.0,Berlin,Germany,11
 Columbiadamm | BONUS-Station: Return(Rückgabe) here=15 mins free,0,1.0,Berlin,Germany,11
@@ -894,7 +894,7 @@ Jelbi Charité Campus Benjamin Franklin - Eingang Nord (LIC/EI),0,4.0,Berlin,Ger
 Jelbi S+U Zoologischer Garten/Hardenbergplatz (CHA/HA),1,7.0,Berlin,Germany,11
 virtuell - Fraunhoferstraße/Marchstraße,0,4.0,Berlin,Germany,11
 virtuell - Merseburger Straße/Wartburgstraße,0,4.0,Berlin,Germany,11
-virtuell - Proskauer Straße/Frankfurter Allee,4,0.0,Berlin,Germany,11
+virtuell - Proskauer Straße/Frankfurter Allee,3,1.0,Berlin,Germany,11
 virtuell - U Naturkundemuseum (West),1,3.0,Berlin,Germany,11
 virtuell - U Mehringdamm (Gneisenaustraße/Süd),1,3.0,Berlin,Germany,11
 Jelbi Mohrenstraße/Friedrichstraße (MIT/MO),1,7.0,Berlin,Germany,11
@@ -916,7 +916,7 @@ virtuell - Schönhauser Allee/Torstraße,0,4.0,Berlin,Germany,11
 U Hallesches Tor | BONUS-Station: Return(Rückgabe) here=15 mins free,0,7.0,Berlin,Germany,11
 virtuell - U Krumme Lanke (EDEKA Zahl),0,3.0,Berlin,Germany,11
 virtuell - S Lichterfelde Ost (Jungfernstieg),0,4.0,Berlin,Germany,11
-Ruschestraße | BONUS-Station: Return(Rückgabe) here=15 mins free ,1,8.0,Berlin,Germany,11
+Ruschestraße | BONUS-Station: Return(Rückgabe) here=15 mins free ,0,9.0,Berlin,Germany,11
 Jelbi Schillerpromenade/Leinenstraße (NEU/SL),0,4.0,Berlin,Germany,11
 U Tierpark | BONUS-Station: Return(Rückgabe) here=15 mins free,1,9.0,Berlin,Germany,11
 virtuell - Badensche Straße/Innsbrucker Straße,1,3.0,Berlin,Germany,11
@@ -948,7 +948,7 @@ virtuell - Weserstaße/Finowstraße,2,2.0,Berlin,Germany,11
 virtuell - Wismarplatz/Kinzigstraße,2,2.0,Berlin,Germany,11
 virtuell - Alliiertenmuseum (Clayallee),0,4.0,Berlin,Germany,11
 Jelbi Haselhorster Damm/Gartenfelder Straße (HAS/HA),1,4.0,Berlin,Germany,11
-Joachim-Friedrich-Str./KuDamm | BONUS-Station: Return(Rückgabe) here=15 mins free,1,4.0,Berlin,Germany,11
+Joachim-Friedrich-Str./KuDamm | BONUS-Station: Return(Rückgabe) here=15 mins free,0,5.0,Berlin,Germany,11
 virtuell - Viktoriapark (Kreuzbergstraße),0,4.0,Berlin,Germany,11
 virtuell - Auerstraße/Löwestraße,1,3.0,Berlin,Germany,11
 virtuell - Große-Leege-Straße/Freienwalder Straße,0,4.0,Berlin,Germany,11
@@ -1008,28 +1008,28 @@ virtuell - Mariendorfer Damm/Buckower Chaussee,0,4.0,Berlin,Germany,11
 virtuell - Robert-Siewert-Straße/Kötzinger Straße,0,4.0,Berlin,Germany,11
 virtuell - Uhlandstraße/Lietzenburger Straße,2,2.0,Berlin,Germany,11
 virtuell - Parchimer Allee/Paster-Behrens-Straße,0,4.0,Berlin,Germany,11
-virtuell - U Schlesisches Tor (Ost),0,4.0,Berlin,Germany,11
+virtuell - U Schlesisches Tor (Ost),1,3.0,Berlin,Germany,11
 virtuell - Helleberge (Kladower Damm),0,4.0,Berlin,Germany,11
 virtuell - Bozener Straße (Süd),0,4.0,Berlin,Germany,11
 virtuell - EDEKA Schnelle (Eckertstraße),1,3.0,Berlin,Germany,11
-virtuell - Invalidenstraße (Sandkrugbrücke),0,4.0,Berlin,Germany,11
+virtuell - Invalidenstraße (Sandkrugbrücke),1,3.0,Berlin,Germany,11
 virtuell - Ostseestraße/Gubitzstraße,0,4.0,Berlin,Germany,11
 virtuell - Gierkezeile/Gierkeplatz,0,4.0,Berlin,Germany,11
 virtuell - Olbersstraße/Herschelstraße,2,2.0,Berlin,Germany,11
 virtuell - Elberfelder Straße/Dortmunder Straße,1,3.0,Berlin,Germany,11
 virtuell - Frankfurter Allee/Wilhelm-Guddorf-Straße,0,4.0,Berlin,Germany,11
-virtuell - M Mollstraße/Prenzlauer Allee,1,1.0,Berlin,Germany,11
+virtuell - M Mollstraße/Prenzlauer Allee,0,2.0,Berlin,Germany,11
 virtuell - Kiehlufer/Elsenstraße,2,2.0,Berlin,Germany,11
 virtuell - Bellermannstraße/Heidebrinker Straße,0,3.0,Berlin,Germany,11
-virtuell - Bödikerstraße/Corinthstraße,3,1.0,Berlin,Germany,11
+virtuell - Bödikerstraße/Corinthstraße,1,3.0,Berlin,Germany,11
 virtuell - Schloßstraße/Muthesiusstraße,0,4.0,Berlin,Germany,11
 virtuell - Müggelheimer Damm (Ludwigshöheweg),0,4.0,Berlin,Germany,11
 virtuell - Frankfurter Allee/Kinzigstraße,1,3.0,Berlin,Germany,11
 virtuell - Kaiser-Wilhelm-Straße/Paul-Schneider-Straße,1,3.0,Berlin,Germany,11
-virtuell - Seestraße/Afrikanische Straße,2,4.0,Berlin,Germany,11
+virtuell - Seestraße/Afrikanische Straße,1,5.0,Berlin,Germany,11
 Jelbi U Mierendorffplatz (CHA/MI),0,10.0,Berlin,Germany,11
 virtuell - Aßmannstraße/Ahornallee,0,4.0,Berlin,Germany,11
-virtuell - Silbersteinstraße/Walterstraße,1,3.0,Berlin,Germany,11
+virtuell - Silbersteinstraße/Walterstraße,0,4.0,Berlin,Germany,11
 virtuell - Buchberger Straße/Schulze-Boysen-Straße,4,0.0,Berlin,Germany,11
 virtuell - Alt-Karow/Bahnhofstraße,1,5.0,Berlin,Germany,11
 virtuell - Landsberger Allee/Raoul-Wallenberg-Straße,0,4.0,Berlin,Germany,11
@@ -1043,8 +1043,8 @@ virtuell - Filehner Straße/Wongrowitzer Steig,0,4.0,Berlin,Germany,11
 virtuell - Hertha-Block-Promenade/Wilhelm-Kabus-Straße,0,4.0,Berlin,Germany,11
 virtuell - Greifswalder Straße/Christburger Straße,1,3.0,Berlin,Germany,11
 virtuell - Boelckestraße/Hessenring,1,3.0,Berlin,Germany,11
-virtuell - Gitschiner Straße/Alexandrinenstraße,6,0.0,Berlin,Germany,11
-Luisenstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,1,21.0,Berlin,Germany,11
+virtuell - Gitschiner Straße/Alexandrinenstraße,8,0.0,Berlin,Germany,11
+Luisenstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,2,20.0,Berlin,Germany,11
 virtuell - Bugenhagenstraße/Bremer Straße,3,1.0,Berlin,Germany,11
 virtuell - Onkel-Tom-Straße/Sven-Hedin-Straße,0,4.0,Berlin,Germany,11
 virtuell - Ueckermünder Straße/Malmöer Straße,1,2.0,Berlin,Germany,11
@@ -1057,7 +1057,7 @@ virtuell - EDEKA Sapphire,1,3.0,Berlin,Germany,11
 virtuell - EDEKA Schaaf (Schillingstraße),1,3.0,Berlin,Germany,11
 virtuell - Böhmische Straße/Zwiestädter Straße,1,3.0,Berlin,Germany,11
 Jelbi Fuggerstraße/Martin-Luther-Straße (SCH/FU),0,6.0,Berlin,Germany,11
-virtuell - DB Mobility Hub Berlin Charlottenburg,1,5.0,Berlin,Germany,11
+virtuell - DB Mobility Hub Berlin Charlottenburg,4,2.0,Berlin,Germany,11
 virtuell - Eisenbahnstraße/Muskauer Straße,1,3.0,Berlin,Germany,11
 virtuell - Joachim-Friedrich-Straße/Seesener Straße,0,4.0,Berlin,Germany,11
 virtuell - Betonwerk (Grunauer Straße),0,4.0,Berlin,Germany,11
@@ -1071,7 +1071,7 @@ virtuell - Schönhauser Allee/Bornholmer Straße,1,3.0,Berlin,Germany,11
 virtuell - Bergstraße/Torstraße,0,4.0,Berlin,Germany,11
 virtuell - Sterndamm/Winckelmannstraße,0,4.0,Berlin,Germany,11
 virtuell - Am Wasserturm (Tino-Schwierzina-Straße),0,4.0,Berlin,Germany,11
-Winterfeldtstraße/Frobenstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,1,8.0,Berlin,Germany,11
+Winterfeldtstraße/Frobenstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,2,7.0,Berlin,Germany,11
 virtuell - Schwedter Straße/Kopenhagener Straße,0,4.0,Berlin,Germany,11
 Nettelbeckplatz | BONUS-Station: Return(Rückgabe) here=15 mins free,1,9.0,Berlin,Germany,11
 virtuell - Ludwig-Boltzmann-Straße/Schwarzschildstraße,0,4.0,Berlin,Germany,11
@@ -1096,7 +1096,7 @@ virtuell - Clayallee/Oskar-Helene-Park,0,4.0,Berlin,Germany,11
 virtuell - M Riesaer Straße (Wendeschleife),0,4.0,Berlin,Germany,11
 Rüdersdorfer Straße/Straße der Pariser | BONUS-Station: Return(Rückgabe) here=15 mins free Kommune,6,4.0,Berlin,Germany,11
 Kniprodestraße/Storkower Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,9.0,Berlin,Germany,11
-Jelbi Hasenheide/Graefestraße (KRE/HA),4,0.0,Berlin,Germany,11
+Jelbi Hasenheide/Graefestraße (KRE/HA),3,1.0,Berlin,Germany,11
 virtuell - Badensche Straße/Gerdauer Straße,1,3.0,Berlin,Germany,11
 virtuell - Kastanienallee (Spandauer Damm),2,2.0,Berlin,Germany,11
 virtuell - Geygerstraße,2,2.0,Berlin,Germany,11
@@ -1106,7 +1106,7 @@ virtuell - Werrastraße/Roseggerstraße,1,3.0,Berlin,Germany,11
 virtuell - S Südkreuz (Südost),0,4.0,Berlin,Germany,11
 virtuell - Sonnenallee/Mareschstraße,2,2.0,Berlin,Germany,11
 virtuell - Mellenseestraße (25),0,4.0,Berlin,Germany,11
-virtuell – Donaustraße/Pannierstraße,2,2.0,Berlin,Germany,11
+virtuell – Donaustraße/Pannierstraße,1,3.0,Berlin,Germany,11
 virtuell - Janitzkystraße (Hirtestraße),0,4.0,Berlin,Germany,11
 virtuell - Rudower Straße/Zadekstraße (Ida Wolff Krankenhaus),0,4.0,Berlin,Germany,11
 virtuell - U Speicherstraße (Pariser Straße),0,4.0,Berlin,Germany,11
@@ -1114,7 +1114,7 @@ virtuell - Helene-Weigel-Platz (Springpfuhl-Passage),0,4.0,Berlin,Germany,11
 virtuell - Schönhauser Straße/Friedrichruher Straße,0,4.0,Berlin,Germany,11
 virtuell - Rathenaustraße/Slabystraße,1,3.0,Berlin,Germany,11
 virtuell - S+U Alexanderplatz (Rathausstraße),0,4.0,Berlin,Germany,11
-virtuell - Schlesische Straße/Heckmannufer,1,3.0,Berlin,Germany,11
+virtuell - Schlesische Straße/Heckmannufer,3,1.0,Berlin,Germany,11
 virtuell - Narkauer Weg (Waltersdorfer Chaussee),0,4.0,Berlin,Germany,11
 virtuell - Lohmestraße (Stubnitzstraße),0,4.0,Berlin,Germany,11
 Calvinstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,6,4.0,Berlin,Germany,11
@@ -1123,7 +1123,7 @@ virtuell - Franz-Klühs-Straße/Lindenstraße,1,3.0,Berlin,Germany,11
 virtuell - Kleiner Tiergarten (Alt-Moabit),4,0.0,Berlin,Germany,11
 virtuell - Marie-Curie-Allee/Münsterlandstraße,0,4.0,Berlin,Germany,11
 virtuell - Westfällische Straße/Konstanzer Straße,0,4.0,Berlin,Germany,11
-S Friedrichsfelde Ost | BONUS-Station: Return(Rückgabe) here=15 mins free,2,6.0,Berlin,Germany,11
+S Friedrichsfelde Ost | BONUS-Station: Return(Rückgabe) here=15 mins free,1,7.0,Berlin,Germany,11
 virtuell - Steinplatz/Goldmannpark,0,4.0,Berlin,Germany,11
 virtuell - Boxhagener Straße (64),0,4.0,Berlin,Germany,11
 virtuell - Ehrenbergstraße/Rudolfstraße,0,4.0,Berlin,Germany,11
@@ -1138,7 +1138,7 @@ virtuell - U Johannisthaler Chaussee,5,0.0,Berlin,Germany,11
 virtuell - Masurenstraße,0,4.0,Berlin,Germany,11
 virtuell - U Halemweg,0,4.0,Berlin,Germany,11
 virtuell - Pichelsdorfer Straße/Weißenburger Straße,0,4.0,Berlin,Germany,11
-virtuell - Kurfürstendamm/Cicerostraße,1,3.0,Berlin,Germany,11
+virtuell - Kurfürstendamm/Cicerostraße,2,2.0,Berlin,Germany,11
 virtuell - Stresemannstraße/Hallesche Straße,1,3.0,Berlin,Germany,11
 virtuell - Lettestraße/Schliemannstraße,0,4.0,Berlin,Germany,11
 virtuell - Franz-Körner-Straße/Rungiusstraße,0,4.0,Berlin,Germany,11
@@ -1161,7 +1161,7 @@ virtuell - Kucharskistraße/Pascalstraße,2,2.0,Berlin,Germany,11
 virtuell - Prenzlauer Allee/Ostseestraße (Süd),0,4.0,Berlin,Germany,11
 virtuell - S Marienfelde (West),0,4.0,Berlin,Germany,11
 virtuell - Adalbertstraße (Adalbertbrücke),0,4.0,Berlin,Germany,11
-virtuell - Wohnheim Coppistraße Hans und Hilde Coppi (Nord),7,0.0,Berlin,Germany,11
+virtuell - Wohnheim Coppistraße Hans und Hilde Coppi (Nord),6,0.0,Berlin,Germany,11
 virtuell - Boxhagener Straße/Simon-Dach-Straße,0,4.0,Berlin,Germany,11
 Pannierstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,2,8.0,Berlin,Germany,11
 virtuell - U Adenauerplatz (Nordost),0,4.0,Berlin,Germany,11
@@ -1175,9 +1175,9 @@ virtuell - U Südstern (Lilienthalstraße),1,3.0,Berlin,Germany,11
 virtuell - EDEKA Schaaf (Riesaer Straße),0,4.0,Berlin,Germany,11
 virtuell - M Werneuchener Straße (Konrad-Wolf-Straße),1,3.0,Berlin,Germany,11
 virtuell - U Altstadt Spandau,0,4.0,Berlin,Germany,11
-virtuell - Heckmannufer,3,1.0,Berlin,Germany,11
+virtuell - Heckmannufer,2,2.0,Berlin,Germany,11
 virtuell - Seydlitzstr (Lehrter Straße/Süd),1,3.0,Berlin,Germany,11
-virtuell - Alt-Stralau (Elsenbrücke),3,1.0,Berlin,Germany,11
+virtuell - Alt-Stralau (Elsenbrücke),2,2.0,Berlin,Germany,11
 Jelbi Marschallbrücke (MIT/MC),0,7.0,Berlin,Germany,11
 virtuell - Yorckstraße/Hagelberger Straße,0,4.0,Berlin,Germany,11
 virtuell - S+U Lichtenberg (West),0,4.0,Berlin,Germany,11
@@ -1195,7 +1195,7 @@ virtuell - S Osdorfer Straße,0,4.0,Berlin,Germany,11
 virtuell - Bürgerpark Pankow (Grabbeallee),0,4.0,Berlin,Germany,11
 virtuell - Stadion Buschallee/Suermondtstraße,0,4.0,Berlin,Germany,11
 virtuell - Gürtelstraße/Wiesenweg,0,4.0,Berlin,Germany,11
-virtuell - Aristotelessteig (6),1,3.0,Berlin,Germany,11
+virtuell - Aristotelessteig (6),2,2.0,Berlin,Germany,11
 virtuell - Messedamm/Bredtschneiderstraße,0,4.0,Berlin,Germany,11
 virtuell - Waldemarstraße (Schillerstraße),0,4.0,Berlin,Germany,11
 virtuell - Wilhelmsruher Damm/Treuenbrietzener Straße,0,6.0,Berlin,Germany,11
@@ -1237,7 +1237,7 @@ virtuell - Kurzebracker Weg (Hennigsdorfer Straße),0,4.0,Berlin,Germany,11
 virtuell - EDEKA Hummel (Am Flugplatz Gatow),0,4.0,Berlin,Germany,11
 virtuell - Forststraße (Argentinische Allee),0,4.0,Berlin,Germany,11
 virtuell - Wilhelmplatz (Schäferstraße),2,2.0,Berlin,Germany,11
-Wilhelmstraße/Robinenwäldchen | BONUS-Station: Return(Rückgabe) here=15 mins free,1,24.0,Berlin,Germany,11
+Wilhelmstraße/Robinenwäldchen | BONUS-Station: Return(Rückgabe) here=15 mins free,0,25.0,Berlin,Germany,11
 virtuell - Hubertusallee/Delbrückstraße,4,0.0,Berlin,Germany,11
 virtuell - Debenzer Straße/Beruner Straße (Biesdorfer Baggersee),1,3.0,Berlin,Germany,11
 virtuell - Volkradstraße/Moldaustraße,4,0.0,Berlin,Germany,11
@@ -1245,13 +1245,13 @@ virtuell - Boxhagener Platz/Nordwest (Abstellfläche-Mikromobilität),1,2.0,Berl
 virtuell - U Warschauer Straße (West),1,3.0,Berlin,Germany,11
 virtuell - U Museumsinsel (Ost),0,4.0,Berlin,Germany,11
 virtuell - Wrangelstraße/Oppelner Straße,3,1.0,Berlin,Germany,11
-Baerwaldstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,13.0,Berlin,Germany,11
+Baerwaldstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,1,12.0,Berlin,Germany,11
 virtuell - Oberspree/Ottomar-Geschke-Straße (S Spindlersfeld),0,4.0,Berlin,Germany,11
 virtuell - Dregerhoffstraße/Grüne Trift,0,4.0,Berlin,Germany,11
 virtuell - Schnellerstraße/Flutstraße,0,4.0,Berlin,Germany,11
 virtuell - Danziger Straße/Schliemannstraße Straße,1,3.0,Berlin,Germany,11
-Jelbi Charité-Campus Virchow-Klinikum/Forum (WED/FO),1,7.0,Berlin,Germany,11
-S Ostkreuz/Simplonstraße (Abstellfläche-Mikromobilität),2,4.0,Berlin,Germany,11
+Jelbi Charité-Campus Virchow-Klinikum/Forum (WED/FO),2,6.0,Berlin,Germany,11
+S Ostkreuz/Simplonstraße (Abstellfläche-Mikromobilität),3,3.0,Berlin,Germany,11
 virtuell - Grunewaldstraße/Brentanostraße,1,2.0,Berlin,Germany,11
 virtuell - Ilsenburger Straße (Kaiserin-Augusta-Allee),0,4.0,Berlin,Germany,11
 virtuell - Grünheider Weg (Fürstenwalder Allee),0,4.0,Berlin,Germany,11
@@ -1261,7 +1261,7 @@ virtuell - Rosenheimer Straße (Rosenheimer Ecke),0,4.0,Berlin,Germany,11
 Jelbi U Ullsteinstraße (TEM/UL),1,19.0,Berlin,Germany,11
 virtuell - Hobrechtstraße (40),1,2.0,Berlin,Germany,11
 virtuell - Westphalweg/Kollostraße,1,3.0,Berlin,Germany,11
-virtuell - M Prenzlauer Promenade/Am Steinberg,1,3.0,Berlin,Germany,11
+virtuell - M Prenzlauer Promenade/Am Steinberg,2,2.0,Berlin,Germany,11
 virtuell - Kressenweg (Habermannsee),0,4.0,Berlin,Germany,11
 virtuell - U Nollendorfplatz (Ost),0,4.0,Berlin,Germany,11
 virtuell - Gatow Kirche (Alt-Gatow),0,4.0,Berlin,Germany,11
@@ -1270,7 +1270,7 @@ virtuell - Fürstenwalder Damm/Müggelseedamm,2,2.0,Berlin,Germany,11
 virtuell - Griechische Allee (44),1,3.0,Berlin,Germany,11
 virtuell - Reichensteiner Weg (Altensteinstraße),0,3.0,Berlin,Germany,11
 virtuell - Römerweg/Neuwieder Straße,0,4.0,Berlin,Germany,11
-virtuell - Ilsenburger Straße/Nordhauser Straße,1,3.0,Berlin,Germany,11
+virtuell - Ilsenburger Straße/Nordhauser Straße,0,4.0,Berlin,Germany,11
 virtuell - Nordendstraße (Friedrich-Engels-Straße),0,4.0,Berlin,Germany,11
 virtuell - Schloßstraße/Kuhligkshofstraße,0,4.0,Berlin,Germany,11
 virtuell - Altonaer Straße/Bachstraße,0,4.0,Berlin,Germany,11
@@ -1297,11 +1297,11 @@ virtuell - Hohenzollerndamm (Julius-Morgenroth-Platz),1,3.0,Berlin,Germany,11
 virtuell - Senefelderstraße/Hiddenseer Straße,2,2.0,Berlin,Germany,11
 virtuell - Theodor-Heuss-Platz/Heerstraße,0,4.0,Berlin,Germany,11
 virtuell - Hornoer Ring/Boxberger Straße,0,4.0,Berlin,Germany,11
-Jelbi S+U Friedrichstraße/Georgenstraße (MIT/FG),0,8.0,Berlin,Germany,11
+Jelbi S+U Friedrichstraße/Georgenstraße (MIT/FG),1,7.0,Berlin,Germany,11
 virtuell - S Lichterfelde Ost (Lankwitzer Straße),0,4.0,Berlin,Germany,11
 Jelbi S+U Alexanderplatz/Dircksenstraße (MIT/AL),3,5.0,Berlin,Germany,11
 virtuell - Charlottenburger Ufer/Winterstraße,0,4.0,Berlin,Germany,11
-Storkower Straße/Paul-Junius-Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,1,8.0,Berlin,Germany,11
+Storkower Straße/Paul-Junius-Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,9.0,Berlin,Germany,11
 virtuell - Müggelheimer Damm/Waldnesselweg,1,3.0,Berlin,Germany,11
 virtuell - Kurfürstendamm/Fasanenstraße,1,3.0,Berlin,Germany,11
 virtuell - Herrmannstraße/Biebricher Straße,0,4.0,Berlin,Germany,11
@@ -1309,7 +1309,7 @@ virtuell - Zachertstraße/Ribbecker Straße,2,2.0,Berlin,Germany,11
 virtuell - Berkaer Platz (Rathaus Schmargendorf),0,4.0,Berlin,Germany,11
 U Fehrbelliner Platz | BONUS-Station: Return(Rückgabe) here=15 mins free,0,15.0,Berlin,Germany,11
 virtuell - Schwimmhalle Finckensteinallee,0,4.0,Berlin,Germany,11
-S+U Potsdamer Platz/Linkstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,15.0,Berlin,Germany,11
+S+U Potsdamer Platz/Linkstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,1,14.0,Berlin,Germany,11
 virtuell - Drontheimer Straße (Koloniestraße),0,4.0,Berlin,Germany,11
 Jelbi S+U Rathaus Spandau/Spandau Arcaden Ost (SPA/AO),0,3.0,Berlin,Germany,11
 virtuell - Körnerpark (Selkestraße/Schierker Straße),3,1.0,Berlin,Germany,11
@@ -1324,7 +1324,7 @@ virtuell - Wrangelstraße/Sorauer Straße,4,0.0,Berlin,Germany,11
 U Samariterstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,1,8.0,Berlin,Germany,11
 virtuell - Blumberger Damm/Warener Straße (Klinikum Unfallkrankenhaus Berlin),0,4.0,Berlin,Germany,11
 virtuell - Luitpoldstraße/Eisenacher Straße ,0,4.0,Berlin,Germany,11
-Jelbi S Biesdorf (BIE/BI),0,4.0,Berlin,Germany,11
+Jelbi S Biesdorf (BIE/BI),1,3.0,Berlin,Germany,11
 Jelbi Forum Adlershof (ADL/FOR),0,4.0,Berlin,Germany,11
 virtuell - M Mollstraße/Otto-Braun-Straße (Nordost),1,3.0,Berlin,Germany,11
 virtuell - Dudenstraße/Eylauer Straße,2,2.0,Berlin,Germany,11
@@ -1362,7 +1362,7 @@ virtuell - M Brodowiner Ring (Landsberger Allee),5,0.0,Berlin,Germany,11
 virtuell - Schlangenbader Straße/Homburger Straße,1,3.0,Berlin,Germany,11
 virtuell - Schulze-Boysen-Straße (Mildred-Harnack-Schule),1,3.0,Berlin,Germany,11
 virtuell - Kurfürstendamm/Eisenzahnstraße,0,4.0,Berlin,Germany,11
-virtuell - S+U Frankfurter Allee (Nord),0,4.0,Berlin,Germany,11
+virtuell - S+U Frankfurter Allee (Nord),1,3.0,Berlin,Germany,11
 Jelbi Felixstraße/Götzstraße (TEM/FEL),0,4.0,Berlin,Germany,11
 virtuell - Anna-Seghers-Straße/Altheider Straße,0,4.0,Berlin,Germany,11
 virtuell - M Milastraße (Schönhauser Allee),2,1.0,Berlin,Germany,11
@@ -1379,7 +1379,7 @@ virtuell - Schönholzer Straße/Ruppiner Straße,1,3.0,Berlin,Germany,11
 virtuell - Soldiner Straße/Prinzenallee,5,0.0,Berlin,Germany,11
 virtuell - Aristotelessteig (12),0,4.0,Berlin,Germany,11
 virtuell - Spandauer Damm/Nitbackstraße,3,1.0,Berlin,Germany,11
-virtuell - Kaiserdamm/Wundtstraße,1,3.0,Berlin,Germany,11
+virtuell - Kaiserdamm/Wundtstraße,0,4.0,Berlin,Germany,11
 virtuell - Wilhelmshavener Straße/Bugenhagenstraße,0,4.0,Berlin,Germany,11
 virtuell - Wilmsstraße/Geibelstraße,0,4.0,Berlin,Germany,11
  Jelbi Mauerstraße/Behrenstraße (MIT/MA),0,4.0,Berlin,Germany,11
@@ -1401,14 +1401,14 @@ virtuell - Pichelsdorfer Straße/Adamstraße,1,3.0,Berlin,Germany,11
 virtuell - S Lankwitz (West),0,4.0,Berlin,Germany,11
 virtuell - Bizetstraße/Herbert-Baum-Straße,0,4.0,Berlin,Germany,11
 virtuell - U Kurt-Schumacher-Platz (West),0,4.0,Berlin,Germany,11
-virtuell - Marchlewskistraße/Wedekindstraße,1,3.0,Berlin,Germany,11
-virtuell - HTW Berlin Campus Wilhelminenhof,15,15.0,Berlin,Germany,11
+virtuell - Marchlewskistraße/Wedekindstraße,0,4.0,Berlin,Germany,11
+virtuell - HTW Berlin Campus Wilhelminenhof,14,16.0,Berlin,Germany,11
 virtuell - Giselastraße/Münsterlandstraße,0,4.0,Berlin,Germany,11
 Jelbi Glinkastraße/Mohrenstraße (MIT/GM),0,3.0,Berlin,Germany,11
 virtuell - Badensche Straße/Babelsberger Straße,0,4.0,Berlin,Germany,11
 virtuell - Osloer Straße/Prinzenallee,3,1.0,Berlin,Germany,11
-virtuell - Limonenstraße (Altensteinstraße),0,4.0,Berlin,Germany,11
-virtuell – Lausitzer Platz (West),1,3.0,Berlin,Germany,11
+virtuell - Limonenstraße (Altensteinstraße),1,3.0,Berlin,Germany,11
+virtuell – Lausitzer Platz (West),0,4.0,Berlin,Germany,11
 Jelbi Motzstraße/Martin-Luther-Straße (SCH/MO),0,6.0,Berlin,Germany,11
 virtuell - Groß-Berliner Damm/Louis-Bleriot-Straße,2,2.0,Berlin,Germany,11
 virtuell - U Winterbergplatz (West),0,4.0,Berlin,Germany,11
@@ -1420,7 +1420,7 @@ virtuell - Varnhagenenstraße/Kuglerstraße,1,3.0,Berlin,Germany,11
 virtuell - Rathausstraße (5),0,4.0,Berlin,Germany,11
 virtuell - Vollkropfgraben (Grunauer Straße),0,4.0,Berlin,Germany,11
 virtuell - U Viktoria-Luise-Platz (West),1,3.0,Berlin,Germany,11
-Koppenstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,6,4.0,Berlin,Germany,11
+Koppenstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,5,5.0,Berlin,Germany,11
 virtuell - Emser Straße (42),0,4.0,Berlin,Germany,11
 virtuell - U Wutzkyallee (West),0,4.0,Berlin,Germany,11
 virtuell - Iburger Ufer/Röntgenstraße,1,3.0,Berlin,Germany,11
@@ -1435,7 +1435,7 @@ Botschaft der nordischen Länder | BONUS-Station: Return(Rückgabe) here=15 mins
 virtuell - U Turmstraße (Süd),0,4.0,Berlin,Germany,11
 virtuell - S Spindlersfeld,0,4.0,Berlin,Germany,11
 virtuell - Altensteinstraße/Fabeckstraße,0,4.0,Berlin,Germany,11
-virtuell - M Oderbruchstraße (Landsberger Allee),0,4.0,Berlin,Germany,11
+virtuell - M Oderbruchstraße (Landsberger Allee),1,3.0,Berlin,Germany,11
 virtuell - U Oranienburger Tor (Hannoversche Straße),0,3.0,Berlin,Germany,11
 virtuell - Albrechtshof (Zeestower Weg),1,3.0,Berlin,Germany,11
 virtuell - Ostendstraße/Waldowstraße,2,2.0,Berlin,Germany,11
@@ -1456,7 +1456,7 @@ virtuell - Arnfriedstraße (Köpenicker Straße),0,4.0,Berlin,Germany,11
 virtuell - Rixdorfer Straße/Schnellerstraße,0,4.0,Berlin,Germany,11
 virtuell - Zum Langen Jammer/August-Lindemann-Straße,0,4.0,Berlin,Germany,11
 virtuell - Knaackstraße/Sredzkistraße,1,3.0,Berlin,Germany,11
-virtuell - Ehrlichstraße/Müritzstraße,1,3.0,Berlin,Germany,11
+virtuell - Ehrlichstraße/Müritzstraße,0,4.0,Berlin,Germany,11
 virtuell - M Rhinstraße/Plauener Straße,0,4.0,Berlin,Germany,11
 virtuell - Graunstraße/Rügener Straße,0,4.0,Berlin,Germany,11
 virtuell - EDEKA Wirsich (Brixplatz),2,2.0,Berlin,Germany,11
@@ -1482,7 +1482,7 @@ virtuell - Jordanstraße/Lohmühlenstraße,0,4.0,Berlin,Germany,11
 virtuell - EDEKA Center (Heerstraße),0,4.0,Berlin,Germany,11
 virtuell - Puschkinallee/Eichenstraße,0,4.0,Berlin,Germany,11
 virtuell - Mehringdamm/Schwiebusser Straße,0,4.0,Berlin,Germany,11
-virtuell - Stralauer Allee/Bossestraße,4,0.0,Berlin,Germany,11
+virtuell - Stralauer Allee/Bossestraße,5,0.0,Berlin,Germany,11
 virtuell - S Adlershof (Adlergestell/Dörpfeldstraße),0,4.0,Berlin,Germany,11
 virtuell - Willibald-Alexis-Straße/Chamissoplatz,0,4.0,Berlin,Germany,11
 Jelbi Charitéplatz (MIT/CP),0,8.0,Berlin,Germany,11
@@ -1507,11 +1507,11 @@ virtuell - Köpenicker Straße/Balzerstraße,0,4.0,Berlin,Germany,11
 virtuell - Eisenzahnstraße/Mansfelder Straße,1,3.0,Berlin,Germany,11
 virtuell - Fasanenstraße/Fasanenplatz,1,3.0,Berlin,Germany,11
 virtuell - Hallesche Straße/Möckernstraße,1,3.0,Berlin,Germany,11
-Lennéstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,28.0,Berlin,Germany,11
+Lennéstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,1,27.0,Berlin,Germany,11
 virtuell - Humannplatz (Erich-Weinert-Straße),0,4.0,Berlin,Germany,11
 virtuell - Alt-Köpenick/Freiheit,0,4.0,Berlin,Germany,11
 virtuell - Torgauer Straße (Leberstraße),0,4.0,Berlin,Germany,11
-virtuell - EDEKA Siebert (U Südstern),5,0.0,Berlin,Germany,11
+virtuell - EDEKA Siebert (U Südstern),4,0.0,Berlin,Germany,11
 virtuell - U Klosterstraße (Stralauer Straße),0,4.0,Berlin,Germany,11
 virtuell - Sewanstraße/Dolgenseestraße,1,3.0,Berlin,Germany,11
 virtuell - Quedlingburger Straße/Darwinstraße,0,4.0,Berlin,Germany,11
@@ -1529,12 +1529,12 @@ Jelbi Ebertstraße/Hannah-Arendt-Straße (MIT/EH),5,5.0,Berlin,Germany,11
 virtuell - Fennstraße/Schnellerstraße,2,2.0,Berlin,Germany,11
 Samariterstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,5,3.0,Berlin,Germany,11
 virtuell - Pirolstraße (Grabensprung),0,4.0,Berlin,Germany,11
-Jelbi Eitelstraße (BIE/EI),1,3.0,Berlin,Germany,11
+Jelbi Eitelstraße (BIE/EI),0,4.0,Berlin,Germany,11
 virtuell - Stadtbad Tiergarten,0,4.0,Berlin,Germany,11
 virtuell - Boxhagener Straße/Warschauer Straße,0,4.0,Berlin,Germany,11
 Lichtenberger Straße/Singerstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,10.0,Berlin,Germany,11
-virtuell - Baruther Straße/Zossener Straße,1,3.0,Berlin,Germany,11
-virtuell - U Wilmersdorfer Straße Süd,1,9.0,Berlin,Germany,11
+virtuell - Baruther Straße/Zossener Straße,0,4.0,Berlin,Germany,11
+virtuell - U Wilmersdorfer Straße Süd,2,8.0,Berlin,Germany,11
 Wienerstraße/Glogauer Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,8,2.0,Berlin,Germany,11
 virtuell - S Eichborndamm (Süd),0,3.0,Berlin,Germany,11
 virtuell - M Invalidenstraße/Platz vor dem Neuen Tor (West),0,4.0,Berlin,Germany,11
@@ -1595,7 +1595,7 @@ virtuell - Bölschestraße/Drachholzstraße,0,4.0,Berlin,Germany,11
 virtuell - Victor-Klemperer-Platz/Marzahner Promenade,0,4.0,Berlin,Germany,11
 virtuell - Pablo-Neruda-Straße (Müggelheimer Straße),0,4.0,Berlin,Germany,11
 virtuell - U Bundestag (Süd),1,3.0,Berlin,Germany,11
-Schleiermacherstr./Blücherstr | BONUS-Station: Return(Rückgabe) here=15 mins free,1,8.0,Berlin,Germany,11
+Schleiermacherstr./Blücherstr | BONUS-Station: Return(Rückgabe) here=15 mins free,2,7.0,Berlin,Germany,11
 virtuell - M Mollstraße/Otto-Braun-Straße (West),0,3.0,Berlin,Germany,11
 virtuell - S Mexikoplatz (West),0,4.0,Berlin,Germany,11
 Tuchollaplatz - Lichtenberg | BONUS-Station: Return(Rückgabe) here=15 mins free,1,5.0,Berlin,Germany,11
@@ -1612,10 +1612,10 @@ virtuell - Bayerischer Straße/Zähringerstraße,0,4.0,Berlin,Germany,11
 virtuell - Gneisenaustraße/Schleiermacherstraße,0,4.0,Berlin,Germany,11
 virtuell - Rudolf-Wissell-Siedlung (Maulbeerallee),0,4.0,Berlin,Germany,11
 virtuell - Jonasstraße/Ilsestraße,0,4.0,Berlin,Germany,11
-virtuell - Düsseldorfer Straße/Sächsische Straße ,0,4.0,Berlin,Germany,11
+virtuell - Düsseldorfer Straße/Sächsische Straße ,1,3.0,Berlin,Germany,11
 Oberseestraße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,10.0,Berlin,Germany,11
 virtuell - S Schöneweide (Zentrum Schöneweide),1,3.0,Berlin,Germany,11
-virtuell - Tannhäuserstraße/Odinstraße,2,2.0,Berlin,Germany,11
+virtuell - Tannhäuserstraße/Odinstraße,1,3.0,Berlin,Germany,11
 virtuell - Bayerischer Straße/Olivaer Platz,0,4.0,Berlin,Germany,11
 virtuell - Kressenweg (Elsenweg),0,4.0,Berlin,Germany,11
 virtuell - EDEKA Bestvater (Zabel-Krüger-Damm),0,4.0,Berlin,Germany,11
@@ -1637,7 +1637,7 @@ virtuell - Weserstraße/Hobrechtstraße,0,4.0,Berlin,Germany,11
 virtuell - Düsseldorfer Straße/Uhlandstraße,0,4.0,Berlin,Germany,11
 virtuell - Hausburgstraße/Landsberger Allee,0,4.0,Berlin,Germany,11
 virtuell - Alboinplatz (Süd),1,3.0,Berlin,Germany,11
-virtuell - Heinrich-Heine-Straße/Dresdener Straße,1,3.0,Berlin,Germany,11
+virtuell - Heinrich-Heine-Straße/Dresdener Straße,0,4.0,Berlin,Germany,11
 Paulstr./Alt-Moabit | BONUS-Station: Return(Rückgabe) here=15 mins free,0,10.0,Berlin,Germany,11
 virtuell - M Spandauer Straße/Marienkirche (West),0,3.0,Berlin,Germany,11
 virtuell - Brüsseler Straße/Antwerpener Straße,0,4.0,Berlin,Germany,11
@@ -1647,8 +1647,8 @@ virtuell - Koenigsallee/Delbrückstraße,0,4.0,Berlin,Germany,11
 virtuell - Josef-Nawrocki-Straße/Müggelseedamm,1,3.0,Berlin,Germany,11
 virtuell - Heerstraße/Magistratsweg,3,1.0,Berlin,Germany,11
 virtuell - Friedrich-Wolf-Straße (Regattastraße),0,3.0,Berlin,Germany,11
-virtuell - EDEKA (S+U Schönhauser Allee),0,4.0,Berlin,Germany,11
-virtuell - Landsberger Allee (Anton-Seafow-Bibliothek),0,4.0,Berlin,Germany,11
+virtuell - EDEKA (S+U Schönhauser Allee),1,3.0,Berlin,Germany,11
+virtuell - Landsberger Allee (Anton-Seafow-Bibliothek),1,3.0,Berlin,Germany,11
 virtuell - Enckestraße/Mendelssohn-Platz,0,4.0,Berlin,Germany,11
 virtuell - S Storkower Straße (Süd),0,4.0,Berlin,Germany,11
 virtuell - S Wollankstraße (Sternstraße),4,0.0,Berlin,Germany,11
@@ -1663,7 +1663,7 @@ virtuell - S Charlottenburg (Lewishamsstraße/Gervinusstraße),0,4.0,Berlin,Germ
 virtuell - Friedelstraße/Sanderstraße,0,4.0,Berlin,Germany,11
 virtuell - Westfälische Straße/Joachim-Friedrich-Straße,0,4.0,Berlin,Germany,11
 virtuell - M Riesaer Straße/Louis-Lewin-Straße (Leisinger Straße),0,4.0,Berlin,Germany,11
-Jelbi S+U Wuhletal (BIE/WU),1,3.0,Berlin,Germany,11
+Jelbi S+U Wuhletal (BIE/WU),0,4.0,Berlin,Germany,11
 virtuell - FEZ-Berlin (FEZ-Brunnen),0,4.0,Berlin,Germany,11
 virtuell - Potsdamer Straße (Staatsbibliothek),0,6.0,Berlin,Germany,11
 virtuell - Sonnenallee/Roseggerstraße,3,1.0,Berlin,Germany,11
@@ -1710,7 +1710,7 @@ virtuell - M Bürgerpark Marzahn (Lea-Grundig-Straße),0,4.0,Berlin,Germany,11
 virtuell - Schmidt-Knobelsdorf-Straße/Seeburger Straße,6,0.0,Berlin,Germany,11
 virtuell - Hohenzollernring/Falkenseer Chaussee,0,4.0,Berlin,Germany,11
 virtuell - U Mierendorffplatz (Brahestraße/Keplerstraße),0,4.0,Berlin,Germany,11
-virtuell - S Zehlendorf (Süd),2,2.0,Berlin,Germany,11
+virtuell - S Zehlendorf (Süd),1,3.0,Berlin,Germany,11
 virtuell - EDEKA Joachim-Gottschalk-Weg,0,4.0,Berlin,Germany,11
 virtuell -Seegefelder Weg (Finkenkruger Weg),0,4.0,Berlin,Germany,11
 virtuell - Alt-Stralau/Bootsbauerstraße,2,2.0,Berlin,Germany,11
@@ -1748,8 +1748,8 @@ virtuell - Karl-Marx-Allee (Rosengarten),1,3.0,Berlin,Germany,11
 Schinkestraße | BONUS-Station: Return(Rückgabe) here=15 mins free,2,8.0,Berlin,Germany,11
 S Prenzlauer Allee | BONUS-Station: Return(Rückgabe) here=15 mins free,0,10.0,Berlin,Germany,11
 virtuell - Quermatenweg/Wasserkäfersteig,0,4.0,Berlin,Germany,11
-virtuell - Krossener Straße/Boxhagener Straße,1,3.0,Berlin,Germany,11
-virtuell - Pfalzburger Straße/Düsseldorfer Straße,3,1.0,Berlin,Germany,11
+virtuell - Krossener Straße/Boxhagener Straße,2,2.0,Berlin,Germany,11
+virtuell - Pfalzburger Straße/Düsseldorfer Straße,2,2.0,Berlin,Germany,11
 virtuell - Frankfurter Allee/Rathausstraße,0,4.0,Berlin,Germany,11
 virtuell - Hohenzollerndamm/Cunostraße,0,4.0,Berlin,Germany,11
 virtuell - Chausseestraße/Zinnowitzer Straße,7,0.0,Berlin,Germany,11
@@ -1776,7 +1776,7 @@ virtuell - Zossener Straße/Johanniterstraße,1,3.0,Berlin,Germany,11
 virtuell - Käthe-Niederkirchner-Straße/Bötzowstraße,2,2.0,Berlin,Germany,11
 virtuell - Wesselburer Weg (Hennigsdorfer Straße),0,4.0,Berlin,Germany,11
 Jungstraße/Scharnweberstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,2,3.0,Berlin,Germany,11
-virtuell - Sickingenbrücke/Neues Ufer,1,3.0,Berlin,Germany,11
+virtuell - Sickingenbrücke/Neues Ufer,0,4.0,Berlin,Germany,11
 virtuell - Landsberger Allee/Judith-Auer-Straße,0,4.0,Berlin,Germany,11
 virtuell - Lützowplatz,0,4.0,Berlin,Germany,11
 virtuell - Alexanderstraße/Karl-Liebknecht-Straße,0,4.0,Berlin,Germany,11
@@ -1791,7 +1791,7 @@ virtuell - Jagowstraße/Tile-Wardenberg-Straße,1,3.0,Berlin,Germany,11
 virtuell - Neumannstraße/Vinetastraße,0,4.0,Berlin,Germany,11
 virtuell - EDEKA Voelker (S+U Rathaus Steglitz),0,4.0,Berlin,Germany,11
 virtuell - Badeweg (Kronprinzessinnenweg),0,4.0,Berlin,Germany,11
-virtuell - Neue Kantstraße/Kuno-Fischer-Straße,1,3.0,Berlin,Germany,11
+virtuell - Neue Kantstraße/Kuno-Fischer-Straße,0,4.0,Berlin,Germany,11
 virtuell - Irmastraße (Köpenicker Straße),0,4.0,Berlin,Germany,11
 virtuell - Tempelhofer Ufer/Luckenwalder Straße,2,2.0,Berlin,Germany,11
 virtuell - Alt-Friedrichsfelde/Am Tierpark,1,3.0,Berlin,Germany,11
@@ -1808,7 +1808,7 @@ Rudi-Dutschke-Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,12.
 virtuell - Halskestraße/Stephanstraße,2,2.0,Berlin,Germany,11
 virtuell - Ebertystraße/Heidenfeldstraße,2,1.0,Berlin,Germany,11
 virtuell - Freisinger Straße/Eisenacher Straße,0,4.0,Berlin,Germany,11
-Jelbi S+U Jannowitzbrücke/Holzmarktstraße (MIT/TRI),0,20.0,Berlin,Germany,11
+Jelbi S+U Jannowitzbrücke/Holzmarktstraße (MIT/TRI),1,19.0,Berlin,Germany,11
 Jelbi Leipziger Str./Wilhelmstr. (MIT/LE),0,3.0,Berlin,Germany,11
 virtuell - EDEKA Center Grenzallee,0,4.0,Berlin,Germany,11
 Jelbi Zimmerstraße/Wilhelmstraße (MIT/ZW),0,4.0,Berlin,Germany,11
@@ -1824,8 +1824,8 @@ virtuell - Siemensstraße/Wattstraße,0,4.0,Berlin,Germany,11
 virtuell - Sybelstraße/Roscherstraße,0,4.0,Berlin,Germany,11
 virtuell - Schillerstraße/Krumme Straße,2,2.0,Berlin,Germany,11
 virtuell - Oberlandstraße/Bacharacher Straße,0,4.0,Berlin,Germany,11
-virtuell - Martin-Luther-Straße/Wartburgstraße,1,3.0,Berlin,Germany,11
-virtuell - Sachsendamm/Priesterweg,0,4.0,Berlin,Germany,11
+virtuell - Martin-Luther-Straße/Wartburgstraße,0,4.0,Berlin,Germany,11
+virtuell - Sachsendamm/Priesterweg,1,3.0,Berlin,Germany,11
 virtuell - Machnower Straße/Berlepschstraße,0,4.0,Berlin,Germany,11
 Jelbi U Hellersdorf (HEL/HE),0,4.0,Berlin,Germany,11
 virtuell - U  Hallesches Tor (Nord),0,4.0,Berlin,Germany,11
@@ -1833,7 +1833,7 @@ virtuell - Saarstraße/Rheinstraße,0,4.0,Berlin,Germany,11
 virtuell - EDEKA Colombino (Hildburghauser Straße),0,4.0,Berlin,Germany,11
 virtuell - Köpenicker Landstraße/Schnellerstraße,0,4.0,Berlin,Germany,11
 virtuell - Schiffbauerdamm/Albrechtstraße,2,2.0,Berlin,Germany,11
-Jelbi S+U Hauptbahnhof/Washingtonplatz (MOA/HW),4,5.0,Berlin,Germany,11
+Jelbi S+U Hauptbahnhof/Washingtonplatz (MOA/HW),5,4.0,Berlin,Germany,11
 virtuell - U Kleistpark (West),0,4.0,Berlin,Germany,11
 virtuell - Bergheimer Platz,2,4.0,Berlin,Germany,11
 virtuell - Kastanienallee/Ulmenallee,0,4.0,Berlin,Germany,11
@@ -1864,7 +1864,7 @@ Jelbi Katharina-Paulus-Straße/Alt-Moabit (MOA/KA),0,8.0,Berlin,Germany,11
 virtuell - Hoeppnerstraße (Werner-Voß-Damm),0,4.0,Berlin,Germany,11
 virtuell - ZOB Berlin (Südwest),0,4.0,Berlin,Germany,11
 virtuell - Breite Straße/Zoppoter Straße,0,4.0,Berlin,Germany,11
-virtuell - Lange Straße/Koppenstraße,1,2.0,Berlin,Germany,11
+virtuell - Lange Straße/Koppenstraße,2,1.0,Berlin,Germany,11
 virtuell - Schillerstraße/Am Schillertheater,0,4.0,Berlin,Germany,11
 virtuell - Zionskirchstraße/Choriner Straße,0,4.0,Berlin,Germany,11
 U Prinzenstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,3,9.0,Berlin,Germany,11
@@ -1872,9 +1872,9 @@ virtuell - S Ostbahnhof (Nordwest),3,1.0,Berlin,Germany,11
 virtuell - Holländerstraße/Aroser Allee,0,4.0,Berlin,Germany,11
 virtuell - Hermann-Blankenstein-Straße/Richard-Ermisch-Straße,0,4.0,Berlin,Germany,11
 virtuell - Ruhlebener Straße/Schulenburgstraße,0,4.0,Berlin,Germany,11
-virtuell - Fürbringerstraße/Mittenwalder Straße,2,2.0,Berlin,Germany,11
+virtuell - Fürbringerstraße/Mittenwalder Straße,1,3.0,Berlin,Germany,11
 virtuell –Weichselpark,1,3.0,Berlin,Germany,11
-virtuell - Knobelsdorffstraße/Nehringstraße,2,2.0,Berlin,Germany,11
+virtuell - Knobelsdorffstraße/Nehringstraße,0,4.0,Berlin,Germany,11
 virtuell - Seelower Straße/Bornholmer Straße,4,0.0,Berlin,Germany,11
 virtuell - Grüntaler Straße (Osloer Straße),0,4.0,Berlin,Germany,11
 virtuell - Waldstraße (Mikromobilitätsabstellfläche),3,3.0,Berlin,Germany,11
@@ -1886,10 +1886,10 @@ virtuell - Langhansstraße/Roelckestraße,0,4.0,Berlin,Germany,11
 virtuell - Oderberger Straße/Kastanienallee,0,4.0,Berlin,Germany,11
 virtuell - Prinzenstraße/Bellermannstraße,0,4.0,Berlin,Germany,11
 virtuell - Bergmannstraße/Am Tempelhofer Berg,1,3.0,Berlin,Germany,11
-S+U Lichtenberg (EDEKA) | BONUS-Station: Return(Rückgabe) here=15 mins free,1,9.0,Berlin,Germany,11
+S+U Lichtenberg (EDEKA) | BONUS-Station: Return(Rückgabe) here=15 mins free,2,8.0,Berlin,Germany,11
 virtuell - EDEKA Boe (S Frohnau),0,4.0,Berlin,Germany,11
 virtuell - Siemensstraße/Oldenburger Straße,0,4.0,Berlin,Germany,11
-virtuell - Voxstraße/Ludwig-Beck-Straße,2,2.0,Berlin,Germany,11
+virtuell - Voxstraße/Ludwig-Beck-Straße,1,3.0,Berlin,Germany,11
 virtuell - Alt-Stralau/Krachtstraße,0,4.0,Berlin,Germany,11
 virtuell - EDEKA Kiezmarkt (Marksburgstraße),2,2.0,Berlin,Germany,11
 virtuell - Weinbergsweg/Zehdenicker Straße,3,1.0,Berlin,Germany,11
@@ -1911,7 +1911,7 @@ virtuell - Sickingenstraße/Berlichingenstraße,0,4.0,Berlin,Germany,11
 virtuell - Elisabethkirchstraße/Seydelstraße,0,4.0,Berlin,Germany,11
 virtuell - Perleberger Straße/Stendalstraße,0,4.0,Berlin,Germany,11
 virtuell - EDEKA Frede (Ollenhauerstraße),1,3.0,Berlin,Germany,11
-virtuell - Beusselstraße/Erasmusstraße,2,2.0,Berlin,Germany,11
+virtuell - Beusselstraße/Erasmusstraße,1,3.0,Berlin,Germany,11
 virtuell - Kaiserin-Augusta-Allee/Neues Ufer,0,4.0,Berlin,Germany,11
 virtuell - Rosenfelder Straße/Alt-Friedrichsfelde,0,4.0,Berlin,Germany,11
 virtuell - Park am Gleisdreieck (Pohlstraße),1,2.0,Berlin,Germany,11
@@ -1928,7 +1928,7 @@ virtuell - Jablonskistraße/Greifswalder Straße,0,4.0,Berlin,Germany,11
 virtuell - Albrechtstraße/Stinderstraße,1,3.0,Berlin,Germany,11
 virtuell - Ostendstraße/Wilhelminenhofstraße,0,4.0,Berlin,Germany,11
 virtuell - Obrikatstraße,0,4.0,Berlin,Germany,11
-S Ostkreuz | BONUS-Station: Return(Rückgabe) here=15 mins free,2,6.0,Berlin,Germany,11
+S Ostkreuz | BONUS-Station: Return(Rückgabe) here=15 mins free,6,2.0,Berlin,Germany,11
 virtuell - S Herrstraße (West),4,0.0,Berlin,Germany,11
 virtuell - Dominicusstraße/Belziger Straße,0,4.0,Berlin,Germany,11
 virtuell - U Kaiserin-Augusta-Str.,1,3.0,Berlin,Germany,11
@@ -1937,7 +1937,7 @@ virtuell - Helsingforser Straße (11),1,3.0,Berlin,Germany,11
 virtuell - Osloer Straße/Stettiner Straße,1,3.0,Berlin,Germany,11
 virtuell - S Altglienicke (Ost),1,3.0,Berlin,Germany,11
 virtuell - M Danziger Straße/Prenzlauer Allee (West),0,4.0,Berlin,Germany,11
-virtuell - Nordhauser Straße/Wernideroder Straße,1,3.0,Berlin,Germany,11
+virtuell - Nordhauser Straße/Wernideroder Straße,0,4.0,Berlin,Germany,11
 virtuell - Mainzerstraße/Scharnweberstraße,0,4.0,Berlin,Germany,11
 virtuell - S Tiergarten (Südwest),0,4.0,Berlin,Germany,11
 virtuell - Greifswalder Straße/Marienburger Straße,0,4.0,Berlin,Germany,11
@@ -1954,7 +1954,7 @@ virtuell - Pannierstraße/Pflügerstraße,0,4.0,Berlin,Germany,11
 virtuell - Zur Haveldüne (Gatower Straße),1,3.0,Berlin,Germany,11
 virtuell - Fritschestraße/Schillerstraße,0,4.0,Berlin,Germany,11
 virtuell - Marktstraße (Schreiberhauer Straße),2,1.0,Berlin,Germany,11
-Jelbi U Südstern/Fontanepromenade (KRE/SUE),1,6.0,Berlin,Germany,11
+Jelbi U Südstern/Fontanepromenade (KRE/SUE),0,7.0,Berlin,Germany,11
 virtuell - Schlüterstraße/Niebuhrstraße,0,4.0,Berlin,Germany,11
 virtuell - U Augsburger Straße,0,4.0,Berlin,Germany,11
 virtuell - Ederstraße/Weserstraße,0,4.0,Berlin,Germany,11
@@ -1974,7 +1974,7 @@ virtuell - Paulsborner Straße/Nestorstraße,0,4.0,Berlin,Germany,11
 virtuell - Alt-Müggelheim (Gosener Damm),0,4.0,Berlin,Germany,11
 virtuell - Rummelsburger Landstraße/Am Walde,2,2.0,Berlin,Germany,11
 U Reinickendorfer Str. | BONUS-Station: Return(Rückgabe) here=15 mins free,1,6.0,Berlin,Germany,11
-virtuell - Schnellerstraße/Hainstraße,2,2.0,Berlin,Germany,11
+virtuell - Schnellerstraße/Hainstraße,1,3.0,Berlin,Germany,11
 Rathaus Tiergarten (U Turmstraße) | BONUS-Station: Return(Rückgabe) here=15 mins free,3,7.0,Berlin,Germany,11
 virtuell - Straße zum FEZ (Mahnmal gegen Kindesmissbrauch),0,4.0,Berlin,Germany,11
 virtuell - Greifswalder Straße/Pasteurstraße,1,3.0,Berlin,Germany,11
@@ -1988,7 +1988,7 @@ virtuell - Am Berg (Wendenschloßstraße),0,4.0,Berlin,Germany,11
 virtuell - Durstexpress HQ,1,3.0,Berlin,Germany,11
 virtuell - U Wilmersdorfer Straße (Kantstraße),0,4.0,Berlin,Germany,11
 virtuell - Manfred-von-Richthofen-Straße/Loewenhardtdamm,0,4.0,Berlin,Germany,11
-virtuell - Alexandrinenstraße/Oranienstraße,3,1.0,Berlin,Germany,11
+virtuell - Alexandrinenstraße/Oranienstraße,2,2.0,Berlin,Germany,11
 virtuell - Karl-Marx-Straße/Kienitzer Straße,1,2.0,Berlin,Germany,11
 virtuell - Alt-Schmöckwitz (Adlergestell),0,4.0,Berlin,Germany,11
 virtuell - Olivaer Platz/Bregenzer Straße,1,3.0,Berlin,Germany,11
@@ -2002,7 +2002,7 @@ virtuell - Lückstraße/Wönnichstraße,1,3.0,Berlin,Germany,11
 virtuell - Seegefelder Straße/Borkzeile,0,4.0,Berlin,Germany,11
 virtuell - Karl-Liebknecht-Straße/Rosa-Luxemburg-Straße,0,4.0,Berlin,Germany,11
 virtuell - Linienstraße/Zolastraße,0,4.0,Berlin,Germany,11
-virtuell - Studierenden-Wohnheim Sewanstraße (Süd),2,1.0,Berlin,Germany,11
+virtuell - Studierenden-Wohnheim Sewanstraße (Süd),1,2.0,Berlin,Germany,11
 virtuell - Schappachstraße (Vetschauer Allee),0,4.0,Berlin,Germany,11
 virtuell - EDEKA Wittenbergplatz,0,3.0,Berlin,Germany,11
 virtuell - Lietzenburger Straße/Schlüterstraße,0,4.0,Berlin,Germany,11
@@ -2010,7 +2010,7 @@ virtuell - S Südende,0,4.0,Berlin,Germany,11
 virtuell - Grunewaldstraße/Rothenburgstraße,0,4.0,Berlin,Germany,11
 virtuell - U Paradestraße (Südwest),0,4.0,Berlin,Germany,11
 virtuell - Neues Ufer (Huttenstraße),0,4.0,Berlin,Germany,11
-virtuell - Berliner Straße/Landhausstraße,0,4.0,Berlin,Germany,11
+virtuell - Berliner Straße/Landhausstraße,1,3.0,Berlin,Germany,11
 virtuell - U Konstanzer Straße (Wittelsbacherstraße),1,3.0,Berlin,Germany,11
 virtuell - Fanningerstraße/Hubertusstraße (Sana Klinikum Lichtenberg),0,4.0,Berlin,Germany,11
 virtuell - Elisabethkirchstraße/Invalidenstraße,0,4.0,Berlin,Germany,11
@@ -2057,7 +2057,7 @@ virtuell - Richardstraße/Böhmische Straße,2,2.0,Berlin,Germany,11
 virtuell - Forckenbeckplatz (Nordwest),0,4.0,Berlin,Germany,11
 Jelbi Monbijouplatz (MIT/MB),1,5.0,Berlin,Germany,11
 Jelbi Rathausstraße/Berliner Fernsehturm (MIT/RB),1,7.0,Berlin,Germany,11
-virtuell - U Frankfurter Tor (Nordost),1,3.0,Berlin,Germany,11
+virtuell - U Frankfurter Tor (Nordost),0,4.0,Berlin,Germany,11
 virtuell - Schloßstraße/Braillestraße,1,3.0,Berlin,Germany,11
 virtuell - Cecilienstraße/Peter-Huchel-Straße,0,4.0,Berlin,Germany,11
 virtuell - Bitterfelder Straße/Wolfener Straße,0,4.0,Berlin,Germany,11
@@ -2070,7 +2070,7 @@ virtuell - Virchow Klinikum (Eingang A),0,4.0,Berlin,Germany,11
 S+U Neukölln | BONUS-Station: Return(Rückgabe) here=15 mins free,6,2.0,Berlin,Germany,11
 virtuell - Salzufer/Otto-Dibelius-Straße,1,3.0,Berlin,Germany,11
 virtuell - Charlottenstraße/Schützenstraße (Ost),0,4.0,Berlin,Germany,11
-virtuell - Richard-Willstätter-Straße/Volmerstraße,0,4.0,Berlin,Germany,11
+virtuell - Richard-Willstätter-Straße/Volmerstraße,1,3.0,Berlin,Germany,11
 virtuell - Unter den Eichen/Drakestraße,2,2.0,Berlin,Germany,11
 virtuell - Riemannstraße/Solmstraße,1,3.0,Berlin,Germany,11
 Jelbi Am Park (TIE/AM),0,6.0,Berlin,Germany,11
@@ -2095,14 +2095,14 @@ virtuell - Mattenbuder Pfad (Hennigsdorfer Straße),0,4.0,Berlin,Germany,11
 virtuell - Kurfürstendamm/Knesebackstraße,0,4.0,Berlin,Germany,11
 Jelbi Zimmerstraße/Friedrichstraße (MIT/ZF),0,4.0,Berlin,Germany,11
 virtuell - Jörsstraße (Autofähre),0,4.0,Berlin,Germany,11
-virtuell - S Messe Nord / ICC (Wundtstraße),0,4.0,Berlin,Germany,11
-virtuell - Manitiusstraße/Nansenstraße,2,2.0,Berlin,Germany,11
+virtuell - S Messe Nord / ICC (Wundtstraße),1,3.0,Berlin,Germany,11
+virtuell - Manitiusstraße/Nansenstraße,1,3.0,Berlin,Germany,11
 virtuell - Wernersee (Ridbacher Straße),0,4.0,Berlin,Germany,11
 virtuell - Argentinische Allee/Clayallee,1,3.0,Berlin,Germany,11
 virtuell - EDEKA Center Stephanstraße,2,2.0,Berlin,Germany,11
 virtuell - S+U Wittenau (Oranienburger Straße/Wilhelmruher Damm/Ost),0,4.0,Berlin,Germany,11
 virtuell - Knausstraße (Knausplatz),1,5.0,Berlin,Germany,11
-virtuell - M Möllendorffstraße/Storkower Straße,2,2.0,Berlin,Germany,11
+virtuell - M Möllendorffstraße/Storkower Straße,1,3.0,Berlin,Germany,11
 virtuell - Hämmerlingstraße/Friedenstraße,1,3.0,Berlin,Germany,11
 virtuell - Seestraße/Groninger Straße (Evangelisches Geriatriezentrum Berlin),0,4.0,Berlin,Germany,11
 virtuell - U Schwarnweberstraße (General-Woyna-Straße),1,3.0,Berlin,Germany,11
@@ -2111,8 +2111,8 @@ virtuell - Am Hegewinkel (Am Waldfriedhof),1,3.0,Berlin,Germany,11
 virtuell - Greifswalder Straße/Ostseestraße,1,3.0,Berlin,Germany,11
 virtuell - Detmolder Straße/Weimarische Straße,1,3.0,Berlin,Germany,11
 virtuell - Lottumstraße/Angemünder Straße,0,4.0,Berlin,Germany,11
-Karl-Kunger-Straße/Plesserstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,2,3.0,Berlin,Germany,11
-Jelbi Charité-Campus Virchow-Klinikum/Nordstraße (WED/NO),0,8.0,Berlin,Germany,11
+Karl-Kunger-Straße/Plesserstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,1,4.0,Berlin,Germany,11
+Jelbi Charité-Campus Virchow-Klinikum/Nordstraße (WED/NO),1,7.0,Berlin,Germany,11
 virtuell - Waldfriedhof Dahlem (Am Waldfriedhof),0,4.0,Berlin,Germany,11
 virtuell - Manteuffelstraße/Naunynstraße,0,4.0,Berlin,Germany,11
 virtuell - Olympische Straße/Oldenburgallee,0,4.0,Berlin,Germany,11
@@ -2177,10 +2177,10 @@ virtuell - Gößweinsteiner Gang (Sakrower Landstraße),0,4.0,Berlin,Germany,11
 virtuell - Kastanienallee (Klinik Helle Mitte),0,4.0,Berlin,Germany,11
 virtuell - Immanuelkirchstraße/Greifswalder Straße,1,2.0,Berlin,Germany,11
 virtuell - Alt-Moabit/Zinzendorfstraße,0,4.0,Berlin,Germany,11
-virtuell - Nestorstraße/Kurfürstendamm,1,3.0,Berlin,Germany,11
+virtuell - Nestorstraße/Kurfürstendamm,0,4.0,Berlin,Germany,11
 virtuell - Walkürenstraße/Ilsestraße,1,3.0,Berlin,Germany,11
 virtuell - Wilhelminenhofstraße/Johannes-Kraaz-Straße,0,4.0,Berlin,Germany,11
-S Ostkreuz/Neue Bahnhofsstraße (Abstellfläche-Mikromobilität),0,6.0,Berlin,Germany,11
+S Ostkreuz/Neue Bahnhofsstraße (Abstellfläche-Mikromobilität),2,4.0,Berlin,Germany,11
 virtuell - Jasmunder Straße/Stralsunder Straße,0,4.0,Berlin,Germany,11
 virtuell - Spiekermannstrase/Neumannstraße,0,4.0,Berlin,Germany,11
 virtuell - Mansfelder Straße/Barstraße,0,4.0,Berlin,Germany,11
@@ -2203,7 +2203,7 @@ virtuell - Chausseestraße/Liesenstraße,2,2.0,Berlin,Germany,11
 virtuell - EDEKA Jenaerstraße,1,3.0,Berlin,Germany,11
 virtuell - Emserstraße/Altenbraker Straße,0,4.0,Berlin,Germany,11
 virtuell - Behaimstraße (Langhansstraße),0,4.0,Berlin,Germany,11
-virtuell - S Treptower Park (Südost),0,6.0,Berlin,Germany,11
+virtuell - S Treptower Park (Südost),1,5.0,Berlin,Germany,11
 virtuell - Modersohnstraße (Am Rudolfplatz),1,2.0,Berlin,Germany,11
 virtuell - Rosenweg (Grunauer Straße),0,4.0,Berlin,Germany,11
 virtuell - Warburgzeile/Otto-Suhr-Allee,0,4.0,Berlin,Germany,11
@@ -2269,7 +2269,7 @@ Jelbi S+U Alexanderplatz/Grunerstraße (MIT/AG),0,8.0,Berlin,Germany,11
 virtuell – Wassertorstraße/Prinzenstraße,0,4.0,Berlin,Germany,11
 virtuell - Masurenallee/Soorstraße,0,4.0,Berlin,Germany,11
 virtuell - Bruno-Wille-Straße/Breestpromenade,0,4.0,Berlin,Germany,11
-virtuell - M Husemannstraße/Dunckerstraße,1,3.0,Berlin,Germany,11
+virtuell - M Husemannstraße/Dunckerstraße,0,4.0,Berlin,Germany,11
 virtuell - S Savignyplatz (Knesebeckstraße),1,3.0,Berlin,Germany,11
 virtuell - Frankfurter Allee/Finowstraße,1,3.0,Berlin,Germany,11
 virtuell - Hasenheide (Skatepark),0,4.0,Berlin,Germany,11
@@ -2285,7 +2285,7 @@ virtuell - Kantstraße/Wielandstraße,1,3.0,Berlin,Germany,11
 virtuell - EDEKA Fürstenberger Straße,1,3.0,Berlin,Germany,11
 virtuell - Hildegard-Jadamowitz-Straße/Kadiner Straße,0,4.0,Berlin,Germany,11
 virtuell - Friedenstraße (Am Volkspark Friedrichshain),1,3.0,Berlin,Germany,11
-virtuell - Sanderstraße/Hobrechtstraße,2,2.0,Berlin,Germany,11
+virtuell - Sanderstraße/Hobrechtstraße,1,3.0,Berlin,Germany,11
 virtuell - Krumme Straße/Zillestraße,0,4.0,Berlin,Germany,11
 virtuell - Britzer Garten (Nord),0,4.0,Berlin,Germany,11
 virtuell - Britzer Damm/Mohriner Allee,0,4.0,Berlin,Germany,11
@@ -2309,8 +2309,8 @@ virtuell - S Halensee (Nord),0,4.0,Berlin,Germany,11
 virtuell - Erich-Weinert-Straße/Gubitzstraße,0,4.0,Berlin,Germany,11
 Jelbi S Warschauer Straße (FHA/WA),0,15.0,Berlin,Germany,11
 virtuell - Marinesteig (Schlachtensee),0,4.0,Berlin,Germany,11
-Antwerpener Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,3,12.0,Berlin,Germany,11
-virtuell - Markgrafenstraße/Rudi-Dutschke-Straße,0,4.0,Berlin,Germany,11
+Antwerpener Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,2,13.0,Berlin,Germany,11
+virtuell - Markgrafenstraße/Rudi-Dutschke-Straße,1,3.0,Berlin,Germany,11
 virtuell - Niklasstraße (Lindenthaler Allee),0,3.0,Berlin,Germany,11
 virtuell - Seelenbinderstraße/Puchanstraße,1,3.0,Berlin,Germany,11
 virtuell - Tolkmittstraße (Heinrich-Grüber-Straße),0,4.0,Berlin,Germany,11
@@ -2321,7 +2321,7 @@ virtuell - Forckenbeckstraße/Cunostraße,0,4.0,Berlin,Germany,11
 Jelbi Rudower Chaussee/Wegedorn-Str. (ADL/WE),0,4.0,Berlin,Germany,11
 virtuell - Földerichplatz (Adamstraße),0,3.0,Berlin,Germany,11
 virtuell - Weserstraße/Wildenbruchstraße,3,1.0,Berlin,Germany,11
-virtuell - Köpenicker Straße/Wilhelmine-Gemberg-Weg,2,2.0,Berlin,Germany,11
+virtuell - Köpenicker Straße/Wilhelmine-Gemberg-Weg,1,3.0,Berlin,Germany,11
 virtuell - Im Dol/Am Hirschsprung,0,4.0,Berlin,Germany,11
 virtuell - Kniephofstraße/Altmarkstraße,2,2.0,Berlin,Germany,11
 virtuell - Werneuchener Straße/Genslerstraße,0,4.0,Berlin,Germany,11
@@ -2343,7 +2343,7 @@ virtuell - Kaskelstraße/Kernhofer Straße,1,3.0,Berlin,Germany,11
 virtuell - Genslerstraße/Landsberger Allee,0,4.0,Berlin,Germany,11
 virtuell - Viersener Straße (Seegefelder Straße),0,4.0,Berlin,Germany,11
 virtuell - EDEKA Herrmann (Bekassinenweg),0,4.0,Berlin,Germany,11
-Knesebeckstraße (EDEKA) | BONUS-Station: Return(Rückgabe) here=15 mins free,2,10.0,Berlin,Germany,11
+Knesebeckstraße (EDEKA) | BONUS-Station: Return(Rückgabe) here=15 mins free,3,9.0,Berlin,Germany,11
 virtuell - Kitty-Kuse-Platz (West),0,4.0,Berlin,Germany,11
 virtuell - Blumberger Damm/Elisabethstraße,0,4.0,Berlin,Germany,11
 Quitzowstr. | BONUS-Station: Return(Rückgabe) here=15 mins free,3,2.0,Berlin,Germany,11
@@ -2363,7 +2363,7 @@ virtuell - M Scharnweberstraße/Weichelstraße (Traveplatz),1,2.0,Berlin,Germany
 Tegelerstraße/Lynarstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,5.0,Berlin,Germany,11
 virtuell - Magistratsweg/Brunsbütteler Damm,0,4.0,Berlin,Germany,11
 virtuell - Reichenberger Straße/Ratiborstraße,2,2.0,Berlin,Germany,11
-Jelbi Huxleys Neue Welt (NEU/HU),1,6.0,Berlin,Germany,11
+Jelbi Huxleys Neue Welt (NEU/HU),2,5.0,Berlin,Germany,11
 virtuell - Ostbloc Boulderhalle,0,3.0,Berlin,Germany,11
 virtuell - Kösener Straße/Berkaerstraße,0,4.0,Berlin,Germany,11
 virtuell - Melanchthonstraße/Spenerstraße,4,0.0,Berlin,Germany,11
@@ -2383,19 +2383,19 @@ virtuell - M Wilheminenhofstraße/Edisonstraße,0,3.0,Berlin,Germany,11
 virtuell - Hohenstaufenstraße/Goltzstraße,0,4.0,Berlin,Germany,11
 virtuell - U Bayerischer Platz (Westarpstraße),0,4.0,Berlin,Germany,11
 virtuell - Tempelhofer Damm/Bayernring,0,4.0,Berlin,Germany,11
-virtuell - EDEKA Görse & Meichsner (Handjerystraße),2,2.0,Berlin,Germany,11
+virtuell - EDEKA Görse & Meichsner (Handjerystraße),1,3.0,Berlin,Germany,11
 virtuell - S Hohenschönhausen (Ost),0,4.0,Berlin,Germany,11
 virtuell - U Friedrichsfelde (Nord),0,4.0,Berlin,Germany,11
 virtuell - Alt-Stralau (Caroline-Tübbecke-Ufer),0,4.0,Berlin,Germany,11
 virtuell - Schwimmhalle Sewanstraße,0,4.0,Berlin,Germany,11
 virtuell - S Wilhelmshagen ,0,4.0,Berlin,Germany,11
 virtuell - Gredinger Straße (Ritterfelddamm),0,4.0,Berlin,Germany,11
-virtuell - U Hallesches Ufer (Mehringplatz),0,4.0,Berlin,Germany,11
+virtuell - U Hallesches Ufer (Mehringplatz),1,3.0,Berlin,Germany,11
 virtuell - S Hermsdorf (Nordost),0,4.0,Berlin,Germany,11
 virtuell - Kaulsdorfer Straße/Alte Kaulsdorfer Straße,1,3.0,Berlin,Germany,11
 virtuell - Büchnerweg/Adlergestell,0,4.0,Berlin,Germany,11
 virtuell - St. Joseph Krankenhaus (Bäumerplan),0,4.0,Berlin,Germany,11
-Jelbi Maaßenstraße (SCH/MA),1,4.0,Berlin,Germany,11
+Jelbi Maaßenstraße (SCH/MA),0,5.0,Berlin,Germany,11
 Osram-Höfe | BONUS-Station: Return(Rückgabe) here=15 mins free,0,5.0,Berlin,Germany,11
 virtuell - Tollensestraße (Cecilienstraße),1,3.0,Berlin,Germany,11
 virtuell - Gallwitzallee (St. Marien-Krankenhaus Berlin),3,1.0,Berlin,Germany,11
@@ -2416,18 +2416,18 @@ virtuell - Schönhauser Allee/Saarbrücker Straße,0,4.0,Berlin,Germany,11
 virtuell - Joachimstraße/Tucholsykstraße,1,3.0,Berlin,Germany,11
 virtuell - Paul-Lincke-Ufer/Lausitzer Straße,2,2.0,Berlin,Germany,11
 virtuell - Deutschhofer Allee (Kaulsdorfer Straße),0,4.0,Berlin,Germany,11
-Rochowstr./Corinthstr. | BONUS-Station: Return(Rückgabe) here=15 mins free,2,3.0,Berlin,Germany,11
+Rochowstr./Corinthstr. | BONUS-Station: Return(Rückgabe) here=15 mins free,1,4.0,Berlin,Germany,11
 virtuell - M Herzbergstraße/Industriegebiet,0,4.0,Berlin,Germany,11
 virtuell - S Charlottenburg (Südwest),2,2.0,Berlin,Germany,11
 virtuell - Köpenicker Straße/Verlängerte Köpenicker Straße,0,4.0,Berlin,Germany,11
-virtuell - Weidenweg (105a),2,2.0,Berlin,Germany,11
+virtuell - Weidenweg (105a),1,3.0,Berlin,Germany,11
 virtuell - Wongrowitzer Steig/Güldenauer Weg,1,3.0,Berlin,Germany,11
 virtuell - Eichenhofweg (Hultschiner Damm),0,4.0,Berlin,Germany,11
 virtuell - Swinemünder Straße (Gleimstraße),0,4.0,Berlin,Germany,11
 virtuell - Jordanstraße/Bouchéstraße,1,3.0,Berlin,Germany,11
 virtuell - Muskauerstraße/Manteuffelstraße,0,3.0,Berlin,Germany,11
 virtuell - S+U Tempelhof (Nordost),0,5.0,Berlin,Germany,11
-virtuell - Carl-Herz-Ufer (Altes Zollhaus),0,4.0,Berlin,Germany,11
+virtuell - Carl-Herz-Ufer (Altes Zollhaus),1,3.0,Berlin,Germany,11
 virtuell - Johannisthaler Chaussee (Sportbad Britz),0,4.0,Berlin,Germany,11
 virtuell - Albrechtstraße/Marienstraße,0,4.0,Berlin,Germany,11
 virtuell - Bamberger Straße/Barbarossastraße,0,4.0,Berlin,Germany,11
@@ -2450,7 +2450,7 @@ virtuell - Wartburgstraße/Eisenacher Straße,0,4.0,Berlin,Germany,11
 virtuell - Herrstraße (Paulinen Krankenhaus),1,3.0,Berlin,Germany,11
 virtuell - Westfälische Straße/Nestorstraße,0,4.0,Berlin,Germany,11
 virtuell - Goebenstraße/Kulmer Straße,5,0.0,Berlin,Germany,11
-Brachvogelstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,2,8.0,Berlin,Germany,11
+Brachvogelstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,1,9.0,Berlin,Germany,11
 Paul-Lincke-Ufer/Liegnitzer Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,3,4.0,Berlin,Germany,11
 virtuell - Schorlemerallee/Englerallee,0,4.0,Berlin,Germany,11
 virtuell - Caroline-Michaelis-Straße (Abstellfläche-Mikromobilität),0,6.0,Berlin,Germany,11
@@ -2479,7 +2479,7 @@ virtuell - EDEKA Burau (Mainzer Straße),1,3.0,Berlin,Germany,11
 virtuell - Beusselstraße/Wiclefstraße,1,3.0,Berlin,Germany,11
 Rathaus Friedrichshain-Kreuzberg | BONUS-Station: Return(Rückgabe) here=15 mins free,3,17.0,Berlin,Germany,11
 virtuell - M Mollstraße/Otto-Braun-Straße (Ost),0,4.0,Berlin,Germany,11
-virtuell - Köpenicker Straße/Adalbertstraße,2,2.0,Berlin,Germany,11
+virtuell - Köpenicker Straße/Adalbertstraße,3,1.0,Berlin,Germany,11
 virtuell - M Simon-Bolivar-Straße (Konrad-Wolf-Straße),0,4.0,Berlin,Germany,11
 virtuell - Rustweg (Niederneuendorfer Allee),1,3.0,Berlin,Germany,11
 virtuell - Elberfelderstraße/Essener Straße,1,3.0,Berlin,Germany,11
@@ -2490,7 +2490,7 @@ virtuell - U Gleisdreieck (Nord),0,4.0,Berlin,Germany,11
 virtuell - Josef-Nawrocki-Straße (Müggelpark),1,3.0,Berlin,Germany,11
 virtuell - EDEKA Wiesbadener Straße,2,2.0,Berlin,Germany,11
 Jelbi Torstraße/U Rosenthaler Platz (MIT/TO),3,3.0,Berlin,Germany,11
-virtuell - Zwinglistraße/Gotzkowskystraße,3,1.0,Berlin,Germany,11
+virtuell - Zwinglistraße/Gotzkowskystraße,1,3.0,Berlin,Germany,11
 virtuell - Friedrich-Engels-Straße/Eichenstraße,1,3.0,Berlin,Germany,11
 Jelbi U Breitenbachplatz (DAH/BR),0,5.0,Berlin,Germany,11
 virtuell - Badstraße/Grüntaler Straße,1,3.0,Berlin,Germany,11
@@ -2498,7 +2498,7 @@ virtuell - Urbanstraße/Tempelherrenstraße,1,3.0,Berlin,Germany,11
 virtuell - An der Wuhlheide (Mellowpark),1,3.0,Berlin,Germany,11
 virtuell - Dietlindestraße (Nibelungenpark),0,4.0,Berlin,Germany,11
 virtuell - Phillipstraße/Hannoversche Straße,0,4.0,Berlin,Germany,11
-Möllendorffstr./Rathaus Lichtenberg | BONUS-Station: Return(Rückgabe) here=15 mins free,2,6.0,Berlin,Germany,11
+Möllendorffstr./Rathaus Lichtenberg | BONUS-Station: Return(Rückgabe) here=15 mins free,1,7.0,Berlin,Germany,11
 virtuell - S Mexikoplatz (Nordost),0,4.0,Berlin,Germany,11
 virtuell - Döringstraße/Revaler Straße,0,4.0,Berlin,Germany,11
 Jelbi U Kienberg (KAU/KI),1,3.0,Berlin,Germany,11
@@ -2569,7 +2569,7 @@ virtuell - Am Freibad (Strandbad Lübars),0,4.0,Berlin,Germany,11
 virtuell - Thorwaldsenstraße/Rubensstraße,1,3.0,Berlin,Germany,11
 virtuell - Machnower Straße (Helios Klinikum Emil von Behring),2,2.0,Berlin,Germany,11
 virtuell - Sybelstraße/Wilmersdorfer Straße,1,3.0,Berlin,Germany,11
-virtuell - Lehrter Straße,0,4.0,Berlin,Germany,11
+virtuell - Lehrter Straße,1,3.0,Berlin,Germany,11
 virtuell - Busseallee (Potsdamer Straße),0,4.0,Berlin,Germany,11
 virtuell - Berthelsdorfer Straße/Donaustraße,0,4.0,Berlin,Germany,11
 virtuell - Trebbiner Straße (Deutsches Technikmuseum),0,4.0,Berlin,Germany,11
@@ -2584,16 +2584,16 @@ virtuell - S Botanischer Garten (West),2,2.0,Berlin,Germany,11
 virtuell - Weidenweg/Eckertstraße,0,4.0,Berlin,Germany,11
 virtuell - U Bernauer Straße (Schönholzer Straße),0,4.0,Berlin,Germany,11
 virtuell - Waterloo-Ufer/Zossener Straße,0,4.0,Berlin,Germany,11
-Jelbi Campus Buch/Lindenberger Weg (BUC/LIN),1,11.0,Berlin,Germany,11
+Jelbi Campus Buch/Lindenberger Weg (BUC/LIN),2,10.0,Berlin,Germany,11
 virtuell - Rigaer Straße/Liebigstraße,1,3.0,Berlin,Germany,11
 virtuell - Wongrowitzer Steig (Mahlsdorfer Straße),1,3.0,Berlin,Germany,11
 virtuell - EDEKA Center No. 1,6,0.0,Berlin,Germany,11
 virtuell - Ziegelstraße/Tucholskystraße,2,2.0,Berlin,Germany,11
 virtuell - Gustav-Holzmann-Straße (Sisyphos),0,4.0,Berlin,Germany,11
-virtuell - Bänschstraße/Zellestraße,1,3.0,Berlin,Germany,11
+virtuell - Bänschstraße/Zellestraße,0,4.0,Berlin,Germany,11
 virtuell - KINDL - Zentrum für zeitgenössische Kunst,0,4.0,Berlin,Germany,11
 virtuell - Hinter dem Zeughaus,0,4.0,Berlin,Germany,11
-Jelbi S Buch/P+R-Parkplatz 2 (BUC/BP),25,15.0,Berlin,Germany,11
+Jelbi S Buch/P+R-Parkplatz 2 (BUC/BP),23,17.0,Berlin,Germany,11
 virtuell - Koppenplatz,0,4.0,Berlin,Germany,11
 virtuell - Käthe-Niederkirchner-Straße/Esmarchstraße,0,4.0,Berlin,Germany,11
 virtuell - Stadtbad Märkisches Viertel,0,4.0,Berlin,Germany,11
@@ -2606,13 +2606,13 @@ virtuell - Danziger Straße/Hans-Otto-Straße,0,4.0,Berlin,Germany,11
 virtuell - Dubrowplatz/Ilsensteinweg,0,4.0,Berlin,Germany,11
 virtuell - S Grünbergallee (Nord),0,4.0,Berlin,Germany,11
 virtuell - Grünberger Straße/Kadiner Straße,2,2.0,Berlin,Germany,11
-virtuell - Thulestraße/Neumannstraße,3,1.0,Berlin,Germany,11
+virtuell - Thulestraße/Neumannstraße,2,2.0,Berlin,Germany,11
 virtuell - Rosenthaler Straße (Pasewalker Straße),0,4.0,Berlin,Germany,11
 virtuell - Karl-Ziegler-Straße (Tram),0,4.0,Berlin,Germany,11
-virtuell - Baerwaldstraße/Blücherstraße,1,3.0,Berlin,Germany,11
+virtuell - Baerwaldstraße/Blücherstraße,0,4.0,Berlin,Germany,11
 virtuell - Hermannstraße/Mahlower Straße,1,3.0,Berlin,Germany,11
 virtuell - Weißenhöher Straße (Grabensprung),0,4.0,Berlin,Germany,11
-Jelbi S Adlershof/Rudower Chaussee (ADL/RU),3,1.0,Berlin,Germany,11
+Jelbi S Adlershof/Rudower Chaussee (ADL/RU),2,2.0,Berlin,Germany,11
 virtuell - Bayernring/Boelckestraße,1,3.0,Berlin,Germany,11
 virtuell - Kaiserin-Augusta-Allee/Wieberstraße,0,4.0,Berlin,Germany,11
 virtuell - Skandinavische Straße/Egmontstraße,0,3.0,Berlin,Germany,11
@@ -2633,7 +2633,7 @@ virtuell - Hardenbergstraße/Knesebeckstraße,0,4.0,Berlin,Germany,11
 virtuell - Pflügerstraße/Nansenstraße,0,4.0,Berlin,Germany,11
 virtuell - S Julius-Leber-Brücke (West),0,2.0,Berlin,Germany,11
 virtuell - Ruhrstraße/Bielefelder Straße,2,2.0,Berlin,Germany,11
-virtuell - Bossestraße/Corinthstraße,1,3.0,Berlin,Germany,11
+virtuell - Bossestraße/Corinthstraße,2,2.0,Berlin,Germany,11
 virtuell - Horsteweg/Danckelmannstraße,0,4.0,Berlin,Germany,11
 virtuell - Wartburgstraße/Innsbrucker Straße,2,2.0,Berlin,Germany,11
 Wisbyer Str./Lewaldstr. | BONUS-Station: Return(Rückgabe) here=15 mins free,2,8.0,Berlin,Germany,11
@@ -2687,8 +2687,8 @@ virtuell - Paul-Grasse-Straße/Hosemannstraße,0,4.0,Berlin,Germany,11
 virtuell - S Frohnau (West),0,4.0,Berlin,Germany,11
 Jelbi Breite Straße/Schlossplatz (MIT/SC),1,12.0,Berlin,Germany,11
 virtuell - Heilbronner Straße/Kracauerplatz,0,4.0,Berlin,Germany,11
-virtuell - Auswärtiges Amt (Jägerstraße),0,4.0,Berlin,Germany,11
-Cantianstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,1,4.0,Berlin,Germany,11
+virtuell - Auswärtiges Amt (Jägerstraße),1,3.0,Berlin,Germany,11
+Cantianstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,2,3.0,Berlin,Germany,11
 virtuell - Salzwedeler Straße/Stephanstraße,0,4.0,Berlin,Germany,11
 virtuell - Müggelseedamm/Bruno-Wille-Straße,1,3.0,Berlin,Germany,11
 virtuell - Prellerweg/Munsterdamm,0,6.0,Berlin,Germany,11
@@ -2700,7 +2700,7 @@ virtuell - Neue Jüdenstraße/Am Krögel,0,4.0,Berlin,Germany,11
 virtuell - S Bundesplatz (Süd),0,4.0,Berlin,Germany,11
 virtuell - Albertstraße/Feurigstraße,3,1.0,Berlin,Germany,11
 virtuell - S+U Gesundbrunnen (Nordost),0,4.0,Berlin,Germany,11
-virtuell - Björnsonstraße (Malmöer Straße),1,3.0,Berlin,Germany,11
+virtuell - Björnsonstraße (Malmöer Straße),0,4.0,Berlin,Germany,11
 virtuell - Teufelsseechaussee/Waldschulallee,0,4.0,Berlin,Germany,11
 virtuell - Greifenhagener Straße (Greifenhagener Brücke),0,4.0,Berlin,Germany,11
 virtuell - Joachim-Friedrich-Straße/Damaschkestraße,0,4.0,Berlin,Germany,11
@@ -2718,7 +2718,7 @@ virtuell - EDEKA Yaras (Mariendorfer Damm),1,3.0,Berlin,Germany,11
 virtuell - FEZ (Schnecke),0,4.0,Berlin,Germany,11
 virtuell - U Kaiserdamm (Rognitzstraße),1,3.0,Berlin,Germany,11
 Breite Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,26.0,Berlin,Germany,11
-virtuell - Am Iderfenngraben (Friedrich-Engels-Straße),1,3.0,Berlin,Germany,11
+virtuell - Am Iderfenngraben (Friedrich-Engels-Straße),0,4.0,Berlin,Germany,11
 S Greifswalder Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,10.0,Berlin,Germany,11
 virtuell - EDEKA Gäth (Steglitzer Damm),0,4.0,Berlin,Germany,11
 virtuell - Bützowstraße/Liselotte-Herrmann-Straße,1,3.0,Berlin,Germany,11
@@ -2733,7 +2733,7 @@ Fraenkelufer | BONUS-Station: Return(Rückgabe) here=15 mins free,2,6.0,Berlin,G
 virtuell - EDEKA Görse & Meichsner (Hauptstraße),1,3.0,Berlin,Germany,11
 M Greifswalder Straße/Danziger Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,3,7.0,Berlin,Germany,11
 virtuell - S Pankow-Heinersdorf (West),3,1.0,Berlin,Germany,11
-virtuell - Stubenrauchstraße/Springbornstraße,0,4.0,Berlin,Germany,11
+virtuell - Stubenrauchstraße/Springbornstraße,1,3.0,Berlin,Germany,11
 virtuell - Forckenbeckstraße/Helene-Jacobs-Straße,4,0.0,Berlin,Germany,11
 virtuell - EDEKA Riebe (Platz der Vereinten Nationen),0,2.0,Berlin,Germany,11
 virtuell - S+U Rathaus Spandau (Nord),0,4.0,Berlin,Germany,11
@@ -2752,11 +2752,11 @@ virtuell - Zionskirchstraße/Templiner Straße,0,4.0,Berlin,Germany,11
 virtuell - Preußenallee/Badenallee,0,4.0,Berlin,Germany,11
 virtuell - Rudolstädter Straße/Ermslebener Weg,0,4.0,Berlin,Germany,11
 virtuell - Weserstraße/Friedelstraße,1,2.0,Berlin,Germany,11
-virtuell - Kleine Markusstraße/Kraustraße,0,3.0,Berlin,Germany,11
+virtuell - Kleine Markusstraße/Kraustraße,0,4.0,Berlin,Germany,11
 Jelbi Wilhlemstraße/An d. Kolonnade (MIT/WI),1,9.0,Berlin,Germany,11
 virtuell - Ruhrstraße/Blüthgenstraße,1,3.0,Berlin,Germany,11
 virtuell - Eisenacher Straße/Mariendorfer Damm,0,4.0,Berlin,Germany,11
-S Köllnische Heide | BONUS-Station: Return(Rückgabe) here=15 mins free,3,4.0,Berlin,Germany,11
+S Köllnische Heide | BONUS-Station: Return(Rückgabe) here=15 mins free,2,5.0,Berlin,Germany,11
 virtuell - Torellstraße/Marchlewskistraße,2,0.0,Berlin,Germany,11
 Jelbi Platz des 18. März/Simsonweg (TIE/PS),1,9.0,Berlin,Germany,11
 virtuell - Friedenstraße (Auferstehungskirche),1,3.0,Berlin,Germany,11
@@ -2767,7 +2767,7 @@ virtuell - Auerstraße/Weidenweg,0,4.0,Berlin,Germany,11
 virtuell - U Zwickauer Damm,0,4.0,Berlin,Germany,11
 virtuell - Nassauische Straße/Gasteiner Straße,0,4.0,Berlin,Germany,11
 virtuell - Weißer See (Indira-Gandhi-Straße),0,4.0,Berlin,Germany,11
-Jelbi Campus Buch/Robert-Rössle-Straße (BUC/ROB),4,2.0,Berlin,Germany,11
+Jelbi Campus Buch/Robert-Rössle-Straße (BUC/ROB),5,1.0,Berlin,Germany,11
 virtuell - Josef-Orlopp-Straße/Ruschestraße,3,1.0,Berlin,Germany,11
 virtuell - HWR CAMPUSbike Lichtenberg (Alt-Fredrichsfelde),0,4.0,Berlin,Germany,11
 virtuell - Kirchstraße/Alt-Moabit,2,2.0,Berlin,Germany,11
@@ -2779,7 +2779,7 @@ virtuell - Hedemannstraße (28),0,4.0,Berlin,Germany,11
 virtuell - S Wollankstraße (Süd),1,3.0,Berlin,Germany,11
 virtuell - Gatower Straße/Alt-Gatow,0,4.0,Berlin,Germany,11
 virtuell - EDEKA Fromm (Müllerstraße),2,2.0,Berlin,Germany,11
-Jelbi S Buch/Moorwiese (BUC/BUC),4,6.0,Berlin,Germany,11
+Jelbi S Buch/Moorwiese (BUC/BUC),3,7.0,Berlin,Germany,11
 virtuell - Erich-Weinert-Straße/Sültstraße,1,3.0,Berlin,Germany,11
 virtuell - Donaustraße/Schönstedtstraße,0,5.0,Berlin,Germany,11
 virtuell - Hohenzollerndamm/Landecker Straße,1,5.0,Berlin,Germany,11
@@ -2787,7 +2787,7 @@ Jelbi Gertrud-Kolmar-Straße/Hannah-Arendt-Straße (MIT/GE),0,10.0,Berlin,German
 virtuell - An der Apostelkirche/Else-Lasker-Schüler-Straße,1,3.0,Berlin,Germany,11
 virtuell - Stadion Lichterfelde (Ostpreußendamm),0,4.0,Berlin,Germany,11
 virtuell - Weidenweg/Löwestraße,1,2.0,Berlin,Germany,11
-virtuell - Hannoversche Straße (HU Nord),1,2.0,Berlin,Germany,11
+virtuell - Hannoversche Straße (HU Nord),0,3.0,Berlin,Germany,11
 virtuell - Wichmannstraße/Schillstraße,0,4.0,Berlin,Germany,11
 virtuell - Alt-Stralau (Tunnelstraße),1,3.0,Berlin,Germany,11
 virtuell - Habersaathstraße (Scharnhorststraße),0,4.0,Berlin,Germany,11
@@ -2808,9 +2808,9 @@ virtuell - Kürfürstendamm/Olivaer Platz (West),2,2.0,Berlin,Germany,11
 virtuell - Westfälische Straße/Paulsborner Straße,1,3.0,Berlin,Germany,11
 virtuell – Karl-Marx-Straße/Reuterstraße (Nord),1,3.0,Berlin,Germany,11
 virtuell - U Kienberg Ost (Garten der Welt),1,3.0,Berlin,Germany,11
-virtuell - Pichelsdorfer Straße/Spandauer Burgwall,1,3.0,Berlin,Germany,11
+virtuell - Pichelsdorfer Straße/Spandauer Burgwall,0,4.0,Berlin,Germany,11
 virtuell - Ebersstraße/Kärntener Straße,0,4.0,Berlin,Germany,11
-virtuell - Florastraße/Görschstraße,2,2.0,Berlin,Germany,11
+virtuell - Florastraße/Görschstraße,1,3.0,Berlin,Germany,11
 virtuell - Rönnestraße/Holtzendorffstraße,0,4.0,Berlin,Germany,11
 virtuell - Kolberger Straße/Gerichtsstraße,3,3.0,Berlin,Germany,11
 virtuell - Gartenstadt Staaken (Torweg),0,4.0,Berlin,Germany,11
@@ -2852,7 +2852,7 @@ virtuell - EDEKA Alt-Rudow,0,4.0,Berlin,Germany,11
 virtuell - EDEKA Friedrich (Raoul-Wallenberg-Straße),0,4.0,Berlin,Germany,11
 virtuell - Lützowufer/Flottwellstraße,0,6.0,Berlin,Germany,11
 virtuell - Greifswalder Straße/Käthe-Niederkirchner-Straße,1,3.0,Berlin,Germany,11
-virtuell - U Rosenthaler Platz (Nord),4,0.0,Berlin,Germany,11
+virtuell - U Rosenthaler Platz (Nord),5,0.0,Berlin,Germany,11
 virtuell - Kniprodestraße/Anton-Saefkow-Straße,1,3.0,Berlin,Germany,11
 virtuell - Michiganseestraße/Dolgenseestraße,2,2.0,Berlin,Germany,11
 virtuell - EDEKA Berlin Britzer Damm,0,4.0,Berlin,Germany,11
@@ -2868,11 +2868,11 @@ virtuell - Lietzenseepark (Nordost),0,4.0,Berlin,Germany,11
 virtuell - Danziger Straße/Rykestraße,0,4.0,Berlin,Germany,11
 virtuell - Sonnenallee/Erkstraße,0,4.0,Berlin,Germany,11
 virtuell - Griechische Allee/Firlstraße,0,4.0,Berlin,Germany,11
-virtuell - S Ostkreuz (Süd),1,3.0,Berlin,Germany,11
+virtuell - S Ostkreuz (Süd),2,2.0,Berlin,Germany,11
 virtuell - Große Seestraße/Parkstraße,0,4.0,Berlin,Germany,11
 virtuell - Am Kleinen Wannsee (Königstraße),0,4.0,Berlin,Germany,11
 virtuell - Körnerpark (Jonasstraße/Wittmannsdorfer Straße),0,4.0,Berlin,Germany,11
-Jelbi Bundesdruckerei (KRE/BU),0,10.0,Berlin,Germany,11
+Jelbi Bundesdruckerei (KRE/BU),1,9.0,Berlin,Germany,11
 virtuell - Oldenburger Straße (42a),0,4.0,Berlin,Germany,11
 virtuell - Weißenburger Straße/Krowelstraße,8,0.0,Berlin,Germany,11
 virtuell - Bruno-Wille-Straße/Karl-Pokern-Straße,2,2.0,Berlin,Germany,11
@@ -2901,7 +2901,7 @@ S Nöldnerplatz | BONUS-Station: Return(Rückgabe) here=15 mins free,0,15.0,Berl
 Jelbi- S Landsberger Allee/SSE (PRE/LA),0,5.0,Berlin,Germany,11
 Sickingenstr. | BONUS-Station: Return(Rückgabe) here=15 mins free,1,4.0,Berlin,Germany,11
 virtuell - S Bellevue (Süd),0,4.0,Berlin,Germany,11
-virtuell - Sewanstraße/Volkradstraße,1,3.0,Berlin,Germany,11
+virtuell - Sewanstraße/Volkradstraße,2,2.0,Berlin,Germany,11
 virtuell - Forckenbeckstraße (Sommerbad Wilmersdorf),1,3.0,Berlin,Germany,11
 virtuell - Wartburgstraße/Salzburger Straße,0,4.0,Berlin,Germany,11
 virtuell - Werner-Voß-Damm/Gontermannstraße,0,4.0,Berlin,Germany,11
@@ -2931,7 +2931,7 @@ Mariannenplatz | BONUS-Station: Return(Rückgabe) here=15 mins free,9,0.0,Berlin
 virtuell - Rabensteiner Straße (Havemannstraße),0,4.0,Berlin,Germany,11
 virtuell - Herschelstraße/Fabriciusstraße,0,4.0,Berlin,Germany,11
 virtuell - Erwin-Bock-Straße (7-9),0,4.0,Berlin,Germany,11
-virtuell - Marienstraße/Pasewalker Straße,0,4.0,Berlin,Germany,11
+virtuell - Marienstraße/Pasewalker Straße,1,3.0,Berlin,Germany,11
 virtuell - Heinrich-Grüber-Straße (Kranoldstraße),0,4.0,Berlin,Germany,11
 virtuell - Am Nordhafen (Fennstraße),0,4.0,Berlin,Germany,11
 virtuell - Dernburgerstraße/Herbartstraße,1,3.0,Berlin,Germany,11
@@ -2949,7 +2949,7 @@ virtuell - Stargarder Straße 5 (Abstellfläche-Mikromobilität),1,5.0,Berlin,Ge
 virtuell - Rixdorfer Straße (Sommerbad Mariendorf),1,3.0,Berlin,Germany,11
 virtuell - Sterndamm/Waldstraße,0,4.0,Berlin,Germany,11
 virtuell - Otto-Weidt-Platz (Hedwig-Porschütz-Straße),1,3.0,Berlin,Germany,11
-virtuell - Warener Straße/Ost (Klinikum Unfallkrankenhaus Berlin),0,4.0,Berlin,Germany,11
+virtuell - Warener Straße/Ost (Klinikum Unfallkrankenhaus Berlin),1,3.0,Berlin,Germany,11
 virtuell - Tempelhofer Ufer/Möckernstraße,0,4.0,Berlin,Germany,11
 virtuell - Reichsstraße/Kastanienallee,1,3.0,Berlin,Germany,11
 virtuell - Heylstraße/Martin-Luther-Straße,1,3.0,Berlin,Germany,11
@@ -2958,7 +2958,7 @@ virtuell - Schwimmhalle Fischerinsel,2,2.0,Berlin,Germany,11
 virtuell - Gensinger Straße Ost,0,4.0,Berlin,Germany,11
 virtuell - Anton-Saefkow-Straße/Bötzowstraße,0,4.0,Berlin,Germany,11
 virtuell - Bornholmer Straße/Driesener Straße,0,4.0,Berlin,Germany,11
-virtuell - Braunschweiger Straße/Brusenforder Straße,6,0.0,Berlin,Germany,11
+virtuell - Braunschweiger Straße/Brusenforder Straße,4,0.0,Berlin,Germany,11
 virtuell - Budapesterstraße (Abstellfläche-Mikromobilität),0,6.0,Berlin,Germany,11
 virtuell - Mommsenstadion,8,0.0,Berlin,Germany,11
 virtuell - Karl-Marx-Straße (175),0,4.0,Berlin,Germany,11
@@ -3001,11 +3001,11 @@ virtuell - Krossener Straße/Knorrpromenade,0,4.0,Berlin,Germany,11
 virtuell - Kollwitzstraße/Metzer Straße,0,4.0,Berlin,Germany,11
 virtuell - S Savignyplatz (Nieburstraße),3,1.0,Berlin,Germany,11
 Pohlstrasse | BONUS-Station: Return(Rückgabe) here=15 mins free,0,10.0,Berlin,Germany,11
-virtuell - Naugarder Straße/Erich-Weinert-Straße,1,3.0,Berlin,Germany,11
+virtuell - Naugarder Straße/Erich-Weinert-Straße,0,4.0,Berlin,Germany,11
 virtuell - Schloßstraße/Spandauer Damm,1,3.0,Berlin,Germany,11
 virtuell - Laskerstraße/Markgrafendamm,0,4.0,Berlin,Germany,11
 virtuell - Solmsstraße/Fürbringerstraße,2,2.0,Berlin,Germany,11
-Große Hamburger Str. | BONUS-Station: Return(Rückgabe) here=15 mins free,1,12.0,Berlin,Germany,11
+Große Hamburger Str. | BONUS-Station: Return(Rückgabe) here=15 mins free,2,11.0,Berlin,Germany,11
 virtuell - Unter den Eichen (Asternplatz),0,4.0,Berlin,Germany,11
 virtuell - Gensinger Straße Nord,0,4.0,Berlin,Germany,11
 virtuell - S Mexikoplatz (Süd),0,4.0,Berlin,Germany,11
@@ -3025,7 +3025,7 @@ virtuell - Monumentenstraße/Czeminskistraße,0,4.0,Berlin,Germany,11
 virtuell - U Wilmersdorfer Straße Nord,0,10.0,Berlin,Germany,11
 virtuell - Thaerstraße/Hermann-Blankenstein-Straße,0,4.0,Berlin,Germany,11
 virtuell - Offenbacher Straße/Laubacher Straße,0,4.0,Berlin,Germany,11
-virtuell - Johannes-Sasse-Ring (Eisenhutweg),2,2.0,Berlin,Germany,11
+virtuell - Johannes-Sasse-Ring (Eisenhutweg),1,3.0,Berlin,Germany,11
 virtuell - Am Nordgraben (Vivantes Humboldt-Klinikum),0,4.0,Berlin,Germany,11
 virtuell - Greifswalder Straße/Thomas-Mann-Straße,0,4.0,Berlin,Germany,11
 virtuell - Bornitzstraße/Sparda-Bank,1,3.0,Berlin,Germany,11
@@ -3034,7 +3034,7 @@ virtuell - Eichhornstraße/Linkstraße,1,3.0,Berlin,Germany,11
 virtuell - EDEKA Schrader (Marienfelder Chaussee),0,4.0,Berlin,Germany,11
 virtuell - Stralauer Allee/Rochowstraße,1,3.0,Berlin,Germany,11
 virtuell - Köpenicker Straße/Appollofalterallee,0,4.0,Berlin,Germany,11
-virtuell - Maybachufer/Friedelstraße,4,0.0,Berlin,Germany,11
+virtuell - Maybachufer/Friedelstraße,3,1.0,Berlin,Germany,11
 virtuell - U Kaiserdamm (Messedamm),0,4.0,Berlin,Germany,11
 virtuell - Walther-Nernst-Straße (Rudower Chaussee),0,4.0,Berlin,Germany,11
 virtuell - S Priesterweg (Süd),0,4.0,Berlin,Germany,11
@@ -3045,7 +3045,7 @@ virtuell - Greifswalder Straße/Dietrich-Bonhoeffer-Straße,0,4.0,Berlin,Germany
 virtuell - Arndtstraße/Nostitzstraße,0,4.0,Berlin,Germany,11
 virtuell - Annenstraße,2,2.0,Berlin,Germany,11
 Jelbi Campus Buch/C31 (BUC/C31),0,9.0,Berlin,Germany,11
-Jelbi Memhardstraße/Rosa-Luxemburg-Straße (MIT/ME),0,8.0,Berlin,Germany,11
+Jelbi Memhardstraße/Rosa-Luxemburg-Straße (MIT/ME),1,7.0,Berlin,Germany,11
 virtuell - Essener Straße/Stromstraße,0,4.0,Berlin,Germany,11
 virtuell - Charlottenburger Chaussee/Klärwerkstraße,0,4.0,Berlin,Germany,11
 virtuell - Hindemithplatz,1,3.0,Berlin,Germany,11
@@ -3053,7 +3053,7 @@ virtuell - Mainauer Straße/Südwestkorso,0,6.0,Berlin,Germany,11
 virtuell - Rudower Straße/Johannisthaler Chaussee,0,4.0,Berlin,Germany,11
 virtuell - S Grünau (West),1,3.0,Berlin,Germany,11
 virtuell - EDEKA Friedrich (Rotkamp),1,3.0,Berlin,Germany,11
-virtuell - EDEKA Thaut,3,1.0,Berlin,Germany,11
+virtuell - EDEKA Thaut,2,2.0,Berlin,Germany,11
 virtuell - EDEKA Center Stepaniak (Hansastraße),1,3.0,Berlin,Germany,11
 virtuell - Eulerstraße/Jülicher Straße,2,2.0,Berlin,Germany,11
 virtuell - Mainzer Straße/Weimarische Straße,0,4.0,Berlin,Germany,11
@@ -3070,7 +3070,7 @@ Jelbi U Alexanderplatz/Bernhard-Weiß-Straße (MIT/AB),1,7.0,Berlin,Germany,11
 virtuell - Maxie-Wander-Straße/Carola-Neher-Straße,0,4.0,Berlin,Germany,11
 virtuell - Treskowallee/Marksburgstraße,1,3.0,Berlin,Germany,11
 virtuell - U Mendelssohn-Bartholdy-Park (Reichpietschufer),0,4.0,Berlin,Germany,11
-Jelbi U Warschauer Straße/ Rudolfstraße (FHA/RU),0,4.0,Berlin,Germany,11
+Jelbi U Warschauer Straße/ Rudolfstraße (FHA/RU),1,3.0,Berlin,Germany,11
 virtuell - Planckstraße,0,4.0,Berlin,Germany,11
 virtuell - Kühleweinstraße/Reginhardstraße,0,4.0,Berlin,Germany,11
 virtuell - Gierkeplatz (Süd),0,4.0,Berlin,Germany,11
@@ -3088,7 +3088,7 @@ Jelbi Admiralbrücke (KRE/ADM),1,10.0,Berlin,Germany,11
 Jelbi Betriebshof Marzahn (MAR/BE),0,4.0,Berlin,Germany,11
 virtuell - Jägerstraße/Charlottenstraße (Ost),0,4.0,Berlin,Germany,11
 virtuell - Sächische Straße/Wittelsbacherstraße,0,4.0,Berlin,Germany,11
-virtuell - Böhmischer Platz (Süd),3,1.0,Berlin,Germany,11
+virtuell - Böhmischer Platz (Süd),2,2.0,Berlin,Germany,11
 virtuell - Kaiser-Friedrich-Straße/Lohmeyerstraße,0,4.0,Berlin,Germany,11
 Str. des 17. Juni | BONUS-Station: Return(Rückgabe) here=15 mins free,0,16.0,Berlin,Germany,11
 virtuell - S Tiergarten (West),0,4.0,Berlin,Germany,11
@@ -3100,13 +3100,13 @@ virtuell - Lüneburger Straße/Spenerstraße,2,2.0,Berlin,Germany,11
 virtuell - Berliner Allee/Rennbahnstraße,0,4.0,Berlin,Germany,11
 virtuell - Steglitzer Damm/Sedanstraße,0,4.0,Berlin,Germany,11
 virtuell - Yorckstraße/Großbeerenstraße,1,3.0,Berlin,Germany,11
-virtuell - EDEKA Schmitt (S+U Pankow),1,3.0,Berlin,Germany,11
+virtuell - EDEKA Schmitt (S+U Pankow),2,2.0,Berlin,Germany,11
 virtuell - Weiskopffstraße (Parkstraße),2,1.0,Berlin,Germany,11
 virtuell - Frankfurter Allee/Hubertusstraße (Abstellfläche-Mikromobilität),1,5.0,Berlin,Germany,11
 virtuell - Goethestraße/Knesebeckstraße,0,4.0,Berlin,Germany,11
 virtuell - EDEKA Tempelhofer Damm (U Kaiserin-Augusta-Straße),0,4.0,Berlin,Germany,11
 virtuell - EDEKA Ulrich (Falkenplatz),0,4.0,Berlin,Germany,11
-virtuell - Alt-Moabit/Jagowstraße,1,3.0,Berlin,Germany,11
+virtuell - Alt-Moabit/Jagowstraße,0,4.0,Berlin,Germany,11
 virtuell - Kollwitzstraße/Sredzkistraße,0,4.0,Berlin,Germany,11
 virtuell - Elisabethkirchstraße/Strelitzer Straße,1,3.0,Berlin,Germany,11
 virtuell - Falkenseer Platz (Falkenseer Damm),0,4.0,Berlin,Germany,11
@@ -3116,13 +3116,13 @@ virtuell - Neuköllnische Allee/Planetenstraße,3,1.0,Berlin,Germany,11
 virtuell - Alt-Mahlsdorf (B1 Center),0,4.0,Berlin,Germany,11
 virtuell - Reinerzstraße/August-Viktoria-Straße,0,4.0,Berlin,Germany,11
 virtuell - Ledebourstraße (Hultschiner Damm),1,3.0,Berlin,Germany,11
-virtuell - S Schöneweide (Michael-Brückner-Straße/Sterndamm),3,7.0,Berlin,Germany,11
+virtuell - S Schöneweide (Michael-Brückner-Straße/Sterndamm),5,5.0,Berlin,Germany,11
 virtuell - Wilmersdorfer Straße/Zillestraße,1,3.0,Berlin,Germany,11
 virtuell - S Messe Nord/ICC,0,4.0,Berlin,Germany,11
 virtuell - Dammweg/Aronsstraße,0,4.0,Berlin,Germany,11
 virtuell - Grellstraße/Hosemannstraße,0,4.0,Berlin,Germany,11
 virtuell - Galenusstraße (Pasewalker Straße),0,4.0,Berlin,Germany,11
-virtuell - Heidestraße/Annemarie-Renger-Straße,0,4.0,Berlin,Germany,11
+virtuell - Heidestraße/Annemarie-Renger-Straße,1,3.0,Berlin,Germany,11
 virtuell - James-Frank-Straße (6),0,4.0,Berlin,Germany,11
 virtuell - Erich-Kuttner-Straße/Arthur-Weisbrodt-Straße,0,4.0,Berlin,Germany,11
 virtuell - Paul-Robeson-Straße/Schönfließer Straße,1,3.0,Berlin,Germany,11
@@ -3142,7 +3142,7 @@ virtuell - Pannierstraße (37),0,4.0,Berlin,Germany,11
 virtuell - Heinrich-Grüber-Straße/Bausdorfstraße,0,4.0,Berlin,Germany,11
 virtuell - Colditzstraße/Volkmarstraße,0,4.0,Berlin,Germany,11
 virtuell - Gervinusstraße/Droysenstraße,2,2.0,Berlin,Germany,11
-virtuell - S Karlshorst (Südost),0,6.0,Berlin,Germany,11
+virtuell - S Karlshorst (Südost),1,5.0,Berlin,Germany,11
 virtuell - U Grenzallee (Nord),0,4.0,Berlin,Germany,11
 virtuell - Turmstraße/Jonasstraße,1,3.0,Berlin,Germany,11
 virtuell - S+U Rathaus Steglitz (West),0,4.0,Berlin,Germany,11
@@ -3157,8 +3157,8 @@ virtuell - Wundtstraße/Riehlstraße,0,4.0,Berlin,Germany,11
 virtuell - Neue Grünstraße/Elisabeth-Mara-Straße,0,4.0,Berlin,Germany,11
 virtuell - Invalidenstraße (Naturkundemuseum),0,4.0,Berlin,Germany,11
 virtuell - Richardplatz/Schudomastraße,1,3.0,Berlin,Germany,11
-virtuell - Granseer Straße/Fürstenberger Straße,1,3.0,Berlin,Germany,11
-virtuell - Hauptstraße/Kärntener Straße,1,2.0,Berlin,Germany,11
+virtuell - Granseer Straße/Fürstenberger Straße,0,4.0,Berlin,Germany,11
+virtuell - Hauptstraße/Kärntener Straße,1,1.0,Berlin,Germany,11
 virtuell - Bernauer Straße/Strelitzer Straße,1,2.0,Berlin,Germany,11
 virtuell - Kantstraße/Kaiser-Friedrich-Straße,0,4.0,Berlin,Germany,11
 virtuell - Roseggerstraße (Hultschiner Damm),1,3.0,Berlin,Germany,11
@@ -3174,7 +3174,7 @@ virtuell - U Richard-Wagner-Platz (Nordwest),0,4.0,Berlin,Germany,11
 virtuell - M Altenhofer Straße (Mittelstraße),0,4.0,Berlin,Germany,11
 virtuell - Rübezahl (Müggelseepromenaden),3,1.0,Berlin,Germany,11
 virtuell - Leonhardtstraße/Friedbergstraße,0,4.0,Berlin,Germany,11
-Danziger Straße/Lychener Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,2,18.0,Berlin,Germany,11
+Danziger Straße/Lychener Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,1,19.0,Berlin,Germany,11
 S+U Alexanderplatz (Alexa)| BONUS-Station: Return(Rückgabe) here=15 mins free,0,27.0,Berlin,Germany,11
 virtuell - Kantstraße/Uhlandstraße,0,4.0,Berlin,Germany,11
 virtuell - U Theodor-Heuss-Platz,0,4.0,Berlin,Germany,11
@@ -3200,10 +3200,10 @@ virtuell - Eichenstraße/Waldstraße,0,4.0,Berlin,Germany,11
 virtuell - Helgoländer Ufer/Kirchstraße,1,3.0,Berlin,Germany,11
 virtuell - Danckelmannstraße/Knobelsdorffstraße,2,2.0,Berlin,Germany,11
 virtuell - EDEKA Meissner (Bismarckstraße),0,,Berlin,Germany,11
-Sportplatz Emdener Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,5,0.0,Berlin,Germany,11
+Sportplatz Emdener Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,4,1.0,Berlin,Germany,11
 virtuell - Schwarzer Weg/Habersaathstraße,0,4.0,Berlin,Germany,11
 virtuell - Paul-Robeson-Straße/Seelower Straße,0,4.0,Berlin,Germany,11
-virtuell - Kiefholzstraße/Dammweg,1,5.0,Berlin,Germany,11
+virtuell - Kiefholzstraße/Dammweg,0,6.0,Berlin,Germany,11
 virtuell - Hohenzollerndamm/Teplitzer Straße,0,4.0,Berlin,Germany,11
 virtuell - S Schöneberg (Torgauer Straße),0,3.0,Berlin,Germany,11
 virtuell - Seebad Wendenschloss,0,4.0,Berlin,Germany,11
@@ -3211,7 +3211,7 @@ virtuell - Oderbergerstraße 27 (Abstellfläche-Mikromobilität),0,6.0,Berlin,Ge
 virtuell - EDEKA Langkopf (Blissestraße),0,4.0,Berlin,Germany,11
 virtuell - EDEKA Kruppa (Kottmeierstraße),3,1.0,Berlin,Germany,11
 virtuell - U Holzhauser Straße (Ost),0,4.0,Berlin,Germany,11
-virtuell - Fraunhoferstraße/Kohlrauschstraße,2,2.0,Berlin,Germany,11
+virtuell - Fraunhoferstraße/Kohlrauschstraße,1,3.0,Berlin,Germany,11
 virtuell - Beerwinkel (Falkenseer Chaussee),0,4.0,Berlin,Germany,11
 virtuell - Rathausstraße/Dottistraße,0,4.0,Berlin,Germany,11
 virtuell - Fischerinsel,3,0.0,Berlin,Germany,11
@@ -3229,19 +3229,19 @@ virtuell - Kienitzer Straße (20),1,3.0,Berlin,Germany,11
 virtuell - Blissestraße/Wilhelmsaue,0,4.0,Berlin,Germany,11
 S+U Hauptbahnhof Washingtonplatz | BONUS-Station: Return(Rückgabe) here=15 mins free,12,0.0,Berlin,Germany,11
 virtuell - Wattstraße/Stralsunder Straße,0,4.0,Berlin,Germany,11
-virtuell - Sprengelstraße/Torfstraße,4,0.0,Berlin,Germany,11
+virtuell - Sprengelstraße/Torfstraße,3,1.0,Berlin,Germany,11
 virtuell - Schwarzbacher Straße/Storkinkel,0,4.0,Berlin,Germany,11
-virtuell - Hermannstraße/Nogatstraße,0,4.0,Berlin,Germany,11
+virtuell - Hermannstraße/Nogatstraße,1,3.0,Berlin,Germany,11
 virtuell - U Hallesches Ufer (Nord),1,3.0,Berlin,Germany,11
 virtuell - Schumannstraße/Luisenstraße,0,4.0,Berlin,Germany,11
-virtuell - Boelckestraße/Schreiberring,2,2.0,Berlin,Germany,11
+virtuell - Boelckestraße/Schreiberring,1,3.0,Berlin,Germany,11
 virtuell - S Olympiastadion (Flatowallee/Jesse-Owens-Allee),1,9.0,Berlin,Germany,11
 virtuell - Waltersdorfer Chaussee/Ostburger Weg,0,4.0,Berlin,Germany,11
 Arkonaplatz | BONUS-Station: Return(Rückgabe) here=15 mins free,2,16.0,Berlin,Germany,11
 virtuell - EDEKA Gäth (Steglitzer Damm),1,3.0,Berlin,Germany,11
 virtuell - Wassersportallee/Regattastraße,0,4.0,Berlin,Germany,11
-virtuell - Treptower Straße/Werrastraße,2,2.0,Berlin,Germany,11
-DB Mobility Hub S Südkreuz (EDEKA Südkreuz/Lotte-Laserstein-Straße),1,5.0,Berlin,Germany,11
+virtuell - Treptower Straße/Werrastraße,1,3.0,Berlin,Germany,11
+DB Mobility Hub S Südkreuz (EDEKA Südkreuz/Lotte-Laserstein-Straße),2,4.0,Berlin,Germany,11
 virtuell - Scharnweberstraße/Kinzigstraße,0,4.0,Berlin,Germany,11
 virtuell - Chamissoplatz/Arndtstraße,1,3.0,Berlin,Germany,11
 virtuell - Krüllstraße/Karl-Kruger-Straße,4,0.0,Berlin,Germany,11
@@ -3250,7 +3250,7 @@ virtuell - Tempelhofer Weg/Holzmindener Straße,0,4.0,Berlin,Germany,11
 virtuell - Kirchhofstraße (Kirsten-Helsig-Platz),2,2.0,Berlin,Germany,11
 virtuell - Nalepastraße/Helmholtzstraße,1,3.0,Berlin,Germany,11
 Jelbi Hohenstaufenplatz/Dieffenbachstraße (KRE/HO),1,15.0,Berlin,Germany,11
-virtuell - EDEKA Erler (Berlepschstraße),0,4.0,Berlin,Germany,11
+virtuell - EDEKA Erler (Berlepschstraße),1,3.0,Berlin,Germany,11
 virtuell - Lietzenburger Straße/Rankestraße,0,4.0,Berlin,Germany,11
 virtuell - Müggelseedamm (Surferwiese),0,4.0,Berlin,Germany,11
 virtuell - Wilhelm-Kabus-Straße/Torgauer Straße,0,4.0,Berlin,Germany,11
@@ -3259,7 +3259,7 @@ virtuell - Paul-Robeson-Straße/Schönhauser Allee,1,3.0,Berlin,Germany,11
 Ella-Trebe-Straße/Rahel-Hirsch-Straße,1,5.0,Berlin,Germany,11
 virtuell - Bartastraße/Mareschstraße,4,0.0,Berlin,Germany,11
 virtuell - Alt-Moabit/Gotzkowskystraße,0,4.0,Berlin,Germany,11
-virtuell - U Oranienburger Tor (Ost),0,4.0,Berlin,Germany,11
+virtuell - U Oranienburger Tor (Ost),1,3.0,Berlin,Germany,11
 virtuell - Ostendstraße/Slabystraße,4,0.0,Berlin,Germany,11
 virtuell - Schlegelstraße/Chausseestraße,0,4.0,Berlin,Germany,11
 virtuell - Marburger Straße/Augsburger Straße,1,3.0,Berlin,Germany,11
@@ -3268,8 +3268,8 @@ virtuell - Grenzstraße/Mannheimer Straße,0,4.0,Berlin,Germany,11
 virtuell - Dörpfeldstraße/Anna-Seghers-Straße,0,4.0,Berlin,Germany,11
 virtuell - S Biesdorf (Süd),0,4.0,Berlin,Germany,11
 Jelbi Herrfurthplatz West (NEU/HW),3,6.0,Berlin,Germany,11
-virtuell - S+U Frankfurter Allee (Ring-Center 1/Süd),1,3.0,Berlin,Germany,11
-Jelbi S+U Hauptbahnhof/Europaplatz Ost (MOA/EO),1,7.0,Berlin,Germany,11
+virtuell - S+U Frankfurter Allee (Ring-Center 1/Süd),2,2.0,Berlin,Germany,11
+Jelbi S+U Hauptbahnhof/Europaplatz Ost (MOA/EO),2,6.0,Berlin,Germany,11
 virtuell - Siegfriedstraße/Ilsestraße,1,3.0,Berlin,Germany,11
 S Rummelsburg | BONUS-Station: Return(Rückgabe) here=15 mins free,1,9.0,Berlin,Germany,11
 virtuell - S Schöneberg (West),1,3.0,Berlin,Germany,11
@@ -3284,34 +3284,34 @@ virtuell - Wiesenstraße/Grenzstraße (Sommerbad Humboldthain),0,4.0,Berlin,Germ
 virtuell - Rahnsdorfer Straße (Hultschiner Damm),0,4.0,Berlin,Germany,11
 virtuell - Heidestraße/Lisa-Fittkow-Straße,1,3.0,Berlin,Germany,11
 virtuell - Steffelbauerstraße/An der Wuhlheide,0,4.0,Berlin,Germany,11
-virtuell - Hönower Wiesenweg/Blockdammweg,5,0.0,Berlin,Germany,11
+virtuell - Hönower Wiesenweg/Blockdammweg,4,0.0,Berlin,Germany,11
 virtuell - Goßlerstraße/Stubenrauchstraße,2,2.0,Berlin,Germany,11
 Jelbi Stadion Haselhorst (HAS/ST),0,5.0,Berlin,Germany,11
 virtuell - Kantstraße/Weimarer Straße,0,4.0,Berlin,Germany,11
 virtuell - Französische Straße/Hinter der Katholischen Kirche,0,4.0,Berlin,Germany,11
 virtuell - Schwiebusser Straße/Friesenstraße,0,4.0,Berlin,Germany,11
 virtuell - Gervinusstraße/Wilmersdorfer Straße,0,4.0,Berlin,Germany,11
-Ritterstraße/Alte Jakobstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,1,4.0,Berlin,Germany,11
+Ritterstraße/Alte Jakobstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,5.0,Berlin,Germany,11
 virtuell - Köpenicker Chaussee/Blockdammweg,2,2.0,Berlin,Germany,11
 virtuell - U Rosa-Luxemburg-Platz/Linienstraße (West),0,4.0,Berlin,Germany,11
 virtuell - Spenerstraße (Alt-Moabit),0,4.0,Berlin,Germany,11
-virtuell - M Kopernikusstraße/Warschauer Straße (Südwest),1,3.0,Berlin,Germany,11
+virtuell - M Kopernikusstraße/Warschauer Straße (Südwest),3,1.0,Berlin,Germany,11
 virtuell - Bahrfeldtstraße/Palmkernzeile,0,4.0,Berlin,Germany,11
 virtuell - M Danziger Straße/Prenzlauer Allee (Ost),0,4.0,Berlin,Germany,11
 virtuell - Palisadenstraße/Friedenstraße,0,4.0,Berlin,Germany,11
 virtuell - U Rüdesheimer Platz (Nord),0,3.0,Berlin,Germany,11
 virtuell - Trendelenburgstraße/Suarezstraße,0,4.0,Berlin,Germany,11
 virtuell - Weidenweg/Eckertstraße,0,4.0,Berlin,Germany,11
-virtuell - Hildegardstraße/Schrammstraße,1,3.0,Berlin,Germany,11
+virtuell - Hildegardstraße/Schrammstraße,0,4.0,Berlin,Germany,11
 Jelbi U Cottbusser Platz (HEL/CO),3,1.0,Berlin,Germany,11
 virtuell - Schottstraße/Roedeliusplatz,2,2.0,Berlin,Germany,11
 virtuell - Heylstraße/Innsbrucker Straße,0,4.0,Berlin,Germany,11
 virtuell - Burgsdorfstraße/Willdenowstraße,1,3.0,Berlin,Germany,11
 virtuell - Utrechter Straße/Malplaquetstraße,1,3.0,Berlin,Germany,11
 virtuell - S+U Tempelhof (West),0,4.0,Berlin,Germany,11
-virtuell - S Alt-Reinickendorf (Süd),2,2.0,Berlin,Germany,11
+virtuell - S Alt-Reinickendorf (Süd),3,1.0,Berlin,Germany,11
 virtuell - U Herrmannplatz (Süd),1,5.0,Berlin,Germany,11
-virtuell - Birkenstraße/Wilsnacker Straße,6,0.0,Berlin,Germany,11
+virtuell - Birkenstraße/Wilsnacker Straße,4,0.0,Berlin,Germany,11
 virtuell - Berliner Dom,0,6.0,Berlin,Germany,11
 virtuell - Am Kiesteich (Falkenseer Chaussee),1,3.0,Berlin,Germany,11
 virtuell - Grenzallee/Am Oberhafen,0,4.0,Berlin,Germany,11
@@ -3319,21 +3319,21 @@ virtuell - Kaiserstraße/Gersdorfstraße,1,3.0,Berlin,Germany,11
 virtuell - U Vinetastraße (Elsa-Brändström-Straße),1,3.0,Berlin,Germany,11
 virtuell - Kapelle-Ufer/Alexanderufer,0,4.0,Berlin,Germany,11
 Jelbi Cecilienstraße/Blumberger Damm (BIE/CE),0,4.0,Berlin,Germany,11
-virtuell - S+U Jungfernheide (Süd),0,4.0,Berlin,Germany,11
+virtuell - S+U Jungfernheide (Süd),1,3.0,Berlin,Germany,11
 virtuell - Stralauer Allee/Ehrenbergstraße,0,4.0,Berlin,Germany,11
 virtuell - Kurhausstraße (Dominikus-Krankenhaus),0,4.0,Berlin,Germany,11
 virtuell - Septimerstraße (Holländerstraße),1,3.0,Berlin,Germany,11
 virtuell - Heinrich-Roller-Straße/Prenzlauer Allee,0,4.0,Berlin,Germany,11
 virtuell - Schwabinger Weg (Ritterfelddamm),0,4.0,Berlin,Germany,11
-virtuell - Birkenstraße/Stromstraße (Abstellfläche-Mikromobilität),1,5.0,Berlin,Germany,11
+virtuell - Birkenstraße/Stromstraße (Abstellfläche-Mikromobilität),0,6.0,Berlin,Germany,11
 virtuell - Reinickendorfer Straße/Gottschedstraße,4,0.0,Berlin,Germany,11
 virtuell - Suarezstraße/Kuno-Fischer-Straße,0,4.0,Berlin,Germany,11
 virtuell - Egelpfuhlstraße (Brunsbütteler Damm),0,4.0,Berlin,Germany,11
 virtuell - Oranienstraße/Luckauer Straße,2,1.0,Berlin,Germany,11
 virtuell - Anklamer Straße/Strelitzer Straße,0,4.0,Berlin,Germany,11
 Pankstraße/Wiesenstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,5.0,Berlin,Germany,11
-virtuell - Monumentenstraße/Eylauer Straße,1,3.0,Berlin,Germany,11
-virtuell - Rollbergstraße/Hans-Schiftan-Straße,0,4.0,Berlin,Germany,11
+virtuell - Monumentenstraße/Eylauer Straße,0,4.0,Berlin,Germany,11
+virtuell - Rollbergstraße/Hans-Schiftan-Straße,1,3.0,Berlin,Germany,11
 virtuell - Schivelbeiner Straße/Driesener Straße,0,4.0,Berlin,Germany,11
 virtuell - EDEKA Iden (S+U Wittenau),0,4.0,Berlin,Germany,11
 virtuell - M Invalidenstraße/Platz vor dem Neuen Tor (Ost),0,4.0,Berlin,Germany,11
@@ -3384,7 +3384,7 @@ virtuell - Tegeler Weg/Kamminer Straße,2,1.0,Berlin,Germany,11
 virtuell - Kantstraße/Savignyplatz (Ost),1,3.0,Berlin,Germany,11
 virtuell - Mühlendamm/Spreeufer,0,4.0,Berlin,Germany,11
 virtuell - S Friedrichshagen (Fürstenwalder Damm),0,4.0,Berlin,Germany,11
-virtuell - Kaiserdammbrücke/Riehlstraße,1,3.0,Berlin,Germany,11
+virtuell - Kaiserdammbrücke/Riehlstraße,0,4.0,Berlin,Germany,11
 Jelbi Campus Buch/D24 (BUC/D24),0,10.0,Berlin,Germany,11
 virtuell - Turmstraße/Ottostraße,0,4.0,Berlin,Germany,11
 virtuell - Neuendorfer Straße/Schönwalder Straße,0,4.0,Berlin,Germany,11
@@ -3398,7 +3398,7 @@ virtuell - Sportanlage Paul-Heyse-Straße (Velodrom),0,4.0,Berlin,Germany,11
 virtuell - Tempelhofer Ufer/Schöneberger Straße,0,4.0,Berlin,Germany,11
 virtuell - Schopenhauerstraße (Spanische Allee),0,4.0,Berlin,Germany,11
 virtuell - An der Wuhlheide/Straße zum FEZ,2,2.0,Berlin,Germany,11
-virtuell - U Scharnweberstraße (Colbestraße),2,2.0,Berlin,Germany,11
+virtuell - U Scharnweberstraße (Colbestraße),1,3.0,Berlin,Germany,11
 virtuell - Thaerstraße/Hausburgstraße,1,3.0,Berlin,Germany,11
 virtuell - M Gehrenseestraße (Wartenberger Straße),0,4.0,Berlin,Germany,11
 Jelbi Karl-Liebknecht-Straße/Hirtenstraße (MIT/KH),2,6.0,Berlin,Germany,11
@@ -3410,7 +3410,7 @@ virtuell - Stedingerweg (Hanns-Eisler-Straße),0,4.0,Berlin,Germany,11
 Mühlenbergcenter | BONUS-Station: Return(Rückgabe) here=15 mins free,1,3.0,Berlin,Germany,11
 virtuell - Georg-Wilhelm-Straße/Lützenstraße,1,3.0,Berlin,Germany,11
 virtuell - Am Krusenick (Müggelspree),0,4.0,Berlin,Germany,11
-Jelbi Charité Campus Benjamin Franklin - Hindenburgdamm (LIC/HI),0,4.0,Berlin,Germany,11
+Jelbi Charité Campus Benjamin Franklin - Hindenburgdamm (LIC/HI),1,3.0,Berlin,Germany,11
 virtuell - Wüsthoffstraße (Loewenhardtdamm),0,4.0,Berlin,Germany,11
 virtuell - Kurfürstenstraße/Dennewitzstraße,0,3.0,Berlin,Germany,11
 virtuell - EDEKA Christ (Hildburghauser Straße),1,3.0,Berlin,Germany,11
@@ -3427,23 +3427,23 @@ virtuell - Helmholtzstraße/Wattstraße,0,4.0,Berlin,Germany,11
 virtuell - Preußenallee/Marathonallee,0,4.0,Berlin,Germany,11
 virtuell - Gartenstraße/Luisenstraße,0,4.0,Berlin,Germany,11
 virtuell - Kaulsdorfer Straße/Gehsener Straße,1,3.0,Berlin,Germany,11
-virtuell - Belziger Straße/Akazienstraße,1,3.0,Berlin,Germany,11
+virtuell - Belziger Straße/Akazienstraße,2,2.0,Berlin,Germany,11
 Jelbi Rathaus Tempelhof (TEM/RA),1,7.0,Berlin,Germany,11
 virtuell - Richardplatz (Südwest),1,3.0,Berlin,Germany,11
-virtuell - S+U Karl-Bonhoeffer-Nervenklinik (Saalmannstraße),1,3.0,Berlin,Germany,11
+virtuell - S+U Karl-Bonhoeffer-Nervenklinik (Saalmannstraße),2,2.0,Berlin,Germany,11
 virtuell - EDEKA Danckelmannstraße,0,4.0,Berlin,Germany,11
 virtuell - Goltzstraße/Barbarossastraße,6,0.0,Berlin,Germany,11
 virtuell - Weserstraße/Jungstraße,0,4.0,Berlin,Germany,11
 virtuell - An der Wuhlheide (Alte Försterei),0,4.0,Berlin,Germany,11
 virtuell - Märkisches Ufer/Wallstraße,0,4.0,Berlin,Germany,11
-virtuell - Müllerstraße/Utrechter Straße,1,3.0,Berlin,Germany,11
-virtuell - Kürfürstendamm/Giesebrechstraße,0,4.0,Berlin,Germany,11
+virtuell - Müllerstraße/Utrechter Straße,2,2.0,Berlin,Germany,11
+virtuell - Kürfürstendamm/Giesebrechstraße,1,3.0,Berlin,Germany,11
 virtuell - Martin-Opitz-Straße/Gottschedstraße,1,3.0,Berlin,Germany,11
 virtuell - Prinzregentenstraße (Volkshochschule City West),0,4.0,Berlin,Germany,11
 virtuell - Berliner Straße/Hallandstraße,0,4.0,Berlin,Germany,11
 virtuell - Alt-Stralau (Wenden-Park),0,4.0,Berlin,Germany,11
 virtuell - Schulstraße/Ruheplatzstraße,2,2.0,Berlin,Germany,11
-virtuell - HTW Berlin Campus Treskowallee,7,3.0,Berlin,Germany,11
+virtuell - HTW Berlin Campus Treskowallee,6,4.0,Berlin,Germany,11
 virtuell - Thaerstraße/Otto-Ostrowski-Straße,0,4.0,Berlin,Germany,11
 virtuell - Mehringdamm/Hagelberger Straße,1,3.0,Berlin,Germany,11
 virtuell - Poststraße/Propststraße,0,6.0,Berlin,Germany,11
@@ -3473,10 +3473,10 @@ Heinrich-Roller-Straße/Greifswalder Straße,0,4.0,Berlin,Germany,11
 virtuell - U Mendelssohn-Bartholdy-Park (Gabriele-Tergit-Promenade),0,4.0,Berlin,Germany,11
 Jelbi Großer Stern (TIE/GS),0,10.0,Berlin,Germany,11
 virtuell - Reinickendorfer Straße/Schönwalder Straße,1,5.0,Berlin,Germany,11
-virtuell - Friedelstraße/Pflügerstraße,4,0.0,Berlin,Germany,11
+virtuell - Friedelstraße/Pflügerstraße,3,1.0,Berlin,Germany,11
 Jelbi Edith-Kiss-Straße (FHA/ED),1,4.0,Berlin,Germany,11
 virtuell - Marzahner Chausee/Kröver Straße,0,4.0,Berlin,Germany,11
-virtuell - Zimmermannstraße/Lepsiusstraße,2,2.0,Berlin,Germany,11
+virtuell - Zimmermannstraße/Lepsiusstraße,1,3.0,Berlin,Germany,11
 Jelbi Messe/City Cube (WES/CI),4,3.0,Berlin,Germany,11
 Jelbi Alte Hellersdorfer Str./Zossener Str. (HEL/AL),0,4.0,Berlin,Germany,11
 virtuell - Oranienstraße/Lobeckstraße,2,2.0,Berlin,Germany,11
@@ -3488,7 +3488,7 @@ virtuell - EDEKA Straßburger Straße,1,3.0,Berlin,Germany,11
  Jelbi Klinikum Am Urban/Dieffenbachstraße (KRE/KD),3,2.0,Berlin,Germany,11
 virtuell - Rummelsburger Straße/Robert-Uhrig-Straße,0,4.0,Berlin,Germany,11
 virtuell - Potsdamer Straße/Alvenslebenstraße,1,3.0,Berlin,Germany,11
-virtuell - EDEKA am Südkreuz (Hedwig-Dohm-Straße),4,0.0,Berlin,Germany,11
+virtuell - EDEKA am Südkreuz (Hedwig-Dohm-Straße),3,1.0,Berlin,Germany,11
 virtuell - Ackerstraße/Max-Ulrich-Straße,0,4.0,Berlin,Germany,11
 virtuell - Frankfurter Allee/Voigtstraße,2,2.0,Berlin,Germany,11
 virtuell - Sundgauer Straße/Schlettstadter Straße,1,3.0,Berlin,Germany,11
@@ -3513,12 +3513,12 @@ virtuell - Krossener Straße/Seumestraße,3,1.0,Berlin,Germany,11
 virtuell - Sächische Straße/Pariser Straße,0,4.0,Berlin,Germany,11
 Jelbi Rathausstraße/Poststraße (MIT/RP),1,9.0,Berlin,Germany,11
 virtuell - Wiclefstraße/Oldenburger Straße,1,3.0,Berlin,Germany,11
-S Nordbahnhof | BONUS-Station: Return(Rückgabe) here=15 mins free,0,15.0,Berlin,Germany,11
+S Nordbahnhof | BONUS-Station: Return(Rückgabe) here=15 mins free,1,14.0,Berlin,Germany,11
 virtuell - Lohnmühlenstraße/Kiefholzstraße,0,4.0,Berlin,Germany,11
 virtuell - Paulsborner Straße/Seesener Straße,1,3.0,Berlin,Germany,11
 virtuell - Danziger Straße/Kollwitz Straße,0,4.0,Berlin,Germany,11
 virtuell - Kurfürstendamm/Katharinenstraße,0,4.0,Berlin,Germany,11
-Zeughofstraße (Lausitzer Park) | BONUS-Station: Return(Rückgabe) here=15 mins free,2,8.0,Berlin,Germany,11
+Zeughofstraße (Lausitzer Park) | BONUS-Station: Return(Rückgabe) here=15 mins free,3,7.0,Berlin,Germany,11
 virtuell - Am Stiegegarten/Mühlenweg,0,4.0,Berlin,Germany,11
 virtuell - U Grenzallee,2,1.0,Berlin,Germany,11
 Keithstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,10.0,Berlin,Germany,11
@@ -3526,7 +3526,7 @@ virtuell - Heinrich-Heine-Straße/Sebastianstraße,3,1.0,Berlin,Germany,11
 virtuell - EDEKA Salpius (Gartenfelder Straße),3,1.0,Berlin,Germany,11
 virtuell - Kattegatstraße/Sternstraße,4,0.0,Berlin,Germany,11
 virtuell - Karlshafener Straße (Hönower Straße),0,4.0,Berlin,Germany,11
-virtuell - Elsenstraße/Harzer Straße,3,1.0,Berlin,Germany,11
+virtuell - Elsenstraße/Harzer Straße,2,2.0,Berlin,Germany,11
 Gendarmenmarkt | BONUS-Station: Return(Rückgabe) here=15 mins free,8,12.0,Berlin,Germany,11
 virtuell - Bolivarallee/Akazienallee,0,4.0,Berlin,Germany,11
 virtuell - Hartmannsweilerweg (Fischerhüttenstraße),0,4.0,Berlin,Germany,11
@@ -3541,7 +3541,7 @@ virtuell - Wartburgstraße/Meraner Straße,0,4.0,Berlin,Germany,11
 virtuell - S Rummelsburg (Süd),0,4.0,Berlin,Germany,11
 virtuell - Zehdenicker Straße/Christinenstraße,2,2.0,Berlin,Germany,11
 virtuell - Rodelbergweg/Glanzstraße,0,4.0,Berlin,Germany,11
-virtuell - Wilhelminenhofstraße/Rathenaustraße,1,3.0,Berlin,Germany,11
+virtuell - Wilhelminenhofstraße/Rathenaustraße,0,4.0,Berlin,Germany,11
 U Frankfurter Tor | BONUS-Station: Return(Rückgabe) here=15 mins free,3,13.0,Berlin,Germany,11
 virtuell - S Nordbahnhof (Julie-Wolfthorn-Straße),1,3.0,Berlin,Germany,11
 virtuell - Cheruskerstraße/Roßbachstraße,0,4.0,Berlin,Germany,11
@@ -3551,11 +3551,11 @@ virtuell - Schönwalder Straße/Lynarstraße,4,0.0,Berlin,Germany,11
 virtuell - Paulsborner Straße/Eisenzahnstraße,1,3.0,Berlin,Germany,11
 virtuell - Görlitzer Straße/Oppelner Straße,2,2.0,Berlin,Germany,11
 virtuell - EDEKA Johannisthaler (Johannisthaler Chaussee),0,4.0,Berlin,Germany,11
-virtuell - Friedrich-Hollaender-Platz (Lietzenburger Straße),1,1.0,Berlin,Germany,11
+virtuell - Friedrich-Hollaender-Platz (Lietzenburger Straße),0,2.0,Berlin,Germany,11
 virtuell - Hoffmann-von-Fallersleben-Platz (Hohenzollerndamm),0,4.0,Berlin,Germany,11
 virtuell - An der Wuhlheide (Spindlersfelder Straße),0,4.0,Berlin,Germany,11
 virtuell - Treptower Straße/Harzer Straße,0,3.0,Berlin,Germany,11
-virtuell - Elbestraße/Weigandufer,4,0.0,Berlin,Germany,11
+virtuell - Elbestraße/Weigandufer,3,1.0,Berlin,Germany,11
 virtuell - Rupprechtstraße/Eitelstraße,0,4.0,Berlin,Germany,11
 virtuell - Hermannstraße/Thomasstraße,0,4.0,Berlin,Germany,11
 virtuell - Am Treptower Park/Elsenstraße,0,4.0,Berlin,Germany,11
@@ -3587,7 +3587,7 @@ virtuell - S+U Frankfurter Allee (Süd),0,4.0,Berlin,Germany,11
 Jelbi U Kaulsdorf Nord (KAU/KA),0,4.0,Berlin,Germany,11
 virtuell - S+U Schönhauser Allee (Wichertstraße),1,3.0,Berlin,Germany,11
 virtuell - Würtzstraße (Bleicheroder Straße),2,2.0,Berlin,Germany,11
-virtuell - Karl-Marx-Straße/Anzengruberstraße,0,4.0,Berlin,Germany,11
+virtuell - Karl-Marx-Straße/Anzengruberstraße,1,3.0,Berlin,Germany,11
 virtuell - Bethaniendamm/Paula-Thiede-Ufer,0,4.0,Berlin,Germany,11
 virtuell - Adelbertstraße/Melchiorstraße,3,0.0,Berlin,Germany,11
 virtuell - U Mehringdamm (Ost),0,4.0,Berlin,Germany,11
@@ -3603,9 +3603,9 @@ virtuell - Bismarckstraße/Richard-Wagner-Straße,0,4.0,Berlin,Germany,11
 virtuell - EDEKA Pohl (Rheinsteinstraße),3,1.0,Berlin,Germany,11
 virtuell - EDEKA Brabanski (Fregestraße),0,4.0,Berlin,Germany,11
 virtuell - Attilastraße/Crailsheimer Straße,0,4.0,Berlin,Germany,11
-virtuell - Forster Straße/Reichenberger Straße,1,3.0,Berlin,Germany,11
+virtuell - Forster Straße/Reichenberger Straße,0,4.0,Berlin,Germany,11
 virtuell - Liebenwalder Straße/Groninger Straße,0,4.0,Berlin,Germany,11
-Jelbi Grünberger Straße/ Warschauer Straße (FHA/GW),2,4.0,Berlin,Germany,11
+Jelbi Grünberger Straße/ Warschauer Straße (FHA/GW),1,5.0,Berlin,Germany,11
 virtuell - Müggelheimer Straße/Wendenschloßstraße,0,4.0,Berlin,Germany,11
 virtuell - Schönfließer Straße/Bornholmer Straße,2,2.0,Berlin,Germany,11
 virtuell - Bebelplatz (Süd),0,4.0,Berlin,Germany,11
@@ -3625,7 +3625,7 @@ virtuell - Rothenbachstraße (Romain-Rolland-Straße),1,3.0,Berlin,Germany,11
 virtuell - S Mehrower Allee (Ost),0,4.0,Berlin,Germany,11
 virtuell - Pflügerstraße/Liberdastraße,1,3.0,Berlin,Germany,11
 virtuell - Paul-Lincke-Ufer/Manteuffelstraße,6,0.0,Berlin,Germany,11
-virtuell - Eschersheimer Straße/Oberlandstraße,1,3.0,Berlin,Germany,11
+virtuell - Eschersheimer Straße/Oberlandstraße,0,4.0,Berlin,Germany,11
 virtuell - Wolfshagener Straße (Sommerbad Pankow),0,4.0,Berlin,Germany,11
 virtuell - Eisenacher Straße/Hohenstaufenstraße,0,4.0,Berlin,Germany,11
 virtuell - Mannheimer Straße/Wilhelmsaue,1,3.0,Berlin,Germany,11
@@ -3633,7 +3633,7 @@ S Köpenick (Süd),1,5.0,Berlin,Germany,11
 virtuell - Kamenzer Damm (EDEKA Brieger Straße),0,4.0,Berlin,Germany,11
 virtuell - Frankfurter Allee (Sana Klinikum Lichtenberg),0,4.0,Berlin,Germany,11
 virtuell - Sömmeringstraße/Nordhauser Straße,0,4.0,Berlin,Germany,11
-Jelbi Libauer Straße/ Kopernikusstraße (FHA/LK),6,0.0,Berlin,Germany,11
+Jelbi Libauer Straße/ Kopernikusstraße (FHA/LK),4,1.0,Berlin,Germany,11
 virtuell - EDEKA Peth (Berliner Allee),0,4.0,Berlin,Germany,11
 virtuell - Weserstraße/Innstraße,1,3.0,Berlin,Germany,11
 virtuell - Hohenstaufenstraße/Kyffhäuserstraße,0,4.0,Berlin,Germany,11
@@ -3646,10 +3646,10 @@ Jelbi Graefestr./Boeckhstr. (KRE/GB),0,9.0,Berlin,Germany,11
 Jelbi U Südstern (KRE/SU),1,6.0,Berlin,Germany,11
 virtuell - Eichhornstraße (Nordost),0,4.0,Berlin,Germany,11
 virtuell - Am Bahndamm/Alte Kaulsdorfer Straße,0,4.0,Berlin,Germany,11
-Sonnenallee/Treptower Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,3,3.0,Berlin,Germany,11
+Sonnenallee/Treptower Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,4,2.0,Berlin,Germany,11
 Jelbi Mühlenstraße/ Hedwig-Wachenheim-Straße (FHA/MH),0,14.0,Berlin,Germany,11
 virtuell - S Waidmannslust (West),0,4.0,Berlin,Germany,11
-virtuell - S Storkower Straße (Nord),0,4.0,Berlin,Germany,11
+virtuell - S Storkower Straße (Nord),2,2.0,Berlin,Germany,11
 virtuell - Märkische Allee/Basdorfer Straße,1,3.0,Berlin,Germany,11
 virtuell - M Nossener Straße (Mark-Twain-Straße),0,4.0,Berlin,Germany,11
 virtuell - Galenstraße (Seegefelder Straße),0,4.0,Berlin,Germany,11
@@ -3660,7 +3660,7 @@ virtuell - Kombibad Spandau Süd,2,2.0,Berlin,Germany,11
 virtuell - Bundesallee/Badensche Straße,1,3.0,Berlin,Germany,11
 virtuell - Neuendorfer Straße/Parkstraße,1,3.0,Berlin,Germany,11
 virtuell - Komische Oper (Behrensstraße),0,4.0,Berlin,Germany,11
-virtuell - Charité Berlin (Luisenstraße),0,8.0,Berlin,Germany,11
+virtuell - Charité Berlin (Luisenstraße),1,7.0,Berlin,Germany,11
 virtuell - Gipsdreieck (Nordost),4,0.0,Berlin,Germany,11
 virtuell - Baumschulenstraße/Südostallee,0,4.0,Berlin,Germany,11
 virtuell - M BVG-Betriebshof Lichtenberg,0,4.0,Berlin,Germany,11
@@ -3698,7 +3698,7 @@ virtuell - Hermann-Hesse-Straße/Waldstraße,0,4.0,Berlin,Germany,11
 virtuell - Kynaststraße/Alt-Stralau,0,4.0,Berlin,Germany,11
 virtuell - Berliner Straße/Konstanzer Straße,0,4.0,Berlin,Germany,11
 virtuell - Bahnhofstraße/Lindenstraße,1,3.0,Berlin,Germany,11
-virtuell - Reuchlinstraße/Huttenstraße,1,3.0,Berlin,Germany,11
+virtuell - Reuchlinstraße/Huttenstraße,2,2.0,Berlin,Germany,11
 virtuell - Xantener Straße/Konstanzer Straße,0,4.0,Berlin,Germany,11
 virtuell - Otto-Suhr-Allee/Kaiser-Friedrich-Straße,0,4.0,Berlin,Germany,11
 virtuell - Großbeerenstraße,0,5.0,Berlin,Germany,11
@@ -3721,7 +3721,7 @@ virtuell - M Arendsweg (Landsberger Allee),1,3.0,Berlin,Germany,11
 virtuell - Campus Buch/Haus 95,0,4.0,Berlin,Germany,11
 virtuell - Hohenzollerndamm/Forckenbeckstraße,3,1.0,Berlin,Germany,11
 virtuell - Rosenheimer Straße/Münchener Straße,0,4.0,Berlin,Germany,11
-virtuell - S+U Friedrichsstraße (Nord),1,3.0,Berlin,Germany,11
+virtuell - S+U Friedrichsstraße (Nord),0,4.0,Berlin,Germany,11
 virtuell - Park Center (West),3,1.0,Berlin,Germany,11
 virtuell - Eichenallee/Kirschenallee,0,4.0,Berlin,Germany,11
 virtuell - Winckelmannstraße/Herweghstraße,0,4.0,Berlin,Germany,11
@@ -3764,7 +3764,7 @@ virtuell - Rethelstraße/Defreggerstraße,1,3.0,Berlin,Germany,11
 virtuell - Reichstagsufer/Paul-Löbe-Allee,0,6.0,Berlin,Germany,11
 virtuell - S Betriebsbahnhof Rummelsburg,1,3.0,Berlin,Germany,11
 virtuell - Schloßstraße/Otto-Grüneberg-Weg,1,3.0,Berlin,Germany,11
-virtuell - Friedrichsstraße/Kronenstraße (Nordwest),0,4.0,Berlin,Germany,11
+virtuell - Friedrichsstraße/Kronenstraße (Nordwest),1,3.0,Berlin,Germany,11
 virtuell - Wagner-Régeny-Straße/Georg-Schendel-Straße,0,4.0,Berlin,Germany,11
 virtuell - Residenzstraße/Reginhardstraße,0,4.0,Berlin,Germany,11
 virtuell - U Rathaus Schöneberg,0,4.0,Berlin,Germany,11
@@ -3775,7 +3775,7 @@ virtuell - Sundgauer Straße/Schützallee,2,2.0,Berlin,Germany,11
 virtuell - Lindenstraße/Ritterstraße,0,3.0,Berlin,Germany,11
 virtuell - S Beusselstraße (Südwest),3,1.0,Berlin,Germany,11
 virtuell - Archenholdstraße/Bietzkestraße,3,1.0,Berlin,Germany,11
-Jelbi U Weinmeisterstraße (MIT/WE),0,4.0,Berlin,Germany,11
+Jelbi U Weinmeisterstraße (MIT/WE),1,3.0,Berlin,Germany,11
 virtuell - Herrstraße/Schirwindter Allee,3,1.0,Berlin,Germany,11
 virtuell - S Schöneweide (Schnellerstraße),1,3.0,Berlin,Germany,11
 Swinemünderstr. | BONUS-Station: Return(Rückgabe) here=15 mins free,2,13.0,Berlin,Germany,11
@@ -3834,8 +3834,8 @@ Jelbi U Boddinstraße/Selchower Straße (NEU/UB),2,10.0,Berlin,Germany,11
 virtuell - Frauenlobstraße/Mörikestraße,0,4.0,Berlin,Germany,11
 virtuell - Kollwitzplatz (Süd),1,3.0,Berlin,Germany,11
 Karlsruher Str./Aspria | BONUS-Station: Return(Rückgabe) here=15 mins free  ,3,5.0,Berlin,Germany,11
-virtuell - Torgauer Straße (Gustav-Müller-Straße),2,2.0,Berlin,Germany,11
-virtuell - M Kopernikusstraße/Warschauer Straße (Nord),2,2.0,Berlin,Germany,11
+virtuell - Torgauer Straße (Gustav-Müller-Straße),2,1.0,Berlin,Germany,11
+virtuell - M Kopernikusstraße/Warschauer Straße (Nord),0,4.0,Berlin,Germany,11
 virtuell - Rudolfstraße/Danneckerstraße,0,4.0,Berlin,Germany,11
 virtuell - Kosanke-Siedlung,0,4.0,Berlin,Germany,11
 virtuell - Karwendelstraße/Hindenburgdamm,0,4.0,Berlin,Germany,11
@@ -3844,7 +3844,7 @@ virtuell - Pistoriusplatz/Max-Steinke-Straße,2,1.0,Berlin,Germany,11
 virtuell - Boxberger Straße/Schwarze-Pumpe-Weg,0,4.0,Berlin,Germany,11
 virtuell - Große-Leege-Straße/Werneuchener Straße,0,4.0,Berlin,Germany,11
 virtuell - Wildenbruchplatz/Finowstraße,1,3.0,Berlin,Germany,11
-virtuell - Lichtburgring/Bärbel-Bohley-Ring,1,3.0,Berlin,Germany,11
+virtuell - Lichtburgring/Bärbel-Bohley-Ring,0,4.0,Berlin,Germany,11
 virtuell - Paul-Robeson-Straße/Driesener Straße,1,3.0,Berlin,Germany,11
 virtuell - Ahrensfelde (Stadtgrenze),0,4.0,Berlin,Germany,11
 virtuell - Groß-Berliner Damm/Greifstraße,0,4.0,Berlin,Germany,11
@@ -3873,14 +3873,14 @@ virtuell - Königswinterstraße/Rheinsteinstraße,0,4.0,Berlin,Germany,11
 virtuell - Alt-Mariendorf/Forddamm,0,4.0,Berlin,Germany,11
 virtuell - Schulenburgring/Manfred-von-Richthofen-Straße,0,4.0,Berlin,Germany,11
 virtuell - Friedensplatz (Albrechtstraße),1,3.0,Berlin,Germany,11
-virtuell - EDEKA Urbschat (U Siemensdamm),0,4.0,Berlin,Germany,11
-M Schwedterstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,2,14.0,Berlin,Germany,11
+virtuell - EDEKA Urbschat (U Siemensdamm),1,3.0,Berlin,Germany,11
+M Schwedterstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,1,15.0,Berlin,Germany,11
 virtuell - Herschelstraße/Brahestraße,0,4.0,Berlin,Germany,11
 virtuell - EDEKA Bergmannstraße,3,2.0,Berlin,Germany,11
 virtuell - Kürfürstendamm/Olivaer Platz (Ost),1,3.0,Berlin,Germany,11
 virtuell - Rosenthal Nord (Quickborner Straße),0,4.0,Berlin,Germany,11
 virtuell - Richardstraße/Herrnhuter Weg,2,2.0,Berlin,Germany,11
-Jelbi S+U Hauptbahnhof/Europaplatz West | BONUS-Station: Return [Rückgabe] here=15 mins free (MOA/EW),22,6.0,Berlin,Germany,11
+Jelbi S+U Hauptbahnhof/Europaplatz West | BONUS-Station: Return [Rückgabe] here=15 mins free (MOA/EW),24,4.0,Berlin,Germany,11
 virtuell - Gaußstraße/Lise-Meitner-Straße,0,4.0,Berlin,Germany,11
 virtuell - Landsberger Allee/Richard-Sorge-Straße,0,4.0,Berlin,Germany,11
 virtuell - Botanischer Garten,5,0.0,Berlin,Germany,11
@@ -3902,7 +3902,7 @@ virtuell - U Borsigwerke (Südwest),0,4.0,Berlin,Germany,11
 virtuell - Transvaalstraße/Afrikanische Straße,1,3.0,Berlin,Germany,11
 Jelbi U Nollendorfplatz (SCH/NOL),2,8.0,Berlin,Germany,11
 virtuell - Fritz-Erler-Allee/Zadekstraße (Ida Wolff Krankenhaus),0,4.0,Berlin,Germany,11
-U Görlitzer Bahnhof | BONUS-Station: Return(Rückgabe) here=15 mins free,9,6.0,Berlin,Germany,11
+U Görlitzer Bahnhof | BONUS-Station: Return(Rückgabe) here=15 mins free,8,7.0,Berlin,Germany,11
 virtuell - Friedenstraße/Friedrichsberger Straße,4,0.0,Berlin,Germany,11
 virtuell - Landsberger Allee (Schwimmhalle Anton-Seafow-Platz),0,4.0,Berlin,Germany,11
 virtuell - Heinrich-Böll-Straße (Dietzgenstraße),0,4.0,Berlin,Germany,11
@@ -3924,13 +3924,13 @@ virtuell - Rummelsburger Straße/Sewanstraße,1,3.0,Berlin,Germany,11
 virtuell - Brunsbütteler Damm/Ruhlebener Straße,0,4.0,Berlin,Germany,11
 virtuell - Mülheimer Straße (Falkenseer Chaussee),0,4.0,Berlin,Germany,11
 virtuell - Michaelkirchbrücke,0,6.0,Berlin,Germany,11
-virtuell - Paula-Fürst-Straße/Hildegard-Marcusson-Straße,1,3.0,Berlin,Germany,11
+virtuell - Paula-Fürst-Straße/Hildegard-Marcusson-Straße,0,4.0,Berlin,Germany,11
 virtuell - Neue Kantstraße/Herbartstraße,0,4.0,Berlin,Germany,11
 U Weinmeisterstraße/Gormannstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,4,16.0,Berlin,Germany,11
 virtuell - Friedrich-Wilhelm-Straße/Wenckebachstraße,0,4.0,Berlin,Germany,11
 virtuell - Alt-Kaulsdorf/Am Kornfeld,0,4.0,Berlin,Germany,11
 virtuell - Gartenstraße/Schröderstraße,1,3.0,Berlin,Germany,11
-virtuell - Ziegelstraße/Friedrichsstraße,1,3.0,Berlin,Germany,11
+virtuell - Ziegelstraße/Friedrichsstraße,0,4.0,Berlin,Germany,11
 Jelbi Freie Universität/Arnimallee (DAH/AR),0,3.0,Berlin,Germany,11
 virtuell - Reichstag (Scheidemannstraße),0,4.0,Berlin,Germany,11
 virtuell - U Fehrbelliner Platz (Südost),2,2.0,Berlin,Germany,11
@@ -3939,8 +3939,8 @@ virtuell - Bruno-Baum-Straße/Poelchaustraße,0,4.0,Berlin,Germany,11
 virtuell - S Frohnau (Ost),0,4.0,Berlin,Germany,11
 virtuell - EDEKA Siegler (Richard-von-Weizsäcker-Platz),0,4.0,Berlin,Germany,11
 virtuell - Püttbergeweg/Fangschleuser Weg,0,4.0,Berlin,Germany,11
-S Ostbahnhof | BONUS-Station: Return(Rückgabe) here=15 mins free,15,0.0,Berlin,Germany,11
-virtuell - Eichbuschallee/Köpenicker Landstraße,3,1.0,Berlin,Germany,11
+S Ostbahnhof | BONUS-Station: Return(Rückgabe) here=15 mins free,14,0.0,Berlin,Germany,11
+virtuell - Eichbuschallee/Köpenicker Landstraße,2,2.0,Berlin,Germany,11
 virtuell - S Buckower Chaussee (West),0,4.0,Berlin,Germany,11
 virtuell - Eiswerderstraße (Insel),0,4.0,Berlin,Germany,11
 virtuell - Goslarer Platz (Nordost),1,2.0,Berlin,Germany,11
@@ -3957,11 +3957,11 @@ virtuell - S Hackescher Markt (Ost),0,4.0,Berlin,Germany,11
 Forckenbeckplatz | BONUS-Station: Return(Rückgabe) here=15 mins free,4,6.0,Berlin,Germany,11
 virtuell - Köpenicker Chausee (Klingenbergbrücke),0,4.0,Berlin,Germany,11
 Jasmunder Straße/Usedomer Straße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,5.0,Berlin,Germany,11
-virtuell - Kunzeweg/Kubornstraße,1,3.0,Berlin,Germany,11
+virtuell - Kunzeweg/Kubornstraße,0,4.0,Berlin,Germany,11
 virtuell - Monbijoupark/Oranienburger Straße,0,4.0,Berlin,Germany,11
 virtuell - Paul-Heyse-Straße/Conrad-Blenkle-Straße,1,3.0,Berlin,Germany,11
 virtuell - Peter-Vischer-Straße/Rubensstraße,1,3.0,Berlin,Germany,11
-Jelbi Kienitzer Straße (NEU/KI),3,1.0,Berlin,Germany,11
+Jelbi Kienitzer Straße (NEU/KI),2,2.0,Berlin,Germany,11
 virtuell - S Zehlendorf (Nord),1,3.0,Berlin,Germany,11
 virtuell - Schorfheidestraße/Dannenwalder Weg,0,6.0,Berlin,Germany,11
 virtuell - S Raoul-Wallenberg-Straße (West),0,4.0,Berlin,Germany,11
@@ -3986,12 +3986,12 @@ virtuell - Nalepastraße (Funkhaus),2,1.0,Berlin,Germany,11
 virtuell - Ringstraße/Rathausstraße,0,4.0,Berlin,Germany,11
 virtuell - Rosenthaler Straße/Sophienstraße,11,0.0,Berlin,Germany,11
 virtuell - Ruppiner Straße/Vinetaplatz,2,2.0,Berlin,Germany,11
-Jelbi S+U Hauptbahnhof/Ella-Trebe-Straße (MOA/HA),6,2.0,Berlin,Germany,11
+Jelbi S+U Hauptbahnhof/Ella-Trebe-Straße (MOA/HA),7,1.0,Berlin,Germany,11
 virtuell - EDEKA Center Brehm (Clayallee),1,3.0,Berlin,Germany,11
 virtuell - EDEKA S+U Schönhauser Allee (West),2,2.0,Berlin,Germany,11
 virtuell - Bekassinenweg (Hennigsdorfer Straße),0,4.0,Berlin,Germany,11
-virtuell - M Zechliner Straße (Landsberger Allee),2,2.0,Berlin,Germany,11
-virtuell - Gotzkowskybrücke,1,3.0,Berlin,Germany,11
+virtuell - M Zechliner Straße (Landsberger Allee),1,3.0,Berlin,Germany,11
+virtuell - Gotzkowskybrücke,0,4.0,Berlin,Germany,11
 virtuell - EDEKA Vaupel (Fuldastraße),1,3.0,Berlin,Germany,11
 virtuell - Zenner,1,4.0,Berlin,Germany,11
 virtuell - Spandauer Damm/Klausenerplatz,0,4.0,Berlin,Germany,11
@@ -4003,7 +4003,7 @@ virtuell - M Mitte Am Kupfergraben,0,4.0,Berlin,Germany,11
 Jelbi S+U Rathaus Steglitz/Berlinickestraße (STE/RA),0,7.0,Berlin,Germany,11
 Jelbi Adalbertstraße/Naunynstraße (KRE/AN),2,7.0,Berlin,Germany,11
 virtuell - Scharmweberstraße/Drachholzstraße,0,4.0,Berlin,Germany,11
-Schleidenplatz | BONUS-Station: Return(Rückgabe) here=15 mins free,2,14.0,Berlin,Germany,11
+Schleidenplatz | BONUS-Station: Return(Rückgabe) here=15 mins free,1,15.0,Berlin,Germany,11
 virtuell - Hohenzollerndamm/Sächsische Straße,0,4.0,Berlin,Germany,11
 virtuell - S Poelchaustraße,0,4.0,Berlin,Germany,11
 virtuell - Mecklenburgische Straße/Rudolf-Mosse-Straße,1,3.0,Berlin,Germany,11
@@ -4073,7 +4073,7 @@ virtuell - Strandbad Heiligensee (Sandhauser Straße),0,4.0,Berlin,Germany,11
 virtuell - Radickerstraße/Nipkowstraße,0,4.0,Berlin,Germany,11
 virtuell - Badstraße/Buttmannstraße,0,4.0,Berlin,Germany,11
 virtuell - Ackerstraße/Anklamer Straße,0,4.0,Berlin,Germany,11
-virtuell - U Birkenstraße (Nord),1,4.0,Berlin,Germany,11
+virtuell - U Birkenstraße (Nord),0,5.0,Berlin,Germany,11
 virtuell - Wohnheim Coppistraße Hans und Hilde Coppi (Süd),3,1.0,Berlin,Germany,11
 virtuell - Bahnhofstraße/Seelenbinderstraße,0,4.0,Berlin,Germany,11
 Jelbi Arona-Klinik (BIE/AR),0,4.0,Berlin,Germany,11
@@ -4109,7 +4109,7 @@ virtuell - Wartenbergstraße/Wilhelm-Guddorf-Straße,1,3.0,Berlin,Germany,11
 Klingelhöferstr. | BONUS-Station: Return(Rückgabe) here=15 mins free,0,14.0,Berlin,Germany,11
 virtuell - Weidenweg/Bänschstraße,0,4.0,Berlin,Germany,11
 virtuell - S Westkreuz,2,2.0,Berlin,Germany,11
-virtuell - S+U Gesundbrunnen (Nord),0,3.0,Berlin,Germany,11
+virtuell - S+U Gesundbrunnen (Nord),1,2.0,Berlin,Germany,11
 virtuell - Gritznerstraße/Schildhornstraße,1,3.0,Berlin,Germany,11
 virtuell - Eldenaer Straße (Forckenbeckplatz Wasserspender),1,2.0,Berlin,Germany,11
 virtuell - Marzahner Chausee/Gensinger Straße,0,4.0,Berlin,Germany,11
@@ -4124,7 +4124,7 @@ virtuell - Guerickestraße/Abbestraße,0,4.0,Berlin,Germany,11
 virtuell - S Oberspree (Süd),0,4.0,Berlin,Germany,11
 virtuell - Schwimmhalle Kaulsdorf,0,4.0,Berlin,Germany,11
 virtuell - Dresdner Straße/Waldemarstraße,4,0.0,Berlin,Germany,11
-virtuell - M Clara-Jaschke-Straße/Lehrter Straße,2,2.0,Berlin,Germany,11
+virtuell - M Clara-Jaschke-Straße/Lehrter Straße,1,3.0,Berlin,Germany,11
 virtuell - S Karow (Ost),1,5.0,Berlin,Germany,11
 virtuell - Hobrechtstraße/Lenaustraße,0,4.0,Berlin,Germany,11
 virtuell - Rheinsteinstraße/Waldowallee,1,3.0,Berlin,Germany,11
@@ -4137,7 +4137,7 @@ virtuell - Reinhardsbrunner Straße/Siegfriedstraße,0,4.0,Berlin,Germany,11
 virtuell - Hedemannstraße/Friedrichsstraße,1,3.0,Berlin,Germany,11
 virtuell - Schillerstraße (Straße 18),0,4.0,Berlin,Germany,11
 virtuell - Haus der Wannsee-Konferenz (Zum Heckeshorn),2,2.0,Berlin,Germany,11
-U Nollendorfplatz (EDEKA) | BONUS-Station: Return(Rückgabe) here=15 mins free,1,15.0,Berlin,Germany,11
+U Nollendorfplatz (EDEKA) | BONUS-Station: Return(Rückgabe) here=15 mins free,2,14.0,Berlin,Germany,11
 virtuell - Königin-Luise-Straße/Clayallee,0,4.0,Berlin,Germany,11
 virtuell - Hoerniestraße (Kaulsdorfer Straße),0,4.0,Berlin,Germany,11
 virtuell - Linkstraße/Reichpietschufer,0,4.0,Berlin,Germany,11
@@ -4170,17 +4170,17 @@ virtuell - Apostel-Paulus-Straße/Klixstraße,0,4.0,Berlin,Germany,11
 virtuell - Kaiserin-Augusta-Allee/Beusselstraße,0,4.0,Berlin,Germany,11
 Jelbi Studierendenwohnheim Victor Jara (BIE/ST),1,3.0,Berlin,Germany,11
 virtuell - Wilsnacker Straße (Turmstraße),1,3.0,Berlin,Germany,11
-virtuell - Cheruskerstraße/Leuthener Straße,1,3.0,Berlin,Germany,11
+virtuell - Cheruskerstraße/Leuthener Straße,0,4.0,Berlin,Germany,11
 virtuell - Manfred-von-Richthofen-Straße/Badener Ring,0,4.0,Berlin,Germany,11
 virtuell - Samariterstraße/Schreinerstraße,1,3.0,Berlin,Germany,11
 virtuell - Am Moosbruch/Karlsburger Weg,0,4.0,Berlin,Germany,11
 virtuell - Pappelallee/Buchholzer Straße,2,2.0,Berlin,Germany,11
 virtuell - S Hermsdorf (Südwest),0,4.0,Berlin,Germany,11
-virtuell - Humannplatz (Wichertstraße),0,4.0,Berlin,Germany,11
+virtuell - Humannplatz (Wichertstraße),1,3.0,Berlin,Germany,11
 virtuell - Glasbläserallee (Flaschenkai),0,4.0,Berlin,Germany,11
 virtuell - Pallasstraße (Ost),0,4.0,Berlin,Germany,11
 virtuell - Singerstraße/Krautstraße,3,0.0,Berlin,Germany,11
-Hufelandstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,4,16.0,Berlin,Germany,11
+Hufelandstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,5,15.0,Berlin,Germany,11
 virtuell - Heidestraße/Döberitzer Straße,0,4.0,Berlin,Germany,11
 virtuell - Marienpark (Fahrradständer),0,10.0,Berlin,Germany,11
 virtuell - Bölschestraße/Aßmannstraße,0,4.0,Berlin,Germany,11
@@ -4188,20 +4188,20 @@ virtuell - Rahnsdorf/Waldschänke,1,3.0,Berlin,Germany,11
 virtuell - Soldiner Straße/Provinzstraße,1,3.0,Berlin,Germany,11
 virtuell - Vorarlberger Damm (Sportplatz),0,4.0,Berlin,Germany,11
 virtuell - Charlottenstraße/Leipzigerstraße (Nordost),0,4.0,Berlin,Germany,11
-virtuell - Bouchéstraße/Kiefholzstraße,6,0.0,Berlin,Germany,11
+virtuell - Bouchéstraße/Kiefholzstraße,5,0.0,Berlin,Germany,11
 virtuell - Flughafenstraße/IsarStraße,1,3.0,Berlin,Germany,11
 virtuell - U Turmstraße (Stromstraße),0,4.0,Berlin,Germany,11
 virtuell - EDEKA Zahl (Dovestraße),1,3.0,Berlin,Germany,11
 virtuell - Müggelschlößchenweg/Erwin-Bock-Straße,0,4.0,Berlin,Germany,11
-virtuell - Prinzregentenstraße/Waghäuseler Straße,0,4.0,Berlin,Germany,11
+virtuell - Prinzregentenstraße/Waghäuseler Straße,1,3.0,Berlin,Germany,11
 virtuell - Bänschstraße/Voigtstraße,0,4.0,Berlin,Germany,11
 virtuell - Blankenfelder Straße (Berliner Straße),0,4.0,Berlin,Germany,11
 Jelbi Voßstraße/Gertrud-Kolmar-Straße (MIT/VO),0,10.0,Berlin,Germany,11
 virtuell - Görlitzer Straße (Landwehrkanal),0,4.0,Berlin,Germany,11
 virtuell - Oderstraße/Siegfriedstraße,2,2.0,Berlin,Germany,11
-S+U Hermannstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,5,5.0,Berlin,Germany,11
+S+U Hermannstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,6,4.0,Berlin,Germany,11
 virtuell - S Priesterweg (Nord),0,4.0,Berlin,Germany,11
-Jelbi U Kottbusser Tor/Zentrum Kreuzberg (KRE/KO),3,8.0,Berlin,Germany,11
+Jelbi U Kottbusser Tor/Zentrum Kreuzberg (KRE/KO),5,7.0,Berlin,Germany,11
 virtuell - Joachimsthaler Straße/Schaperstraße,0,4.0,Berlin,Germany,11
 virtuell - Koenigsallee/Erdener Straße,1,3.0,Berlin,Germany,11
 virtuell - Dudenstraße/Loewenhardtdamm,3,1.0,Berlin,Germany,11
@@ -4212,7 +4212,7 @@ virtuell - Neumannnstraße/Arnold-Zweig-Straße,0,4.0,Berlin,Germany,11
 virtuell - Apostel-Paulus-Straße/Eisenacher Straße,0,4.0,Berlin,Germany,11
 virtuell - U Alt-Tempelhof (Götzstraße),0,4.0,Berlin,Germany,11
 virtuell - Wirmerzeile (Reichweindamm),3,1.0,Berlin,Germany,11
-virtuell - Graudenzer Straße/Lasdehner Straße,1,5.0,Berlin,Germany,11
+virtuell - Graudenzer Straße/Lasdehner Straße,0,6.0,Berlin,Germany,11
 virtuell - U Bismarckstraße (Zauritzweg),0,4.0,Berlin,Germany,11
 virtuell - Görlitzer Straße/Falckensteinstraße,2,2.0,Berlin,Germany,11
 virtuell - M Landsberger Allee/Blumberger Damm,1,3.0,Berlin,Germany,11
@@ -4225,7 +4225,7 @@ virtuell - Turmstraße/Oldenburger Straße,0,4.0,Berlin,Germany,11
 virtuell - Bötzowstraße/John-Schehr-Straße,0,4.0,Berlin,Germany,11
 virtuell - Königin-Luise-Straße/Englerallee,0,4.0,Berlin,Germany,11
 Schmollerplatz | BONUS-Station: Return(Rückgabe) here=15 mins free,3,8.0,Berlin,Germany,11
-virtuell - Puschkinallee/Am Flutgraben,5,0.0,Berlin,Germany,11
+virtuell - Puschkinallee/Am Flutgraben,2,1.0,Berlin,Germany,11
 virtuell - Wassersportzentrum (Müggelseedamm),0,4.0,Berlin,Germany,11
 virtuell - Kolonnenstraße/Gustav-Müller-Straße,0,4.0,Berlin,Germany,11
 virtuell - S+U Wedding (Lindowerstraße),0,4.0,Berlin,Germany,11
@@ -4249,7 +4249,7 @@ virtuell - Buschkrugallee/Parchimer Allee,0,4.0,Berlin,Germany,11
 virtuell - Wrangelstraße/Taborstraße,0,3.0,Berlin,Germany,11
 virtuell - Lützowufer/Landgrafenstraße,1,5.0,Berlin,Germany,11
 virtuell - Hindenburgdamm/Drakestraße,1,3.0,Berlin,Germany,11
-Verwaltungsstandort Lichtenberg | BONUS-Station: Return(Rückgabe) here=15 mins free,2,6.0,Berlin,Germany,11
+Verwaltungsstandort Lichtenberg | BONUS-Station: Return(Rückgabe) here=15 mins free,3,5.0,Berlin,Germany,11
 virtuell - U Paracelsus-Bad (Südwest),0,4.0,Berlin,Germany,11
 virtuell - Marienfelder Chaussee/Quarzweg,0,4.0,Berlin,Germany,11
 Jelbi Graefestraße/Planufer (KRE/GP),1,5.0,Berlin,Germany,11
@@ -4258,7 +4258,7 @@ Tieckstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,10.0,Berlin,
 virtuell - U Bundestag (Nord),0,4.0,Berlin,Germany,11
 virtuell - Schönhauser Allee/Wörther Straße,0,4.0,Berlin,Germany,11
 virtuell - Wilhelmstraße/Adamstraße,1,3.0,Berlin,Germany,11
-Jelbi U Amrumer Straße (WED/AMR),1,7.0,Berlin,Germany,11
+Jelbi U Amrumer Straße (WED/AMR),2,6.0,Berlin,Germany,11
 virtuell - Schöneberger Straße/Ringbahnstraße,3,3.0,Berlin,Germany,11
 virtuell - Französisch Buchholz Kirche (Hauptstraße),0,4.0,Berlin,Germany,11
 virtuell - EDEKA Otto-Suhr-Allee (U Richard-Wagner-Platz),0,4.0,Berlin,Germany,11
@@ -4284,7 +4284,7 @@ virtuell - Tschaikowskistraße (Grabbeallee),2,1.0,Berlin,Germany,11
 virtuell - Otto-Suhr-Allee/Marie-Elisabeth-Lüders-Straße,3,1.0,Berlin,Germany,11
 Holzmarktstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,0,10.0,Berlin,Germany,11
 virtuell - U Spittelmarkt (West),2,2.0,Berlin,Germany,11
-virtuell - Alexandrinenstraße/Stallschreiberstraße,1,3.0,Berlin,Germany,11
+virtuell - Alexandrinenstraße/Stallschreiberstraße,0,4.0,Berlin,Germany,11
 virtuell - Alt-Mahlsdorf/Pilgramer Straße,0,4.0,Berlin,Germany,11
 virtuell - Bölschestraße/Lindenallee,0,4.0,Berlin,Germany,11
 virtuell - Am Omnibushof (Gatower Straße),0,4.0,Berlin,Germany,11
@@ -4302,7 +4302,7 @@ virtuell - EDEKA Moch (Voltairestraße),0,4.0,Berlin,Germany,11
 virtuell - Märkische Allee/Alt-Friedrichsfelde,0,4.0,Berlin,Germany,11
 Jelbi - Okerstr./Schillerpromenade (NEU/OK)),2,1.0,Berlin,Germany,11
 virtuell - Richardplatz,5,0.0,Berlin,Germany,11
-U Platz der Luftbrücke | BONUS-Station: Return(Rückgabe) here=15 mins free,1,11.0,Berlin,Germany,11
+U Platz der Luftbrücke | BONUS-Station: Return(Rückgabe) here=15 mins free,10,2.0,Berlin,Germany,11
 virtuell - S Ahrensfelde (West),0,4.0,Berlin,Germany,11
 virtuell - Alexanderplatz/Dircksenstraße/ALEXA (Abstellfläche-Mikromobilität),0,6.0,Berlin,Germany,11
 virtuell - Soldiner Straße/Kolonienstraße,1,3.0,Berlin,Germany,11
@@ -4331,7 +4331,7 @@ virtuell - U Afrikanische Str.,1,3.0,Berlin,Germany,11
 virtuell - Am Schlachtensee/Marinesteig,0,4.0,Berlin,Germany,11
 virtuell - EDEKA Yorckstraße,5,0.0,Berlin,Germany,11
 virtuell - Roedernstraße/Pariser Straße,0,4.0,Berlin,Germany,11
-virtuell - Britzer Damm,2,2.0,Berlin,Germany,11
+virtuell - Britzer Damm,1,3.0,Berlin,Germany,11
 virtuell - Herrenhausstraße/Königsheideweg,1,3.0,Berlin,Germany,11
 virtuell - U Rüdesheimer Platz (Wiesbadener Straße),4,0.0,Berlin,Germany,11
 virtuell - Lindenstraße/Joachimstraße,1,3.0,Berlin,Germany,11
@@ -4347,7 +4347,7 @@ virtuell - M Alt-Hohenschönhausen (Haupstraße),0,4.0,Berlin,Germany,11
 virtuell - Pestalozzistraße/Wielandstraße,2,2.0,Berlin,Germany,11
 virtuell - Am Treptower Park/Klingerstraße,1,3.0,Berlin,Germany,11
 virtuell - Mildred-Harnack-Straße,0,4.0,Berlin,Germany,11
-virtuell - Plesser Straße/Kiefholzstraße,1,3.0,Berlin,Germany,11
+virtuell - Plesser Straße/Kiefholzstraße,0,4.0,Berlin,Germany,11
 EDEKA Stresemannstraße | BONUS-Station: Return(Rückgabe) here=15 mins free,7,0.0,Berlin,Germany,11
 virtuell - EDEKA Center (Klosterstraße),0,4.0,Berlin,Germany,11
 virtuell - S Hirschgarten,0,4.0,Berlin,Germany,11
@@ -4363,7 +4363,7 @@ Jagowstraße/Levetzowstraße | BONUS-Station: Return(Rückgabe) here=15 mins fre
 virtuell - EDEKA Hadersbeck (Kaiser-Wilhelm-Straße),1,3.0,Berlin,Germany,11
 virtuell - Normannenstraße/Ruschestraße,0,4.0,Berlin,Germany,11
 virtuell - Weichselstraße/Oderstraße,1,3.0,Berlin,Germany,11
-virtuell - M Kopernikusstraße/Warschauer Straße (Südost),2,2.0,Berlin,Germany,11
+virtuell - M Kopernikusstraße/Warschauer Straße (Südost),1,3.0,Berlin,Germany,11
 virtuell - Hirschberger Straße/Schreiberhauer Straße,1,3.0,Berlin,Germany,11
 virtuell - Berlinickeplatz,0,4.0,Berlin,Germany,11
 virtuell - Saldernstraße/Philippistraße,0,4.0,Berlin,Germany,11
@@ -4390,7 +4390,7 @@ virtuell - Iranische Straße/Heinz-Galinski-Straße (Jüdisches Krankenhaus Berl
 virtuell - Kottbusser Damm/Maybachufer,2,2.0,Berlin,Germany,11
 virtuell - Hüttenweg (Clayallee),0,4.0,Berlin,Germany,11
 virtuell - Hedwig-Wachenheim-Straße/Wanda-Kallenbach-Straße,0,4.0,Berlin,Germany,11
-Jelbi Leinestraße (NEU/LE),0,4.0,Berlin,Germany,11
+Jelbi Leinestraße (NEU/LE),1,3.0,Berlin,Germany,11
 Jelbi Niederkirchnerstraße (MIT/NI),0,6.0,Berlin,Germany,11
 virtuell - Rheinstraße/Hedwigstraße,0,4.0,Berlin,Germany,11
 virtuell - Schwimmhalle Allendeviertel,0,4.0,Berlin,Germany,11
@@ -4404,7 +4404,7 @@ virtuell - Treskowallee/HTW (Berlin),0,4.0,Berlin,Germany,11
 virtuell - Turmstraße/Bandelstraße,0,4.0,Berlin,Germany,11
 virtuell - Müggelseedamm (Seebad Friedrichshagen),0,4.0,Berlin,Germany,11
 virtuell - Kunsthochschule Berlin-Weißensee,0,4.0,Berlin,Germany,11
-Jelbi U Wilmersdorfer Straße/Stuttgarter Platz (CHA/ST),0,4.0,Berlin,Germany,11
+Jelbi U Wilmersdorfer Straße/Stuttgarter Platz (CHA/ST),1,3.0,Berlin,Germany,11
 virtuell - Boxhagener Straße/Kreutzigerstraße,1,3.0,Berlin,Germany,11
 virtuell - Scharnweberstraße/Gürtelstraße,3,1.0,Berlin,Germany,11
 virtuell - Schreinerstraße/Voigtstraße,0,4.0,Berlin,Germany,11
@@ -4426,11 +4426,11 @@ virtuell - Hussitenstraße/Feldstraße,0,4.0,Berlin,Germany,11
 virtuell - Iburger Ufer/Arcostraße,0,4.0,Berlin,Germany,11
 virtuell - Wiener Straße (Spreewaldplatz),0,4.0,Berlin,Germany,11
 virtuell - M Freienwalder Straße (Konrad-Wolf-Straße),1,3.0,Berlin,Germany,11
-Jelbi S+U Zoologischer Garten/Jebensstraße (CHA/JE),1,9.0,Berlin,Germany,11
+Jelbi S+U Zoologischer Garten/Jebensstraße (CHA/JE),2,8.0,Berlin,Germany,11
 virtuell - EDEKA Felix (Kladower Damm),0,4.0,Berlin,Germany,11
 virtuell - An der Schneise (Hennigsdorfer Straße),0,4.0,Berlin,Germany,11
 virtuell - Heerstraße/Kastanienallee (Bürgeramt Charlottenburg-Wilmersdorf),2,2.0,Berlin,Germany,11
-virtuell - EDEKA Schnelle (Alt-Stralau),2,1.0,Berlin,Germany,11
+virtuell - EDEKA Schnelle (Alt-Stralau),1,2.0,Berlin,Germany,11
 virtuell - Gotthardstraße/Holländerstraße,0,4.0,Berlin,Germany,11
 virtuell - S Schöneweide (Cajamarcaplatz),0,4.0,Berlin,Germany,11
 virtuell - Raumerstraße/Dunckerstraße,1,3.0,Berlin,Germany,11
