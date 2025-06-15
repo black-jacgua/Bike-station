@@ -1,5 +1,5 @@
 name,free_bikes,empty_slots,city,country,position
-Schleidenplatz / Waldeyerstraße,1,39,Berlin,Germany,10
+Schleidenplatz / Waldeyerstraße,0,40,Berlin,Germany,10
 Jelbi S+U Zoologischer Garten / Joachimsthaler,3,37,Berlin,Germany,10
 Oberwallstraße / Jägerstraße,6,34,Berlin,Germany,10
 Humannplatz / Stahlheimer Straße,0,40,Berlin,Germany,10
@@ -42,7 +42,7 @@ Jelbi Klinikum Am Urban / Planufer,4,36,Berlin,Germany,10
 Jelbi U Weinmeisterstraße,4,36,Berlin,Germany,10
 Gürtelstraße / Oderstraße,1,39,Berlin,Germany,10
 Jelbi S Hackescher Markt,3,37,Berlin,Germany,10
-Jelbi Neue Schönhauser Straße / Rosenthaler Straße,9,31,Berlin,Germany,10
+Jelbi Neue Schönhauser Straße / Rosenthaler Straße,10,30,Berlin,Germany,10
 Marie-Curier-Allee / Bietzkestraße,2,38,Berlin,Germany,10
 U Tierpark / Sewanstraße,5,35,Berlin,Germany,10
 Jelbi Edith-Kiss-Straße,0,40,Berlin,Germany,10
@@ -102,7 +102,7 @@ Blücherstraße / Baerwaldstraße,1,39,Berlin,Germany,10
 Franz-Künstler-Straße / Alexandrinenstraße,2,38,Berlin,Germany,10
 Pascalstraße / Schlesingerstraße,0,40,Berlin,Germany,10
 Jelbi Memhardstraße / Rosa-Luxemburg-Straße,2,38,Berlin,Germany,10
-Bötzowstraße / Am Friedrichshain,3,37,Berlin,Germany,10
+Bötzowstraße / Am Friedrichshain,2,38,Berlin,Germany,10
 Hirschberger Straße / Krummhübler Straße,1,39,Berlin,Germany,10
 U Frankfurter Tor / Petersburger Straße,3,37,Berlin,Germany,10
 Oranienstraße / Waldeckpark,2,38,Berlin,Germany,10
@@ -163,7 +163,7 @@ U Bernauer Straße / Brunnenstraße,3,37,Berlin,Germany,10
 Jelbi Linienstraße / Rosenthaler Straße,4,36,Berlin,Germany,10
 Jelbi Kienitzer Straße,4,36,Berlin,Germany,10
 Ebertystraße / Kochhannstraße,0,40,Berlin,Germany,10
-Jelbi U Kottbusser Tor / Reichenberger Straße,6,34,Berlin,Germany,10
+Jelbi U Kottbusser Tor / Reichenberger Straße,5,35,Berlin,Germany,10
 Einsteinufer / Marchstraße,2,38,Berlin,Germany,10
 Jelbi Landsberger Allee / Petersburger Straße,5,35,Berlin,Germany,10
 Schivelbeiner Straße /  Schönfließer Straße,7,33,Berlin,Germany,10
@@ -236,7 +236,7 @@ Salzufer / Hannah-Karminski-Straße,0,40,Berlin,Germany,10
 Jelbi U Rosenthaler Platz Nord,7,33,Berlin,Germany,10
 Wallstraße / Neue Roßstraße,4,36,Berlin,Germany,10
 Jelbi Otto-Braun-Straße / Alexanderstraße,0,40,Berlin,Germany,10
-Reichenberger Straße / Lausitzer Straße,7,33,Berlin,Germany,10
+Reichenberger Straße / Lausitzer Straße,8,32,Berlin,Germany,10
 Jelbi Gertrud-Kolmar-Straße / Hannah-Arendt-Straße,2,38,Berlin,Germany,10
 Klingelhöferstraße / Stülerstraße,1,39,Berlin,Germany,10
 Köpenicker Straße / Michaelkirchstraße,8,32,Berlin,Germany,10
@@ -263,9 +263,9 @@ Bänschstraße / Samariter Straße,0,40,Berlin,Germany,10
 Jelbi S+U Alexanderplatz / Dircksenstraße,1,39,Berlin,Germany,10
 Jelbi Eisenacher Straße / Kleiststraße,0,40,Berlin,Germany,10
 Jelbi Wilhelmstraße / An der Kolonnade,5,35,Berlin,Germany,10
-Monumentenstraße / Katzbachstraße,2,38,Berlin,Germany,10
+Monumentenstraße / Katzbachstraße,1,39,Berlin,Germany,10
 U Birkenstraße / Wilhelmshavener Straße,2,38,Berlin,Germany,10
-Ueckermünder Straße /  Malmöer Straße,2,38,Berlin,Germany,10
+Ueckermünder Straße /  Malmöer Straße,1,39,Berlin,Germany,10
 U Samariter Straße / Frankfurter Allee,9,31,Berlin,Germany,10
 Friedrichstraße / Behrenstraße,1,39,Berlin,Germany,10
 Jelbi Adalbertstraße / Naunynstraße,0,40,Berlin,Germany,10
@@ -278,7 +278,7 @@ Jelbi Rummelsburger Platz,6,34,Berlin,Germany,10
 Uferstraße / Martin-Opitz Straße,1,39,Berlin,Germany,10
 Jelbi U Amrumer Straße,10,30,Berlin,Germany,10
 U Ernst-Reuter-Platz / Marchstraße,0,40,Berlin,Germany,10
-Kopenhagener Straße / Schönhauser Allee,3,37,Berlin,Germany,10
+Kopenhagener Straße / Schönhauser Allee,4,36,Berlin,Germany,10
 Jelbi S+U Potsdamer Platz / A.-Hauschner-Straße,11,29,Berlin,Germany,10
 Jelbi Oberbaumbrücke,2,38,Berlin,Germany,10
 Spreewaldplatz / Wiener Straße,6,34,Berlin,Germany,10
@@ -341,7 +341,7 @@ U Oranienburger Tor / Linienstraße,11,29,Berlin,Germany,10
 Jelbi Kleine Rosenthaler Straße / Steinstraße,9,31,Berlin,Germany,10
 Krossener Straße / Gabriel-Max-Straße,3,37,Berlin,Germany,10
 Greifswalder Straße /  Danziger Straße,3,37,Berlin,Germany,10
-Lützowstraße / Potsdamer Straße,3,37,Berlin,Germany,10
+Lützowstraße / Potsdamer Straße,4,36,Berlin,Germany,10
 Greifenhagener Straße / Stargarder Straße,5,35,Berlin,Germany,10
 U Kurfürstendamm / Joachimsthaler Straße,0,40,Berlin,Germany,10
 Jelbi Eisenacher Straße / Nollendorfstraße,3,37,Berlin,Germany,10
@@ -374,7 +374,7 @@ Jelbi Am Lustgarten / Schlossplatz,2,38,Berlin,Germany,10
 Jelbi Mohrenstraße / Friedrichstraße,4,36,Berlin,Germany,10
 Pappelplatz / Invalidenstraße,4,36,Berlin,Germany,10
 Schönhauser Allee / Milastraße,1,39,Berlin,Germany,10
-Jelbi U Prinzenstraße,14,26,Berlin,Germany,10
+Jelbi U Prinzenstraße,15,25,Berlin,Germany,10
 Meinekestraße / Schaperstraße,0,40,Berlin,Germany,10
 Lützowplatz / Karl-Heinrich-Ulrichsstraße,3,37,Berlin,Germany,10
 U Wittenbergplatz / Tauentzienstraße,1,39,Berlin,Germany,10
@@ -393,7 +393,7 @@ Jelbi Graefestraße / Planufer,10,30,Berlin,Germany,10
 ICE-Werk / Wallensteinstraße,10,30,Berlin,Germany,10
 Adolfstraße / Plantagenstraße,3,37,Berlin,Germany,10
 Winsstraße / Jablonskistraße,1,39,Berlin,Germany,10
-Prenzlauer Allee / Saarbrücker Straße,3,37,Berlin,Germany,10
+Prenzlauer Allee / Saarbrücker Straße,2,38,Berlin,Germany,10
 Jelbi Taubenstraße / Friedrichstraße,1,39,Berlin,Germany,10
 Jelbi Rathausstraße / Berliner Fernsehturm,10,30,Berlin,Germany,10
 Jelbi Dieffenbachstraße / Grimmstraße,0,40,Berlin,Germany,10
