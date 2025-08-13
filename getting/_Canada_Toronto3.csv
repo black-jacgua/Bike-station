@@ -1,7 +1,7 @@
 name,free_bikes,empty_slots,city,country,position
 Summerhill Ave / Maclennan Ave,1,6,Toronto,Canada,3
 Queen St E / Joseph Duggan Rd,9,10,Toronto,Canada,3
-Victoria Park Ave / Danforth Ave,1,18,Toronto,Canada,3
+Victoria Park Ave / Danforth Ave,0,19,Toronto,Canada,3
 Navy Wharf Crt / Bremner Blvd,1,4,Toronto,Canada,3
 420 Wellington St W,4,8,Toronto,Canada,3
 Sentinel Rd / Finch Ave W,14,0,Toronto,Canada,3
@@ -10,8 +10,8 @@ York University Station (North),0,13,Toronto,Canada,3
 Dundas St W / Yonge St,0,30,Toronto,Canada,3
 Euclid Ave / Herrick St - SMART,7,9,Toronto,Canada,3
 Wellesley St W / Queen's Park Cres,1,15,Toronto,Canada,3
-Jane St / Sheppard Ave W,17,2,Toronto,Canada,3
-144 Harrison St,40,0,Toronto,Canada,3
+Jane St / Sheppard Ave W,18,1,Toronto,Canada,3
+144 Harrison St,42,0,Toronto,Canada,3
 Wellington St W / Bay St,0,53,Toronto,Canada,3
 Sunnyside Ave / The Queensway - SMART,8,9,Toronto,Canada,3
 161 Bleecker St (South of Wellesley),1,20,Toronto,Canada,3
@@ -36,7 +36,7 @@ Jarvis St / Richmond St E,5,13,Toronto,Canada,3
 Mortimer Ave / Coxwell Ave,12,11,Toronto,Canada,3
 Dundas St E / River St,18,1,Toronto,Canada,3
 St. Clair Ave W / Symes Rd,3,10,Toronto,Canada,3
-Yarmouth Rd / Christie St,5,6,Toronto,Canada,3
+Yarmouth Rd / Christie St,6,5,Toronto,Canada,3
 Dufferin Gate - SMART,13,0,Toronto,Canada,3
 Symington Ave / Davenport Rd,8,7,Toronto,Canada,3
 Niagara St / King St W - SMART,23,1,Toronto,Canada,3
@@ -62,7 +62,7 @@ High Park Outdoor Pool,0,25,Toronto,Canada,3
 800 Fleet St (South),30,10,Toronto,Canada,3
 McCowan Rd / Trudelle St,3,15,Toronto,Canada,3
 Queens Quay W / Dan Leckie Way,22,5,Toronto,Canada,3
-Roehampton Ave / Mount Pleasant Rd,3,10,Toronto,Canada,3
+Roehampton Ave / Mount Pleasant Rd,3,11,Toronto,Canada,3
 Niagara St / Tecumseth St,12,0,Toronto,Canada,3
 Uno Dr / The Queensway,13,1,Toronto,Canada,3
 Oakdale Community Centre,14,0,Toronto,Canada,3
@@ -83,7 +83,7 @@ Hanna Ave / Snooker St,15,0,Toronto,Canada,3
 Queen St W / John St,1,20,Toronto,Canada,3
 Glen Edyth Dr / Davenport Rd,4,9,Toronto,Canada,3
 Eglinton Ave W / Gilbert Ave,0,19,Toronto,Canada,3
-St. Joseph St / Bay St - SMART,1,19,Toronto,Canada,3
+St. Joseph St / Bay St - SMART,15,5,Toronto,Canada,3
 Jarvis St / Isabella St,1,21,Toronto,Canada,3
 Jane St / Yorkwoods Gt,4,10,Toronto,Canada,3
 Richmond St W / York St,1,14,Toronto,Canada,3
@@ -94,18 +94,18 @@ Davenport Rd / Avenue Rd,0,10,Toronto,Canada,3
 King St W / Jameson Ave - SMART,10,1,Toronto,Canada,3
 Queen's Park Cres W / Hoskin Ave,0,17,Toronto,Canada,3
 Edward St / Yonge St,1,20,Toronto,Canada,3
-16 Riverview Gardens ,21,10,Toronto,Canada,3
+16 Riverview Gardens ,11,20,Toronto,Canada,3
 Queen's Park / Bloor St W,0,23,Toronto,Canada,3
-Parkside Dr / Bloor St W - SMART,4,7,Toronto,Canada,3
+Parkside Dr / Bloor St W - SMART,5,6,Toronto,Canada,3
 Shaw St / King St W,15,0,Toronto,Canada,3
 Kilgour Rd / Rumsey Rd,2,14,Toronto,Canada,3
 Castle Frank Subway Station,0,18,Toronto,Canada,3
-Spadina Ave / Blue Jays Way,2,27,Toronto,Canada,3
+Spadina Ave / Blue Jays Way,23,5,Toronto,Canada,3
 Glendonwynne Rd / Bloor St W,2,17,Toronto,Canada,3
 Superior Ave / Lake Shore Blvd W,13,3,Toronto,Canada,3
-2700 Eglinton Ave W,18,24,Toronto,Canada,3
+2700 Eglinton Ave W,1,41,Toronto,Canada,3
 Wendover Rd / Bloor St W (Green P),1,14,Toronto,Canada,3
-75 Holly St,8,0,Toronto,Canada,3
+75 Holly St,17,0,Toronto,Canada,3
 Starspray Blvd / Lawrence Ave E,5,13,Toronto,Canada,3
 The Pond Rd / Shoreham Dr,10,5,Toronto,Canada,3
 Adelaide St W / Yonge St,0,16,Toronto,Canada,3
@@ -131,7 +131,7 @@ Taddle Creek Park,5,9,Toronto,Canada,3
 Mill St / Tannery Rd,22,0,Toronto,Canada,3
 Bloor St E / Huntley St - SMART,9,11,Toronto,Canada,3
 Bay Mills Blvd / Birchmount Ave,0,14,Toronto,Canada,3
-Gerrard St E / Leslie St,12,9,Toronto,Canada,3
+Gerrard St E / Leslie St,11,11,Toronto,Canada,3
 Eglinton Ave W / Prospect Cemetery,1,18,Toronto,Canada,3
 Maud St / Adelaide St W - SMART,11,3,Toronto,Canada,3
 Simcoe St / Michael Sweet Ave,8,10,Toronto,Canada,3
@@ -172,7 +172,7 @@ Yonge St / Lawrence Ave E,6,16,Toronto,Canada,3
 Bay St / Bloor St W (East Side),0,15,Toronto,Canada,3
 Symington Ave / Dupont St,2,13,Toronto,Canada,3
 Silver Springs Blvd / Birchmount Rd,1,10,Toronto,Canada,3
-Commissioners St / Bouchette St,8,10,Toronto,Canada,3
+Commissioners St / Bouchette St,9,9,Toronto,Canada,3
 St. Clair Ave W / Osler St,6,5,Toronto,Canada,3
 Bridgman Ave / Bathurst St,5,9,Toronto,Canada,3
 Davenport Rd / Bedford Rd,4,10,Toronto,Canada,3
@@ -183,7 +183,7 @@ Simcoe St / Elm St,0,10,Toronto,Canada,3
 Toronto Public Library - Agincourt,0,14,Toronto,Canada,3
 Marine Parade Dr / Humber Bay Shores Park Trl,14,5,Toronto,Canada,3
 King St W / Spadina Ave,1,15,Toronto,Canada,3
-Spadina Ave / Harbord St - SMART,19,15,Toronto,Canada,3
+Spadina Ave / Harbord St - SMART,18,16,Toronto,Canada,3
 Bayview Ave / Finch Recreational Trail,7,11,Toronto,Canada,3
 Keele St / Lloyd Ave,1,12,Toronto,Canada,3
 Viewmount Park,0,14,Toronto,Canada,3
@@ -194,13 +194,13 @@ Slan Ave / Scarborough Golf Club Rd,1,14,Toronto,Canada,3
 Southwood Dr / Kingston Rd - SMART,4,8,Toronto,Canada,3
 85 Lee Ave,11,6,Toronto,Canada,3
 King St W / Portland St - SMART,1,30,Toronto,Canada,3
-Toronto Eaton Centre (Yonge St) - SMART,1,19,Toronto,Canada,3
+Toronto Eaton Centre (Yonge St) - SMART,0,20,Toronto,Canada,3
 Sussex Ave / St George St,1,14,Toronto,Canada,3
 Baldwin St / Henry St,1,12,Toronto,Canada,3
 Donlands Subway Station,4,11,Toronto,Canada,3
 York St / Lake Shore Blvd W,11,7,Toronto,Canada,3
 Weston Rd / Sheppard Ave W,8,6,Toronto,Canada,3
-Spadina Ave / Willcocks St,0,13,Toronto,Canada,3
+Spadina Ave / Willcocks St,1,12,Toronto,Canada,3
 Leslie Subway Station,9,4,Toronto,Canada,3
 Baycrest Ave / Bathurst St,0,19,Toronto,Canada,3
 Pharmacy Ave / Teesdale Pl,6,12,Toronto,Canada,3
@@ -208,7 +208,7 @@ Lindylou Rd / Lanyard Rd,5,10,Toronto,Canada,3
 Blake St / Boultbee Ave,11,4,Toronto,Canada,3
 Granby St / Church St - SMART,6,18,Toronto,Canada,3
 Vaughan Rd /Wychwood Ave,3,15,Toronto,Canada,3
-Spadina Ave / Sullivan St,0,21,Toronto,Canada,3
+Spadina Ave / Sullivan St,1,20,Toronto,Canada,3
 Jarvis St / Carlton St,10,2,Toronto,Canada,3
 Mallaby Park ,0,15,Toronto,Canada,3
 Bathurst St / Lennox St,3,15,Toronto,Canada,3
@@ -224,7 +224,7 @@ Bloor St W / Gladstone Ave - SMART,1,10,Toronto,Canada,3
 High Park Ave / Dundas St W,5,10,Toronto,Canada,3
 Sunnybrook Park,8,17,Toronto,Canada,3
 Danforth Ave / Ellerbeck St,9,5,Toronto,Canada,3
-1612 Danforth Ave ,2,10,Toronto,Canada,3
+1612 Danforth Ave ,3,10,Toronto,Canada,3
 Finch Ave W / Wilmington Ave,2,15,Toronto,Canada,3
 Charles St E / Jarvis St - SMART,3,16,Toronto,Canada,3
 Queens Quay / Yonge St,37,8,Toronto,Canada,3
@@ -252,9 +252,9 @@ Cariboo Ave / Railpath Trail,4,14,Toronto,Canada,3
 Davisville Ave / Pailton Cres,3,15,Toronto,Canada,3
 Yonge St / St. Clair Ave,6,12,Toronto,Canada,3
 Simcoe St / Dundas St W,10,3,Toronto,Canada,3
-Dundas St E / George St,16,8,Toronto,Canada,3
+Dundas St E / George St,17,7,Toronto,Canada,3
 Front St W / Yonge St (Hockey Hall of Fame),1,41,Toronto,Canada,3
-Church St / Lombard St,8,6,Toronto,Canada,3
+Church St / Lombard St,8,7,Toronto,Canada,3
 Augusta Ave / Denison Sq,2,9,Toronto,Canada,3
 St. John's Rd / Dundas St W,1,14,Toronto,Canada,3
 Millwood Rd / Southvale Dr,1,11,Toronto,Canada,3
@@ -276,7 +276,7 @@ Teddington Park Ave,2,11,Toronto,Canada,3
 Scarlett Rd / Old Scarlett Rd ,1,13,Toronto,Canada,3
 Blythwood Rd / Yonge St - SMART,5,9,Toronto,Canada,3
 Runnymede Rd / Annette St,4,11,Toronto,Canada,3
-285 Victoria St,0,37,Toronto,Canada,3
+285 Victoria St,2,37,Toronto,Canada,3
 Eastern Ave / Winnifred Ave,6,8,Toronto,Canada,3
 Ursula Franklin St / St. George St - SMART,0,15,Toronto,Canada,3
 Guildwood GO Station (South),0,11,Toronto,Canada,3
@@ -284,10 +284,10 @@ Clarence Square,15,7,Toronto,Canada,3
 Aurora Ct / Bridletowne Cir,0,10,Toronto,Canada,3
 Eglinton Ave E / Brimley Rd,4,13,Toronto,Canada,3
 Front St W / Bay St (South Side),17,0,Toronto,Canada,3
-Jimmie Simpson Park (Queen St E),14,16,Toronto,Canada,3
+Jimmie Simpson Park (Queen St E),13,17,Toronto,Canada,3
 Alma Ave / Gladstone Ave SMART,15,0,Toronto,Canada,3
 Jane St / Weston Rd,0,15,Toronto,Canada,3
-439 Sherbourne St,5,41,Toronto,Canada,3
+439 Sherbourne St,23,21,Toronto,Canada,3
 Mary McCormick Rec Centre (Sheridan Ave),12,2,Toronto,Canada,3
 Church St / The Esplanade,13,5,Toronto,Canada,3
 50 Overlea Blvd,5,10,Toronto,Canada,3
@@ -307,7 +307,7 @@ Highfield Rd / Gerrard St E,18,1,Toronto,Canada,3
 Grand Avenue Park,8,14,Toronto,Canada,3
 The Esplanade / Hahn Pl,15,0,Toronto,Canada,3
 Front St E / Scott St (2),1,9,Toronto,Canada,3
-Church St  / Wood St,1,26,Toronto,Canada,3
+Church St  / Wood St,0,27,Toronto,Canada,3
 Bayview Ave / Lawren Harris Square,12,3,Toronto,Canada,3
 King St W / Bay St (West Side),0,36,Toronto,Canada,3
 Bloor St E / Parliament St,6,12,Toronto,Canada,3
@@ -319,7 +319,7 @@ Brimley Rd / E Highland Creek Trail,0,11,Toronto,Canada,3
 Islington Subway Station (Aberfoyle Cres),1,13,Toronto,Canada,3
 Spadina Ave / Fort York Blvd,9,12,Toronto,Canada,3
 Vanauley St / Queen St W - SMART,10,2,Toronto,Canada,3
-Howard St / Rose Ave,1,17,Toronto,Canada,3
+Howard St / Rose Ave,2,16,Toronto,Canada,3
 Brooklawn Ave / Kingston Rd,9,1,Toronto,Canada,3
 Salem Ave / Bloor St W,5,9,Toronto,Canada,3
 Gunns Rd / Lavender Creek Trail,0,15,Toronto,Canada,3
@@ -333,33 +333,33 @@ Danforth Ave / Danforth Rd,11,2,Toronto,Canada,3
 Lake Shore Blvd W / The Boulevard Club,13,4,Toronto,Canada,3
 Thorncliffe Park Dr / Leaside Park Trail,7,5,Toronto,Canada,3
 Lawrence Ave W / Pine St,0,14,Toronto,Canada,3
-University Ave / Gerrard St W (East Side),0,23,Toronto,Canada,3
+University Ave / Gerrard St W (East Side),0,24,Toronto,Canada,3
 Ruddington Dr / Finch Recreational Trail,2,17,Toronto,Canada,3
-3220 Bloor St W,2,27,Toronto,Canada,3
+3220 Bloor St W,12,5,Toronto,Canada,3
 Cosburn Ave / Durant Ave,13,2,Toronto,Canada,3
 Eastview Park,4,7,Toronto,Canada,3
 Stansbury Cr / Midland Ave,1,9,Toronto,Canada,3
 Marlee Ave / York Beltline Trail,5,12,Toronto,Canada,3
 King St W / Bay St (East Side),0,17,Toronto,Canada,3
 Bloor St W / Balmuto St,0,11,Toronto,Canada,3
-Claremont St / Dundas St W,12,1,Toronto,Canada,3
+Claremont St / Dundas St W,11,2,Toronto,Canada,3
 HTO Park (Queens Quay W),4,21,Toronto,Canada,3
 Charles St W / Balmuto St - SMART,18,5,Toronto,Canada,3
 King St W / Brant St,9,11,Toronto,Canada,3
 Lawton Blvd / Yonge St,9,5,Toronto,Canada,3
 Grenoble Dr / Vendome Pl,2,9,Toronto,Canada,3
 Chiltern Hill Rd / Eglinton Ave W,0,16,Toronto,Canada,3
-14 Arundel Ave,11,0,Toronto,Canada,3
+14 Arundel Ave,10,0,Toronto,Canada,3
 Antler St / Campbell Ave - SMART,2,18,Toronto,Canada,3
 Keele St / Ingram Dr,6,9,Toronto,Canada,3
 St. Clair Ave W / Castleton Ave,14,5,Toronto,Canada,3
 Euclid Ave / Queen St W - SMART,9,0,Toronto,Canada,3
-Emdaabiimok Ave / Lake Shore Blvd E,11,3,Toronto,Canada,3
+Emdaabiimok Ave / Lake Shore Blvd E,10,4,Toronto,Canada,3
 Highview Ave / Kennedy Rd,5,7,Toronto,Canada,3
 Emerson Ave / Bloor St W,1,21,Toronto,Canada,3
 St Clair Ave W / Oakwood Ave,1,13,Toronto,Canada,3
 Bellamy Rd S / Kingston Rd,2,16,Toronto,Canada,3
-Queens Quay W / Lower Simcoe St,2,12,Toronto,Canada,3
+Queens Quay W / Lower Simcoe St,0,14,Toronto,Canada,3
 Fulton Ave / Pape Ave,12,6,Toronto,Canada,3
 165 McRae Dr,1,11,Toronto,Canada,3
 Union Station (North),0,15,Toronto,Canada,3
@@ -393,11 +393,11 @@ Agincourt Recreation Centre,0,15,Toronto,Canada,3
 Annette St / Jane St,2,12,Toronto,Canada,3
 Sheppard Ave W / Magellan Dr,3,12,Toronto,Canada,3
 Princes' Gates,2,14,Toronto,Canada,3
-Gould St / Mutual St,12,16,Toronto,Canada,3
+Gould St / Mutual St,13,15,Toronto,Canada,3
 Bert Robinson Park,10,5,Toronto,Canada,3
 Torresdale Ave / Finch Ave W,14,5,Toronto,Canada,3
 Portland St / Queen St W,1,12,Toronto,Canada,3
-Bay St / Wellesley St W,2,31,Toronto,Canada,3
+Bay St / Wellesley St W,21,12,Toronto,Canada,3
 Lansdowne Ave / Seaforth Ave ,13,0,Toronto,Canada,3
 200 Bloor St E,0,23,Toronto,Canada,3
 King St W / University Ave,0,32,Toronto,Canada,3
@@ -406,10 +406,10 @@ Scarborough GO Station,7,15,Toronto,Canada,3
 Eglinton Ave W / Venn Cres,0,19,Toronto,Canada,3
 Bleecker St / St James Ave,12,10,Toronto,Canada,3
 Spadina Rd / St. Clair Ave W,1,14,Toronto,Canada,3
-Danforth Ave / Warden Ave,4,10,Toronto,Canada,3
+Danforth Ave / Warden Ave,5,9,Toronto,Canada,3
 Eglinton West Subway Station,0,18,Toronto,Canada,3
 Sentinel Rd / Finch Corridor Trail,15,11,Toronto,Canada,3
-Bloor St W / Dundas St W (2),2,12,Toronto,Canada,3
+Bloor St W / Dundas St W (2),0,15,Toronto,Canada,3
 80 Clinton St,13,2,Toronto,Canada,3
 Sunnyside - Gus Ryder Pool,17,8,Toronto,Canada,3
 Widmer St / Adelaide St W - SMART,0,10,Toronto,Canada,3
@@ -421,7 +421,7 @@ Concord Ave / Bloor St W,6,9,Toronto,Canada,3
 Lower Don River Trail and Taylor Creek Trail,6,11,Toronto,Canada,3
 Lake Shore Blvd W / Legion Rd,10,8,Toronto,Canada,3
 Morse St / Eastern Ave,4,5,Toronto,Canada,3
-Temperance St Station,1,52,Toronto,Canada,3
+Temperance St Station,9,44,Toronto,Canada,3
 Moss Park,9,1,Toronto,Canada,3
 Rosehill Ave / Avoca Ave - SMART,0,15,Toronto,Canada,3
 Gerrard St E / Nasmith Ave ,15,8,Toronto,Canada,3
@@ -433,7 +433,7 @@ Empress Ave / Yonge St,5,13,Toronto,Canada,3
 Logan Ave / Gerrard St E,19,3,Toronto,Canada,3
 Leslie St / Commissioners St  ,18,0,Toronto,Canada,3
 Dundas St E / Regent Park Blvd,24,3,Toronto,Canada,3
-Eglinton Ave E / Redpath Ave,16,12,Toronto,Canada,3
+Eglinton Ave E / Redpath Ave,18,10,Toronto,Canada,3
 Bloor St W / Christie St,2,15,Toronto,Canada,3
 Sherbourne St N / Elm Ave,0,20,Toronto,Canada,3
 Woodbine Ave / O'Connor Dr,8,10,Toronto,Canada,3
@@ -452,28 +452,28 @@ Barton Ave / Howland Ave - SMART,8,18,Toronto,Canada,3
 YZD,8,10,Toronto,Canada,3
 Elizabeth St / Elm St,0,21,Toronto,Canada,3
 Second St / Lake Shore Blvd W,15,0,Toronto,Canada,3
-Queen St E / Rushbrooke Ave,7,8,Toronto,Canada,3
+Queen St E / Rushbrooke Ave,8,7,Toronto,Canada,3
 Fairview Mall Dr / Fairview Mall Dr E,1,16,Toronto,Canada,3
 Gerrard St E / Malvern Ave - SMART,0,19,Toronto,Canada,3
 Danforth Ave / Barrington Ave,8,5,Toronto,Canada,3
 Scarborough Soccer Centre,0,19,Toronto,Canada,3
-Sherbourne St / Carlton St (Allan Gardens),14,0,Toronto,Canada,3
+Sherbourne St / Carlton St (Allan Gardens),13,1,Toronto,Canada,3
 Fairglen Cres / Weston Rd,0,11,Toronto,Canada,3
 Yonge St / Aylmer Ave,1,21,Toronto,Canada,3
 Beltline Trail / Yonge St,10,11,Toronto,Canada,3
 University Ave / Richmond St W,0,12,Toronto,Canada,3
 Bloor St W / Old Mill Trl,2,17,Toronto,Canada,3
-Fairmount Park,13,4,Toronto,Canada,3
+Fairmount Park,13,5,Toronto,Canada,3
 Victoria Park Ave / Edge Park Ave,2,15,Toronto,Canada,3
 Noble St / Queen St W,15,0,Toronto,Canada,3
 Markham Rd / The Meadoway ,1,18,Toronto,Canada,3
-Central Tech  (Harbord St),2,5,Toronto,Canada,3
+Central Tech  (Harbord St),1,8,Toronto,Canada,3
 Victoria Park Ave / Dawes Rd,2,16,Toronto,Canada,3
 Thompson St / Broadview Ave - SMART,10,13,Toronto,Canada,3
 Birchmount Rd / The Meadoway,0,14,Toronto,Canada,3
 Markham Rd / Cougar Crt,2,9,Toronto,Canada,3
 St. George St / Bloor St W,8,10,Toronto,Canada,3
-College St / Markham St,10,6,Toronto,Canada,3
+College St / Markham St,8,8,Toronto,Canada,3
 Queen's Park Cres E / Grosvenor St - SMART,0,16,Toronto,Canada,3
 Ling Rd / Morningside Ave,14,1,Toronto,Canada,3
 Yonge St / Yorkville Ave,7,8,Toronto,Canada,3
@@ -483,14 +483,14 @@ Davenport Rd / McAlpine St - SMART,0,12,Toronto,Canada,3
 Midland Ave / Kingston Rd,13,6,Toronto,Canada,3
 Weston Rd / Gaydon Ave,4,7,Toronto,Canada,3
 Firvalley Ct / Warden Ave,3,15,Toronto,Canada,3
-OCAD University,2,21,Toronto,Canada,3
+OCAD University,3,20,Toronto,Canada,3
 Galbraith Rd / King's College Rd,0,17,Toronto,Canada,3
 Christie St / Benson Ave (Wychwood Barns),3,16,Toronto,Canada,3
 Portland St / Wellington St W,10,3,Toronto,Canada,3
-697 Lansdowne Ave ,6,11,Toronto,Canada,3
+697 Lansdowne Ave ,6,8,Toronto,Canada,3
 University Ave / Pearl St ,1,17,Toronto,Canada,3
 Annette St / Dundas St W,8,6,Toronto,Canada,3
-Mutual St / Shuter St,20,1,Toronto,Canada,3
+Mutual St / Shuter St,20,2,Toronto,Canada,3
 Parkcrest Dr / Kingston Rd,5,8,Toronto,Canada,3
 Macpherson Ave / Spadina Rd,4,11,Toronto,Canada,3
 Lawrence Ave E / Don Mills Trail,14,5,Toronto,Canada,3
@@ -498,7 +498,7 @@ Albion Rd/ Arcot Blvd,4,10,Toronto,Canada,3
 Richmond St E / Yonge St,0,14,Toronto,Canada,3
 Birchcliff Ave / Kingston Rd,6,7,Toronto,Canada,3
 Randolph Ave / Perth Ave,3,16,Toronto,Canada,3
-Bathurst St / Fort York Blvd,17,0,Toronto,Canada,3
+Bathurst St / Fort York Blvd,16,1,Toronto,Canada,3
 Jane St / Bloor St W (Jane Subway Station),2,13,Toronto,Canada,3
 Dundas St E / Boulton Ave - SMART,11,3,Toronto,Canada,3
 Amos Waites Park,4,22,Toronto,Canada,3
@@ -506,7 +506,7 @@ King St E / River St,12,0,Toronto,Canada,3
 Lansdowne Subway Station,2,21,Toronto,Canada,3
 Twelfth St / Thirteenth St,19,3,Toronto,Canada,3
 Oak St / Sumach St,27,0,Toronto,Canada,3
-Berkeley St / Dundas St E - SMART,28,10,Toronto,Canada,3
+Berkeley St / Dundas St E - SMART,29,9,Toronto,Canada,3
 Bathurst Subway Station,11,12,Toronto,Canada,3
 King St W / Fraser Ave,14,0,Toronto,Canada,3
 Dundas St W / St Helen's Ave - SMART,0,24,Toronto,Canada,3
@@ -515,7 +515,7 @@ Cruickshank Park,0,11,Toronto,Canada,3
 York Mills Rd / Lesmill Rd,3,11,Toronto,Canada,3
 Dufferin St / Bloor St W,7,14,Toronto,Canada,3
 Pioneer Village Subway Station,1,8,Toronto,Canada,3
-Yonge St / Dundonald St ,4,21,Toronto,Canada,3
+Yonge St / Dundonald St ,3,22,Toronto,Canada,3
 Church St / Alexander St,0,35,Toronto,Canada,3
 Riverdale Park South (Broadview Ave),2,12,Toronto,Canada,3
 552 Birchmount Rd,3,11,Toronto,Canada,3
@@ -525,10 +525,10 @@ King St W / Wilson Park Blvd,17,2,Toronto,Canada,3
 Beltline Trail / Chaplin Cres,4,8,Toronto,Canada,3
 Howard St / Sherbourne St,0,28,Toronto,Canada,3
 Benshire Dr / The Meadoway,2,8,Toronto,Canada,3
-St Clarens Ave / College St,6,9,Toronto,Canada,3
+St Clarens Ave / College St,7,8,Toronto,Canada,3
 11 Spadina Rd,13,1,Toronto,Canada,3
 Brookdale Ave / Yonge St,4,11,Toronto,Canada,3
-Victoria Park Ave / Kingston Rd,8,6,Toronto,Canada,3
+Victoria Park Ave / Kingston Rd,6,9,Toronto,Canada,3
 Palmerston Ave / Dundas St W,22,1,Toronto,Canada,3
 Old Cummer GO Station,8,12,Toronto,Canada,3
 Strachan Ave / East Liberty St - SMART,14,6,Toronto,Canada,3
@@ -546,7 +546,7 @@ Victoria Park Subway Station - SMART,1,11,Toronto,Canada,3
 Opposite 1103 Leslie St,6,13,Toronto,Canada,3
 Jane St / Milo Park Gt,5,5,Toronto,Canada,3
 Elm St/ University Ave (East Side),0,15,Toronto,Canada,3
-Queen St. E / Eastern Ave,10,2,Toronto,Canada,3
+Queen St. E / Eastern Ave,10,3,Toronto,Canada,3
 75 Tandridge Cres,1,14,Toronto,Canada,3
 McRae Dr / Laird Dr - SMART,15,9,Toronto,Canada,3
 Gerrard St E / Broadview Ave  - SMART,8,7,Toronto,Canada,3
@@ -575,12 +575,12 @@ Downsview Park Subway Station - SMART,2,17,Toronto,Canada,3
 Strachan Ave / Princes' Blvd,0,16,Toronto,Canada,3
 Alameda Ave / Vaughan Rd - SMART,1,15,Toronto,Canada,3
 Sheppard Ave E / Leslie St,18,0,Toronto,Canada,3
-King St W / Tecumseth St,17,2,Toronto,Canada,3
+King St W / Tecumseth St,18,1,Toronto,Canada,3
 Simcoe St / King St W,0,12,Toronto,Canada,3
 Mill St / Parliament St,14,0,Toronto,Canada,3
 Queen St E / Rhodes Ave,15,8,Toronto,Canada,3
 High Park Blvd / Parkside Dr,4,11,Toronto,Canada,3
-Gerrard Square Mall (1010 Gerrard St E),1,19,Toronto,Canada,3
+Gerrard Square Mall (1010 Gerrard St E),1,21,Toronto,Canada,3
 Jane St / Haney Ave,12,7,Toronto,Canada,3
 Talbot Rd / Finch Hydro Corridor,1,13,Toronto,Canada,3
 Davenport Rd / Christie St,2,25,Toronto,Canada,3
@@ -599,7 +599,7 @@ Kingston Rd / Ridgemoor Ave,11,3,Toronto,Canada,3
 Shaw St / College St,6,3,Toronto,Canada,3
 Mabelle Park,2,12,Toronto,Canada,3
 Lake Shore Blvd W / Seventeenth St,8,3,Toronto,Canada,3
-111 Broadview Ave,0,17,Toronto,Canada,3
+111 Broadview Ave,1,16,Toronto,Canada,3
 Colonel Danforth Park,13,3,Toronto,Canada,3
 Ionview Rd / Eglinton Ave E,0,10,Toronto,Canada,3
 Spadina Ave / Adelaide St W,4,9,Toronto,Canada,3
@@ -622,7 +622,7 @@ Bridlewood Park,0,11,Toronto,Canada,3
 Simcoe St / Wellington St W North,0,11,Toronto,Canada,3
 Humber Bay Shores Park East,14,8,Toronto,Canada,3
 Ridge Rd / Wilson Ave ,10,9,Toronto,Canada,3
-2300 Lakeshore Blvd W,12,1,Toronto,Canada,3
+2300 Lakeshore Blvd W,11,1,Toronto,Canada,3
 Wellesley St E / Jarvis St,7,16,Toronto,Canada,3
 Howard Park Ave / Parkside Dr,3,11,Toronto,Canada,3
 Ramsden Park,1,14,Toronto,Canada,3
@@ -630,7 +630,7 @@ Sackville St / Eastern Ave - SMART,10,0,Toronto,Canada,3
 Kennedy Rd / Finch Recreational Trail,1,13,Toronto,Canada,3
 Willingdon Blvd / Bloor St W (Green P),2,12,Toronto,Canada,3
 Niagara St / Richmond St W,40,2,Toronto,Canada,3
-Simcoe St / Pullan Pl,0,44,Toronto,Canada,3
+Simcoe St / Pullan Pl,2,42,Toronto,Canada,3
 Dalton Rd / Bloor St W,8,5,Toronto,Canada,3
 Bond Ave / Don Mills Trail,4,14,Toronto,Canada,3
 Grenoble Dr / Gateway Blvd,6,3,Toronto,Canada,3
@@ -656,9 +656,9 @@ Ursula Franklin St / Huron St - SMART,0,19,Toronto,Canada,3
 Cherry St / Distillery Ln,15,0,Toronto,Canada,3
 Finch Ave W / Weston Rd,3,12,Toronto,Canada,3
 Ellis Ave / The Queensway,18,0,Toronto,Canada,3
-Ulster St / Bathurst St,4,5,Toronto,Canada,3
+Ulster St / Bathurst St,4,6,Toronto,Canada,3
 Hayter St / La Plante Ave,0,20,Toronto,Canada,3
-Lisgar St / Queen St W - SMART,18,1,Toronto,Canada,3
+Lisgar St / Queen St W - SMART,14,6,Toronto,Canada,3
 King's Mill Park,15,10,Toronto,Canada,3
 Richmond St E / Jarvis St Green P,3,11,Toronto,Canada,3
 Scrivener Sq / Yonge St,0,15,Toronto,Canada,3
@@ -666,10 +666,10 @@ Rogers Rd / Bicknell Ave,7,16,Toronto,Canada,3
 Soudan Ave / Yonge St ,8,9,Toronto,Canada,3
 Ferrand Dr / Rochefort Dr,2,17,Toronto,Canada,3
 Yonge St / Orchard View Blvd,19,13,Toronto,Canada,3
-East Liberty St / Western Battery Rd,18,0,Toronto,Canada,3
+East Liberty St / Western Battery Rd,17,1,Toronto,Canada,3
 Yonge St / North York Blvd,8,13,Toronto,Canada,3
 Lake Shore Blvd W / Thirty Ninth Street,7,12,Toronto,Canada,3
-Euclid Ave / Bloor St W,6,11,Toronto,Canada,3
+Euclid Ave / Bloor St W,5,12,Toronto,Canada,3
 Dundas St E / Parliament St,14,0,Toronto,Canada,3
 Lisgar Park,32,2,Toronto,Canada,3
 Lake Shore Blvd W / Long Branch Ave,9,0,Toronto,Canada,3
@@ -683,9 +683,9 @@ Front St E / Scott St,1,8,Toronto,Canada,3
 Queen St W / Dovercourt Rd,7,1,Toronto,Canada,3
 Warden Ave / The Meadoway,5,3,Toronto,Canada,3
 Lake Shore Blvd W / Ellis Ave,19,0,Toronto,Canada,3
-Dundas St W / St. Patrick St,1,11,Toronto,Canada,3
+Dundas St W / St. Patrick St,2,13,Toronto,Canada,3
 Yonge St / Golfdale Rd,2,11,Toronto,Canada,3
-Ossington Ave / Harrison St,8,10,Toronto,Canada,3
+Ossington Ave / Harrison St,9,9,Toronto,Canada,3
 35 Erindale Ave,21,1,Toronto,Canada,3
 Adelaide St W / Strachan Ave,14,1,Toronto,Canada,3
 Duncan Mill Rd / Valleybrook Dr,7,8,Toronto,Canada,3
@@ -704,15 +704,15 @@ St. Clair Ave W / Gunns Rd,3,20,Toronto,Canada,3
 Sorauren Ave / Geoffrey St - SMART,10,5,Toronto,Canada,3
 Downsview Park Blvd / Keele St  - SMART,5,13,Toronto,Canada,3
 Winona Dr / Davenport Rd,0,11,Toronto,Canada,3
-Bloor St W / Manning Ave - SMART,8,34,Toronto,Canada,3
-Gerrard St E / Victoria Park Ave - SMART,2,12,Toronto,Canada,3
+Bloor St W / Manning Ave - SMART,7,35,Toronto,Canada,3
+Gerrard St E / Victoria Park Ave - SMART,1,15,Toronto,Canada,3
 Toronto Inukshuk Park,0,45,Toronto,Canada,3
 Finch Ave E / Midland Ave,2,13,Toronto,Canada,3
 Mount Pleasant Rd / Davisville Ave - SMART,5,8,Toronto,Canada,3
 Finch Subway Station ,4,14,Toronto,Canada,3
 Wilson Ave / Transit Rd (TTC Subway Station),1,22,Toronto,Canada,3
 Maxome Ave / Finch Hydro Corridor,9,9,Toronto,Canada,3
-Willcocks St / St. George St,5,10,Toronto,Canada,3
+Willcocks St / St. George St,4,11,Toronto,Canada,3
 Queens Quay E / Lower Sherbourne St,20,4,Toronto,Canada,3
 Bridgman Ave / Kendal Ave,0,15,Toronto,Canada,3
 Langford Ave / Danforth Ave - SMART,12,20,Toronto,Canada,3
@@ -720,13 +720,13 @@ St. George St / Willcocks St,11,24,Toronto,Canada,3
 Prudential Dr / Midland Ave,5,10,Toronto,Canada,3
 Eglinton Ave W / Ennerdale Rd,2,13,Toronto,Canada,3
 Wallace Ave / Pauline Ave,7,9,Toronto,Canada,3
-Lonsdale Rd / Spadina Rd,1,12,Toronto,Canada,3
+Lonsdale Rd / Spadina Rd,0,13,Toronto,Canada,3
 Parkway Forest Dr / Forest Manor Rd (North),1,17,Toronto,Canada,3
 Concord Ave / Bloor St W (South),1,8,Toronto,Canada,3
 Roncesvalles Ave / Fermanagh Ave,11,5,Toronto,Canada,3
 Warden Subway Station,0,16,Toronto,Canada,3
 Riverdale Park North (Broadview Ave),5,8,Toronto,Canada,3
-803 Richmond St W,18,1,Toronto,Canada,3
+803 Richmond St W,21,1,Toronto,Canada,3
 Queen St E / Berkeley St,11,1,Toronto,Canada,3
 Queen St. E / Spruce Hill Rd.,6,9,Toronto,Canada,3
 Gerrard St E / Main St,2,21,Toronto,Canada,3
@@ -747,35 +747,35 @@ Danforth Rd / Birchmount Rd ,1,13,Toronto,Canada,3
 Dunn Ave / Queen St W,15,0,Toronto,Canada,3
 Braemar Ave / Eglinton Ave W,2,12,Toronto,Canada,3
 John St  / Mercer St - SMART,4,6,Toronto,Canada,3
-800 Fleet St (North),26,0,Toronto,Canada,3
+800 Fleet St (North),31,0,Toronto,Canada,3
 Village Green Square,1,13,Toronto,Canada,3
 25 York St – Union Station South,3,6,Toronto,Canada,3
 Lawrence Ave W / Marlee Ave,0,14,Toronto,Canada,3
 Nelson St / Duncan St,0,29,Toronto,Canada,3
-Finch Ave W / Bathurst St,6,10,Toronto,Canada,3
-Essex St / Christie St,16,1,Toronto,Canada,3
+Finch Ave W / Bathurst St,5,11,Toronto,Canada,3
+Essex St / Christie St,15,2,Toronto,Canada,3
 Lawrence Ave W / Bathurst St,4,5,Toronto,Canada,3
 Eastwood Rd / Woodbine Ave - SMART,10,4,Toronto,Canada,3
 G Ross Lord Park,7,12,Toronto,Canada,3
 Briar Hill Ave / Yonge St - SMART,6,9,Toronto,Canada,3
 D'Arcy St / McCaul St - SMART,6,8,Toronto,Canada,3
 Crawford St / Queen St W,15,4,Toronto,Canada,3
-Queen St W / Ossington Ave,28,13,Toronto,Canada,3
+Queen St W / Ossington Ave,29,12,Toronto,Canada,3
 Albany Ave / Bloor St W,7,7,Toronto,Canada,3
-Bloor St W / Shaw St - SMART,8,25,Toronto,Canada,3
+Bloor St W / Shaw St - SMART,9,24,Toronto,Canada,3
 York St / Wellington St W (2),0,25,Toronto,Canada,3
 Memorial Park Ave / Kimbourne Ave ,7,0,Toronto,Canada,3
 Lumsden Ave / Eastdale Ave,6,13,Toronto,Canada,3
 Huntingwood Dr / Midland Ave,2,7,Toronto,Canada,3
-Parliament St / Aberdeen Ave,1,11,Toronto,Canada,3
+Parliament St / Aberdeen Ave,2,11,Toronto,Canada,3
 Driftwood Ave / Finch Corridor Trail,10,8,Toronto,Canada,3
 Keele St / Annette St,3,12,Toronto,Canada,3
-Lower Spadina Ave / Lake Shore Blvd W,12,5,Toronto,Canada,3
+Lower Spadina Ave / Lake Shore Blvd W,11,6,Toronto,Canada,3
 Temperance St / Bay St,0,19,Toronto,Canada,3
 St. Clair Ave W / Robina Ave,1,11,Toronto,Canada,3
 Colgate Ave / Carlaw Ave,10,9,Toronto,Canada,3
 Park Lawn Rd / Berry Rd,1,14,Toronto,Canada,3
-Lake Shore Blvd E / Leslie St,17,1,Toronto,Canada,3
+Lake Shore Blvd E / Leslie St,17,2,Toronto,Canada,3
 51 Parliament St,17,1,Toronto,Canada,3
 Emmett Ave,2,17,Toronto,Canada,3
 York St / Harbour St (Love Park),5,10,Toronto,Canada,3
@@ -784,17 +784,17 @@ Humber River Hospital ,13,2,Toronto,Canada,3
 60 Carl Hall Rd - SMART,9,11,Toronto,Canada,3
 Duncanwoods Dr / Finch Ave W,5,9,Toronto,Canada,3
 Bay St / St. Joseph St,1,13,Toronto,Canada,3
-Yonge St / Dundas Sq,3,26,Toronto,Canada,3
+Yonge St / Dundas Sq,1,29,Toronto,Canada,3
 Bay St / College St (West Side) - SMART,0,16,Toronto,Canada,3
 Pearldale Ave / Finch Ave W,3,8,Toronto,Canada,3
 Amelia St / Sumach St,6,5,Toronto,Canada,3
 Bond St / Queen St E,3,32,Toronto,Canada,3
-Church St / Dundas St E - SMART,4,15,Toronto,Canada,3
+Church St / Dundas St E - SMART,5,14,Toronto,Canada,3
 Arlington Parkette,0,15,Toronto,Canada,3
 Mortimer Ave / Carlaw Ave SMART,6,6,Toronto,Canada,3
 Kingston Rd / Beech Ave,2,11,Toronto,Canada,3
 Saulter St / Queen St E - SMART,7,9,Toronto,Canada,3
-Rusholme Park Cres / College St,6,9,Toronto,Canada,3
+Rusholme Park Cres / College St,7,8,Toronto,Canada,3
 Boston Ave / Queen St E- SMART,6,6,Toronto,Canada,3
 Augusta Ave / Dundas St W,3,11,Toronto,Canada,3
 Hocken Ave / Vaughan Rd,1,18,Toronto,Canada,3
@@ -811,7 +811,7 @@ Frederick St / King St E,45,1,Toronto,Canada,3
 19 Glendora Ave,1,8,Toronto,Canada,3
 Wallace Ave / Symington Ave - SMART,4,7,Toronto,Canada,3
 University Ave / Queen St W,0,18,Toronto,Canada,3
-King St W / Joe Shuster Way,21,0,Toronto,Canada,3
+King St W / Joe Shuster Way,20,1,Toronto,Canada,3
 Simcoe St / Wellington St W South,0,25,Toronto,Canada,3
 Nassau St / Bellevue Ave,0,12,Toronto,Canada,3
 Hanlan's Point Ferry Dock,20,19,Toronto,Canada,3
@@ -822,18 +822,18 @@ Union Station,1,22,Toronto,Canada,3
 Bathurst St / Housey St,22,0,Toronto,Canada,3
 Avenue Rd / Macpherson Ave ,2,13,Toronto,Canada,3
 190 Queens Quay E,8,4,Toronto,Canada,3
-265 Armadale Ave,25,12,Toronto,Canada,3
+265 Armadale Ave,1,36,Toronto,Canada,3
 Logan Ave / Eastern Ave - SMART,6,5,Toronto,Canada,3
 Gladstone Ave / Queen St W,14,0,Toronto,Canada,3
 1 Shortt St,32,4,Toronto,Canada,3
-Lake Shore Blvd E / Knox Ave,3,6,Toronto,Canada,3
+Lake Shore Blvd E / Knox Ave,3,7,Toronto,Canada,3
 Wychwood Ave / Benson Ave - SMART,1,15,Toronto,Canada,3
 Morningside Ave / Kingston Rd,1,11,Toronto,Canada,3
 Queen St W / Shaw St,21,0,Toronto,Canada,3
 Victoria Park Ave / Patrick Blvd ,1,14,Toronto,Canada,3
 Lake Shore Blvd W / Brow Dr,5,10,Toronto,Canada,3
 The Pond Rd / Sentinel Rd,5,20,Toronto,Canada,3
-365 Lippincott St,22,16,Toronto,Canada,3
+365 Lippincott St,27,7,Toronto,Canada,3
 St. Clair West Subway Station - Heath St. W,1,21,Toronto,Canada,3
 Fort York  Blvd / Capreol Ct,36,9,Toronto,Canada,3
 Lawrence Ave E / Overture Rd,2,9,Toronto,Canada,3
@@ -847,7 +847,7 @@ Bloor St W / Pacific Ave,3,4,Toronto,Canada,3
 Marie Curtis Park,5,18,Toronto,Canada,3
 College St / Crawford St,14,3,Toronto,Canada,3
 Dundas St E / Pembroke St ,13,0,Toronto,Canada,3
-Wells St / Brunswick Ave,10,4,Toronto,Canada,3
+Wells St / Brunswick Ave,11,3,Toronto,Canada,3
 Rogers Rd / Prospect Cemetery,2,20,Toronto,Canada,3
 Carlaw Ave / Danforth Ave,1,13,Toronto,Canada,3
 Hubbard Blvd / Balsam Av,6,13,Toronto,Canada,3
@@ -871,7 +871,7 @@ Wynford Heights Cres / Concorde Pl,0,9,Toronto,Canada,3
 High Park Subway Station,2,9,Toronto,Canada,3
 Ward St / Wallace Ave,14,0,Toronto,Canada,3
 Frederick St / The Esplanade,19,0,Toronto,Canada,3
-Avenue Rd / Cumberland St ,7,5,Toronto,Canada,3
+Avenue Rd / Cumberland St ,7,6,Toronto,Canada,3
 Humber Bay Shores Park West,25,6,Toronto,Canada,3
 Centre Island Ferry Dock,25,10,Toronto,Canada,3
 Yonge St / Montgomery Ave - SMART,6,4,Toronto,Canada,3
@@ -884,9 +884,9 @@ Hubbard Blvd / Glen Manor Dr,5,10,Toronto,Canada,3
 Widmer St / King St W,0,9,Toronto,Canada,3
 Woodbine Subway Station,0,15,Toronto,Canada,3
 Lascelles Blvd / Eglinton Ave W,10,8,Toronto,Canada,3
-91 Via Italia,11,9,Toronto,Canada,3
+91 Via Italia,19,9,Toronto,Canada,3
 Sharpe St / Park St (Sandown Park),0,13,Toronto,Canada,3
-Wellesley St E / Parliament St,10,2,Toronto,Canada,3
+Wellesley St E / Parliament St,11,2,Toronto,Canada,3
 Glebe Rd W / Yonge St,0,17,Toronto,Canada,3
 Palmerston Blvd / Lennox St,1,9,Toronto,Canada,3
 Eglinton Ave W / Henning Ave SMART,6,13,Toronto,Canada,3
@@ -902,7 +902,7 @@ Danforth Ave / Westlake Ave,3,12,Toronto,Canada,3
 Erskine Ave / Yonge St SMART,0,15,Toronto,Canada,3
 Soho St / Queen St W,0,12,Toronto,Canada,3
 Adelaide St E / Parliament St,21,2,Toronto,Canada,3
-Church St / Bloor St E,4,11,Toronto,Canada,3
+Church St / Bloor St E,3,12,Toronto,Canada,3
 University Ave / Gerrard St W - SMART(South),0,15,Toronto,Canada,3
 Liberty St / Fraser Ave Green P,18,0,Toronto,Canada,3
 St. Clair Ave W / Avenue Rd ,2,12,Toronto,Canada,3
@@ -911,7 +911,7 @@ Robert St / Bloor St W - SMART,7,10,Toronto,Canada,3
 Beverley St / College St,0,20,Toronto,Canada,3
 Duncan St / Adelaide St W - SMART,0,10,Toronto,Canada,3
 Dentonia Park,6,13,Toronto,Canada,3
-Blantyre Park,1,19,Toronto,Canada,3
+Blantyre Park,1,21,Toronto,Canada,3
 Ripley Ave / Ormskirk Ave,22,1,Toronto,Canada,3
 College St / Huron St,3,14,Toronto,Canada,3
 Bathurst St / Dundas St W,12,11,Toronto,Canada,3
@@ -924,15 +924,15 @@ Moore Park,1,10,Toronto,Canada,3
 Queen St E / Woodward Ave,14,5,Toronto,Canada,3
 Front St E / Bayview Avenue,22,0,Toronto,Canada,3
 E.T Seton Park - South ,10,13,Toronto,Canada,3
-St. Clair Ave W / Bathurst St,2,17,Toronto,Canada,3
+St. Clair Ave W / Bathurst St,3,16,Toronto,Canada,3
 The Pond Rd / Ian Macdonald Blvd,6,6,Toronto,Canada,3
 Eglinton Ave E / Victoria Park Ave,5,2,Toronto,Canada,3
 Logan Ave / Bain Ave,14,4,Toronto,Canada,3
 Sterling Rd / Dundas St W,1,18,Toronto,Canada,3
 Gould St / Yonge St (TMU),0,23,Toronto,Canada,3
 406 Oakwood Ave,4,14,Toronto,Canada,3
-Simcoe St / Queen St W,0,34,Toronto,Canada,3
-Cherry Beach Sports Fields (55 Unwin Ave),5,24,Toronto,Canada,3
+Simcoe St / Queen St W,1,33,Toronto,Canada,3
+Cherry Beach Sports Fields (55 Unwin Ave),6,23,Toronto,Canada,3
 Galloway Rd / Kingston Rd ,0,16,Toronto,Canada,3
 Warden Ave / Huntingwood Dr,0,11,Toronto,Canada,3
 Brimley Rd / Lawrence Ave E ,3,33,Toronto,Canada,3
@@ -942,5 +942,5 @@ Pottery Rd / Lower Don River Trail,11,2,Toronto,Canada,3
 457 King St W,1,15,Toronto,Canada,3
 Danforth Ave / Coxwell Ave,11,4,Toronto,Canada,3
 Bloor St W / Brock Ave,0,11,Toronto,Canada,3
-Wells Hill Ave / St. Clair Ave W,2,13,Toronto,Canada,3
+Wells Hill Ave / St. Clair Ave W,1,13,Toronto,Canada,3
 Bay St / Dundas St W,1,48,Toronto,Canada,3
