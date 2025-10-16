@@ -1,7 +1,7 @@
 name,free_bikes,empty_slots,city,country,position
 Métro de l'Église (Ross / de l'Église),2,17,Montréal,Canada,2
 Square-Victoria (Viger / du Square-Victoria),0,37,Montréal,Canada,2
-Hudson / Goyer,23,0,Montréal,Canada,2
+Hudson / Goyer,22,1,Montréal,Canada,2
 Marché Jean-Talon (Casgrain / Shamrock),20,7,Montréal,Canada,2
 du Fort Saint-Louis / de la Perrière,3,12,Montréal,Canada,2
 10e Avenue / Masson,8,18,Montréal,Canada,2
@@ -14,27 +14,27 @@ CHSLD Joseph-François-Perrault (St-Michel / Everett),9,9,Montréal,Canada,2
 St-Sylvestre / St-Charles,8,14,Montréal,Canada,2
 Parc de Montréal-Est (Notre-Dame / David),18,1,Montréal,Canada,2
 Sanguinet / Emery,11,8,Montréal,Canada,2
-Boyer / Bélanger,13,13,Montréal,Canada,2
+Boyer / Bélanger,11,15,Montréal,Canada,2
 Métro de Castelnau (de Castelnau / St-Dominique),2,21,Montréal,Canada,2
-Hôpital Général Juif (de la Côte-Ste-Catherine / Légaré),21,15,Montréal,Canada,2
-Logan / Lafayette,19,4,Montréal,Canada,2
+Hôpital Général Juif (de la Côte-Ste-Catherine / Légaré),22,14,Montréal,Canada,2
+Logan / Lafayette,20,3,Montréal,Canada,2
 Parc St-Roch (Ball / Durocher),8,7,Montréal,Canada,2
 Letourneux / Hochelaga,6,8,Montréal,Canada,2
 Faribault / de Chambly,5,14,Montréal,Canada,2
-Métro Frontenac (Ontario / du Havre),5,16,Montréal,Canada,2
+Métro Frontenac (Ontario / du Havre),3,18,Montréal,Canada,2
 Duluth  / St-Denis,6,9,Montréal,Canada,2
 Parc Armand-Bombardier (Perras / Armand-Bombardier),8,6,Montréal,Canada,2
-Canning / Notre-Dame,4,23,Montréal,Canada,2
+Canning / Notre-Dame,5,22,Montréal,Canada,2
 Parc Jenkins (Jenkins / Skaniatarati),17,6,Montréal,Canada,2
 Parc Howard (de l'Épée / de Liège),6,13,Montréal,Canada,2
 de l'Hôtel-de-Ville / Ontario,8,19,Montréal,Canada,2
 Marché public de Longueuil (de la Savane),10,10,Montréal,Canada,2
-Métro Côte-des-Neiges (Jean-Brillant / de la Côte-des-Neiges),11,20,Montréal,Canada,2
+Métro Côte-des-Neiges (Jean-Brillant / de la Côte-des-Neiges),9,22,Montréal,Canada,2
 Collège de Maisonneuve (Sherbrooke / Bourbonnière),6,10,Montréal,Canada,2
 Parc du Père-Marquette (de Bellechasse / de Lanaudière),18,1,Montréal,Canada,2
 Métro Monk (Allard / Briand),8,15,Montréal,Canada,2
 Jacques-Le Ber / de la Pointe Nord,3,24,Montréal,Canada,2
-Ste-Famille / des Pins,19,4,Montréal,Canada,2
+Ste-Famille / des Pins,17,6,Montréal,Canada,2
 Boyer / Rosemont,12,17,Montréal,Canada,2
 Montcalm / de Maisonneuve,9,6,Montréal,Canada,2
 Victoria Hall (Sherbrooke),7,8,Montréal,Canada,2
@@ -42,7 +42,7 @@ de Bordeaux / Rachel,21,2,Montréal,Canada,2
 Côte-des-Neiges / Carlton,6,15,Montréal,Canada,2
 Everett / Garnier,16,7,Montréal,Canada,2
 de la Commune / Place Jacques-Cartier,0,81,Montréal,Canada,2
-Marché St-Jacques (Atateken),14,13,Montréal,Canada,2
+Marché St-Jacques (Atateken),13,14,Montréal,Canada,2
 Notre-Dame-de-Grâce / Décarie,0,15,Montréal,Canada,2
 Bishop / de Maisonneuve,9,26,Montréal,Canada,2
 Gauthier / de Lorimier,19,0,Montréal,Canada,2
@@ -60,7 +60,7 @@ Drummond / des-Canadiens-de-Montréal,4,23,Montréal,Canada,2
 de l'Esplanade / Marie-Anne,43,0,Montréal,Canada,2
 La Fontaine / Panet,12,7,Montréal,Canada,2
 La Tour de Montréal (Pierre-de-Coubertin / Bennett),0,24,Montréal,Canada,2
-René-Lévesque / Papineau,1,37,Montréal,Canada,2
+René-Lévesque / Papineau,0,38,Montréal,Canada,2
 Parc Montcalm (Parkway / Montcalm),7,12,Montréal,Canada,2
 de Gentilly / Roland-Therrien,3,18,Montréal,Canada,2
 Parthenais / Larivière,1,30,Montréal,Canada,2
@@ -69,8 +69,8 @@ Brittany / Ainsley,1,22,Montréal,Canada,2
 Parc Maisonneuve - Chalet (Accès Sherbrooke),3,20,Montréal,Canada,2
 Bennett / Pierre-de-Coubertin,7,14,Montréal,Canada,2
 Wolfe / Robin,11,12,Montréal,Canada,2
-Grand Boulevard / Sherbrooke,14,1,Montréal,Canada,2
-Gare Centrale (de la Gauchetière / Mansfield),0,27,Montréal,Canada,2
+Grand Boulevard / Sherbrooke,13,2,Montréal,Canada,2
+Gare Centrale (de la Gauchetière / Mansfield),1,26,Montréal,Canada,2
 Marie-Anne / Christophe-Colomb,18,1,Montréal,Canada,2
 Mackay / Sherbrooke,28,7,Montréal,Canada,2
 Métro Laurier (Berri / St-Joseph),17,4,Montréal,Canada,2
@@ -100,13 +100,13 @@ Wilfrid-Pelletier / Joseph-Renaud,3,12,Montréal,Canada,2
 Mansfield / Sherbrooke,3,32,Montréal,Canada,2
 Émile-Duployé / Sherbrooke,24,2,Montréal,Canada,2
 de la Côte St-Antoine / Argyle,11,8,Montréal,Canada,2
-Maguire / St-Laurent,16,10,Montréal,Canada,2
-1ere avenue / St-Zotique,9,10,Montréal,Canada,2
+Maguire / St-Laurent,15,11,Montréal,Canada,2
+1ere avenue / St-Zotique,10,9,Montréal,Canada,2
 Notre-Dame / St-Martin,12,7,Montréal,Canada,2
 St-André /  Cherrier,24,3,Montréal,Canada,2
 Benny / Sherbrooke,22,0,Montréal,Canada,2
 Larivière / du Bord-de-l'Eau,12,3,Montréal,Canada,2
-Sewell / Roy,25,2,Montréal,Canada,2
+Sewell / Roy,23,4,Montréal,Canada,2
 Parc Labelle (LaSalle / Henri-Duhamel),7,12,Montréal,Canada,2
 de la Commune / McGill,13,43,Montréal,Canada,2
 Plessis / René-Lévesque,16,3,Montréal,Canada,2
@@ -129,12 +129,12 @@ du Bas-du-Plateau-Ouimet / Ste-Rose,6,13,Montréal,Canada,2
 Gare Montréal-Ouest (Coffee / Elmhurst),14,5,Montréal,Canada,2
 Parc Ferland (Belleherbe / Albanel),8,7,Montréal,Canada,2
 Chabot / Villeray,11,1,Montréal,Canada,2
-20e avenue / de Bellechasse,10,8,Montréal,Canada,2
+20e avenue / de Bellechasse,9,9,Montréal,Canada,2
 Centre récréatif Édouard-Rivet (Notre-Dame / Lesage),5,9,Montréal,Canada,2
 Métro Sauvé (Berri / Sauvé),1,26,Montréal,Canada,2
-Marquette / Fleury,4,11,Montréal,Canada,2
+Marquette / Fleury,5,10,Montréal,Canada,2
 Centre ÉPIC (St-Zotique / 40e avenue),2,21,Montréal,Canada,2
-Durocher / Bernard,9,12,Montréal,Canada,2
+Durocher / Bernard,10,11,Montréal,Canada,2
 Parc St-Paul (De Champigny / Angers),17,1,Montréal,Canada,2
 Francis / Fleury,15,3,Montréal,Canada,2
 Chabanel / du Parc,1,28,Montréal,Canada,2
@@ -157,20 +157,20 @@ Parc Marquette (Nobert / Dollard),4,17,Montréal,Canada,2
 de Maisonneuve / Mansfield (sud),0,27,Montréal,Canada,2
 6e avenue / Villeray,5,6,Montréal,Canada,2
 Jeanne-Mance / St-Martin O,7,14,Montréal,Canada,2
-Montpellier / Stinson,22,1,Montréal,Canada,2
+Montpellier / Stinson,23,0,Montréal,Canada,2
 Notre-Dame-de-Grâce / Westmount,2,13,Montréal,Canada,2
-Parc Eusèbe-Ménard (Gouin / St-Vital),4,17,Montréal,Canada,2
+Parc Eusèbe-Ménard (Gouin / St-Vital),5,16,Montréal,Canada,2
 St-Urbain / de la Gauchetière,5,38,Montréal,Canada,2
 Parc Honoré-Mercier (Notre-Dame / Liébert),15,10,Montréal,Canada,2
 Parc Félix-Leclerc (François-Boivin / St-Zotique),2,12,Montréal,Canada,2
 Parc Nicolas-Tillemont (des Érables / Villeray),18,0,Montréal,Canada,2
-Boyer / Jean-Talon,0,15,Montréal,Canada,2
+Boyer / Jean-Talon,1,14,Montréal,Canada,2
 du Souvenir / Le Corbusier,15,10,Montréal,Canada,2
-5e avenue / Masson,25,2,Montréal,Canada,2
+5e avenue / Masson,26,1,Montréal,Canada,2
 Ball / Bloomfield,7,0,Montréal,Canada,2
 du Chardonneret / de la Volière,15,8,Montréal,Canada,2
 Industriel / Dagenais O,13,13,Montréal,Canada,2
-La Fontaine / Bossuet,18,1,Montréal,Canada,2
+La Fontaine / Bossuet,2,17,Montréal,Canada,2
 Ouimet / Goineau,13,21,Montréal,Canada,2
 Fairmount / Hutchison,7,16,Montréal,Canada,2
 de Grenoble / de Cassis,13,6,Montréal,Canada,2
@@ -186,21 +186,21 @@ de l'Esplanade / Beaubien,5,14,Montréal,Canada,2
 André-Laurendeau / Rachel,3,19,Montréal,Canada,2
 LaSalle / 37e avenue,19,0,Montréal,Canada,2
 Métro Lasalle (de Rushbrooke / Caisse),4,26,Montréal,Canada,2
-Prince-Arthur / du Parc,24,11,Montréal,Canada,2
+Prince-Arthur / du Parc,23,12,Montréal,Canada,2
 U. de Sherbrooke (École de musique - Voie 1),13,8,Montréal,Canada,2
 Parc Jacques-Cartier (Marcil / Jacques-Cartier Sud),11,10,Montréal,Canada,2
-Crescent / René-Lévesque,18,13,Montréal,Canada,2
+Crescent / René-Lévesque,20,11,Montréal,Canada,2
 Mackay / René-Lévesque,26,5,Montréal,Canada,2
-Louis-Hébert / Bélanger,17,2,Montréal,Canada,2
+Louis-Hébert / Bélanger,18,1,Montréal,Canada,2
 Montgolfier / Notre-Dame,20,11,Montréal,Canada,2
-Marché Jean-Talon (Henri-Julien / Jean-Talon),1,22,Montréal,Canada,2
+Marché Jean-Talon (Henri-Julien / Jean-Talon),0,21,Montréal,Canada,2
 Wellington Nord / Meadow,8,11,Montréal,Canada,2
 Gare REM Deux-Montagnes (de Deux-Montagnes),5,22,Montréal,Canada,2
-Wilderton  / Van Horne,7,20,Montréal,Canada,2
+Wilderton  / Van Horne,27,0,Montréal,Canada,2
 Stationnement incitatif de Montarville (de Montarville),11,8,Montréal,Canada,2
 Bernard / Jeanne-Mance,23,0,Montréal,Canada,2
 Ottawa / William,15,0,Montréal,Canada,2
-5e avenue / Rosemont,19,0,Montréal,Canada,2
+5e avenue / Rosemont,17,2,Montréal,Canada,2
 de Bullion / Roy,15,4,Montréal,Canada,2
 St-Laurent / Joliette,0,21,Montréal,Canada,2
 Duchesneau / de Grosbois,4,17,Montréal,Canada,2
@@ -209,79 +209,79 @@ de la Montagne / Notre-Dame,5,18,Montréal,Canada,2
 Marché Maisonneuve (Ontario / Morgan),9,13,Montréal,Canada,2
 Parc des Gorilles (Beaubien / St-Urbain),9,11,Montréal,Canada,2
 Parc Charleroi (Alfred / Louis-Francoeur),2,13,Montréal,Canada,2
-Clark / Ontario,1,16,Montréal,Canada,2
-Laurier / St-Denis,32,5,Montréal,Canada,2
-McGill / Wellington,5,25,Montréal,Canada,2
+Clark / Ontario,0,17,Montréal,Canada,2
+Laurier / St-Denis,34,3,Montréal,Canada,2
+McGill / Wellington,4,26,Montréal,Canada,2
 St-Laurent / Pl. du Marché,8,19,Montréal,Canada,2
 Louvain / d'Iberville,6,7,Montréal,Canada,2
-Cégep André-Laurendeau (Lapierre),1,28,Montréal,Canada,2
-Métro Joliette  (Hochelaga / Joliette),0,29,Montréal,Canada,2
+Cégep André-Laurendeau (Lapierre),2,27,Montréal,Canada,2
+Métro Joliette  (Hochelaga / Joliette),2,27,Montréal,Canada,2
 Mairie d'arrondissement Montréal-Nord (Hébert / de Charleroi),9,12,Montréal,Canada,2
 St-Denis / Chabanel,9,7,Montréal,Canada,2
 de Gaspé / Dante,23,0,Montréal,Canada,2
-Gare d'autocars de Montréal (Berri / Ontario),2,13,Montréal,Canada,2
+Gare d'autocars de Montréal (Berri / Ontario),1,14,Montréal,Canada,2
 Parc St-Claude (7e Avenue / 8e rue),17,9,Montréal,Canada,2
 Mairie d'arrondissement LaSalle (Dupras / Jeannette),12,3,Montréal,Canada,2
-Le Corbusier / St-Martin O,3,16,Montréal,Canada,2
+Le Corbusier / St-Martin O,3,15,Montréal,Canada,2
 de la Renaissance / Honoré Mercier,4,15,Montréal,Canada,2
 de Chateaubriand / Jarry,11,3,Montréal,Canada,2
 St-Dominique / Napoléon,27,4,Montréal,Canada,2
 Métro Beaudry (Beaudry / Ste-Catherine),6,17,Montréal,Canada,2
 de l'Inspecteur / Notre-Dame,8,10,Montréal,Canada,2
 Gloria / Dollard,1,13,Montréal,Canada,2
-Mozart / Drolet,7,6,Montréal,Canada,2
-de la Côte-St-Antoine / Royal,16,2,Montréal,Canada,2
+Mozart / Drolet,6,7,Montréal,Canada,2
+de la Côte-St-Antoine / Royal,15,3,Montréal,Canada,2
 Peel / Ottawa,4,23,Montréal,Canada,2
-Clark / St-Viateur,7,7,Montréal,Canada,2
+Clark / St-Viateur,6,8,Montréal,Canada,2
 Bloomfield / Van Horne,20,1,Montréal,Canada,2
 La Fontaine / Lyall,13,5,Montréal,Canada,2
 de Bellechasse / de St-Vallier,15,4,Montréal,Canada,2
 Hamilton / Jolicoeur,9,6,Montréal,Canada,2
 Panet / de Maisonneuve,23,0,Montréal,Canada,2
 Aylwin / Ontario,22,4,Montréal,Canada,2
-Hodge / Laperrière,2,17,Montréal,Canada,2
+Hodge / Laperrière,3,16,Montréal,Canada,2
 Regina / de Verdun,13,5,Montréal,Canada,2
 Queen-Victoria / de Portland,8,7,Montréal,Canada,2
 Fortune / Wellington,12,15,Montréal,Canada,2
-des Érables / Laurier,19,0,Montréal,Canada,2
+des Érables / Laurier,10,0,Montréal,Canada,2
 Industriel / Louis-J.-Lafortune,6,4,Montréal,Canada,2
-de l'Esplanade / Bernard,23,4,Montréal,Canada,2
+de l'Esplanade / Bernard,24,3,Montréal,Canada,2
 Laird / Glencoe,11,8,Montréal,Canada,2
 Prince-Albert / St-Jean-Baptiste,4,10,Montréal,Canada,2
-de la Côte-des-Neiges / Remembrance,5,7,Montréal,Canada,2
+de la Côte-des-Neiges / Remembrance,6,6,Montréal,Canada,2
 du Séminaire / Olier,14,13,Montréal,Canada,2
 de Maisonneuve / Mansfield (sud-est),0,23,Montréal,Canada,2
-Métro Crémazie (Crémazie / Lajeunesse),3,12,Montréal,Canada,2
-de Gaspé / Villeray,15,4,Montréal,Canada,2
+Métro Crémazie (Crémazie / Lajeunesse),4,11,Montréal,Canada,2
+de Gaspé / Villeray,16,3,Montréal,Canada,2
 Parc Reine-Élizabeth (Penniston / Crawford),8,6,Montréal,Canada,2
 Viger / Chenneville,1,36,Montréal,Canada,2
 Charles / Grand Boulevard,9,9,Montréal,Canada,2
 Garnier / St-Grégoire,21,2,Montréal,Canada,2
-22e avenue / Everett,11,7,Montréal,Canada,2
+22e avenue / Everett,10,7,Montréal,Canada,2
 Hutchison / Beaubien,5,23,Montréal,Canada,2
 Union / René-Lévesque,0,27,Montréal,Canada,2
 Parc Leta-Graydon (Bouvier / Jacqueline-Sicotte),16,1,Montréal,Canada,2
-de Gaspé / Beaubien,14,5,Montréal,Canada,2
+de Gaspé / Beaubien,12,6,Montréal,Canada,2
 Métro Place-des-Arts (du Président-Kennedy / Jeanne-Mance),0,26,Montréal,Canada,2
 St-Jacques / des Seigneurs,4,19,Montréal,Canada,2
 Métro Henri-Bourassa (Henri-Bourassa / Millen),6,8,Montréal,Canada,2
-de Chambly / Rachel,16,7,Montréal,Canada,2
+de Chambly / Rachel,17,6,Montréal,Canada,2
 Atwater / Sherbrooke,23,0,Montréal,Canada,2
 des Érables / Bélanger,12,1,Montréal,Canada,2
 Léon / Donck,8,8,Montréal,Canada,2
 Union / Ste-Catherine,0,47,Montréal,Canada,2
 Wellington Sud / Sanborn,11,10,Montréal,Canada,2
-de Maisonneuve / Mackay,13,5,Montréal,Canada,2
+de Maisonneuve / Mackay,14,4,Montréal,Canada,2
 Thérèse-Lavoix-Roux / Wiseman,1,14,Montréal,Canada,2
 Montcalm / Ontario,21,6,Montréal,Canada,2
-St-Jacques / Vinet,9,6,Montréal,Canada,2
+St-Jacques / Vinet,10,5,Montréal,Canada,2
 Parc Leroux (Centrale / Alepin),9,5,Montréal,Canada,2
 Keller / Cousineau,8,7,Montréal,Canada,2
 des Pins / Hutchison,7,20,Montréal,Canada,2
 de Bordeaux / de Bellechasse,18,1,Montréal,Canada,2
 Tupper / du Fort,23,0,Montréal,Canada,2
 de Bordeaux / Sherbrooke,18,1,Montréal,Canada,2
-de la Commune / des Soeurs-Grises,9,58,Montréal,Canada,2
+de la Commune / des Soeurs-Grises,7,60,Montréal,Canada,2
 Esther-Blondin / de Pierrefonds,12,9,Montréal,Canada,2
 Saint-Rémi / Valois,19,4,Montréal,Canada,2
 4e avenue / de Verdun,2,13,Montréal,Canada,2
@@ -294,7 +294,7 @@ Métro Sherbrooke (de Rigaud / Berri),15,11,Montréal,Canada,2
 de la Concorde / Le Corbusier,10,19,Montréal,Canada,2
 de Bullion / Laurier,11,8,Montréal,Canada,2
 André / de Rotterdam,18,13,Montréal,Canada,2
-Métro Langelier (Langelier / Sherbrooke),1,17,Montréal,Canada,2
+Métro Langelier (Langelier / Sherbrooke),2,16,Montréal,Canada,2
 du Marché Central / Crémazie,7,7,Montréal,Canada,2
 Gascon / de Rouen,11,12,Montréal,Canada,2
 Simard / Riverside,2,19,Montréal,Canada,2
@@ -305,12 +305,12 @@ de Pierrefonds / Athéna,13,10,Montréal,Canada,2
 Villeray / de Normanville,17,4,Montréal,Canada,2
 Alexandre-DeSève / Ste-Catherine,15,7,Montréal,Canada,2
 INRS (Cartier O / Armand-Frappier),13,8,Montréal,Canada,2
-Prince-Arthur / St-Urbain,5,18,Montréal,Canada,2
+Prince-Arthur / St-Urbain,19,4,Montréal,Canada,2
 Molson / Beaubien,11,8,Montréal,Canada,2
-St-Antoine / 19e avenue,8,7,Montréal,Canada,2
+St-Antoine / 19e avenue,7,8,Montréal,Canada,2
 Berri / Gilford,6,17,Montréal,Canada,2
 Lucien-L'Allier / St-Jacques,5,26,Montréal,Canada,2
-Fullum / Sherbrooke,29,14,Montréal,Canada,2
+Fullum / Sherbrooke,30,13,Montréal,Canada,2
 La Ronde,8,15,Montréal,Canada,2
 Campus MIL (Outremont / Thérèse-Lavoie Roux),11,20,Montréal,Canada,2
 Canora / Cornwall,1,22,Montréal,Canada,2
@@ -330,7 +330,7 @@ Resther / du Mont-Royal,4,17,Montréal,Canada,2
 de Gaspé / St-Viateur,0,23,Montréal,Canada,2
 Renaud / Vallières,3,20,Montréal,Canada,2
 10e Avenue Nord / King Est,9,6,Montréal,Canada,2
-Fabre / St-Zotique,18,1,Montréal,Canada,2
+Fabre / St-Zotique,17,2,Montréal,Canada,2
 Shearer / Centre,9,10,Montréal,Canada,2
 de Chambly / Sherbrooke,5,18,Montréal,Canada,2
 Gare LaSalle (Highlands),10,9,Montréal,Canada,2
@@ -343,9 +343,9 @@ Wellington / Queen,6,14,Montréal,Canada,2
 du Champ-de-Mars / Gosford,4,19,Montréal,Canada,2
 de l'Hôtel-de-Ville / Villeneuve,11,12,Montréal,Canada,2
 de Normanville / Beaubien,16,3,Montréal,Canada,2
-Casino de Montréal,10,24,Montréal,Canada,2
-Molson / William-Tremblay,11,18,Montréal,Canada,2
-Gare St-Michel / Montréal-Nord (Pie-IX / 56e),3,11,Montréal,Canada,2
+Casino de Montréal,8,26,Montréal,Canada,2
+Molson / William-Tremblay,12,17,Montréal,Canada,2
+Gare St-Michel / Montréal-Nord (Pie-IX / 56e),4,11,Montréal,Canada,2
 Métro Jarry (Lajeunesse / Jarry),9,12,Montréal,Canada,2
 Murray / Woodward,9,6,Montréal,Canada,2
 Elmwood / Mc Dougall,11,4,Montréal,Canada,2
@@ -362,16 +362,16 @@ de Naples / St-Elzéar O,9,21,Montréal,Canada,2
 Parc J.-Arthur-Champagne (de Chambly / du Mont-Royal),19,0,Montréal,Canada,2
 CHSLD Robert Cliche (de Bellechasse / 16e avenue),4,9,Montréal,Canada,2
 Lambert-Closse / de Maisonneuve,31,0,Montréal,Canada,2
-Métro Papineau (Dorion / De Maisonneuve),10,21,Montréal,Canada,2
+Métro Papineau (Dorion / De Maisonneuve),12,20,Montréal,Canada,2
 Galt Ouest / Tétreault,7,8,Montréal,Canada,2
 Complexe Aquatique Saint-Eustache (Arthur-Sauvé),11,8,Montréal,Canada,2
 Bibliothèque Guy-Bélisle (Arthur-Sauvé / de la Grande-Côte),11,10,Montréal,Canada,2
 McManamy / Belvédère Sud,9,6,Montréal,Canada,2
 Souligny / Desmarteau,14,0,Montréal,Canada,2
-William / Robert-Bourassa,11,10,Montréal,Canada,2
+William / Robert-Bourassa,3,18,Montréal,Canada,2
 Mozart / Waverly,6,9,Montréal,Canada,2
 Newman / Léger,10,11,Montréal,Canada,2
-14e avenue / Jean-Talon,4,11,Montréal,Canada,2
+14e avenue / Jean-Talon,5,10,Montréal,Canada,2
 de Mortagne / Jean-Neveu,2,17,Montréal,Canada,2
 St-André / de Maisonneuve,0,19,Montréal,Canada,2
 Métro Champ-de-Mars (Viger / Sanguinet),2,35,Montréal,Canada,2
@@ -383,7 +383,7 @@ Métro Montmorency (de l'Avenir),0,19,Montréal,Canada,2
 des Pins / St-Laurent,27,4,Montréal,Canada,2
 Parc St-Laurent (Dutrisac),16,0,Montréal,Canada,2
 de St-Firmin / Fleury,7,8,Montréal,Canada,2
-Argyle / Bannantyne,11,12,Montréal,Canada,2
+Argyle / Bannantyne,10,13,Montréal,Canada,2
 Mairie de St-Eustache (de l'Église / St-Louis),10,3,Montréal,Canada,2
 Henri-Julien / de Bellechasse,17,1,Montréal,Canada,2
 Ann / Wellington,15,0,Montréal,Canada,2
@@ -403,22 +403,22 @@ Parc des Hirondelles (Bousquet / Patenaude),13,8,Montréal,Canada,2
 des Ormeaux / Mathieu,10,9,Montréal,Canada,2
 Métro St-Michel (10e avenue / Shaughnessy),2,13,Montréal,Canada,2
 Métro Vendôme  (Northcliffe / de Maisonneuve),9,21,Montréal,Canada,2
-Grey / Sherbrooke,8,12,Montréal,Canada,2
+Grey / Sherbrooke,7,13,Montréal,Canada,2
 Rousselot / Jarry,3,20,Montréal,Canada,2
 Turgeon / Notre-Dame,7,12,Montréal,Canada,2
 12e avenue / St-Zotique,18,13,Montréal,Canada,2
-St-André / Ontario,10,9,Montréal,Canada,2
+St-André / Ontario,11,8,Montréal,Canada,2
 Hôpital Notre-Dame (Alexandre-DeSève),2,18,Montréal,Canada,2
-d'Outremont / Ogilvy,5,13,Montréal,Canada,2
-d'Orléans / Masson,16,1,Montréal,Canada,2
+d'Outremont / Ogilvy,6,12,Montréal,Canada,2
+d'Orléans / Masson,17,0,Montréal,Canada,2
 Parc de Roxboro (11e Avenue / 9e Rue),15,3,Montréal,Canada,2
-Marie-Anne / St-Hubert,9,13,Montréal,Canada,2
+Marie-Anne / St-Hubert,10,12,Montréal,Canada,2
 Graham / Brookfield,15,8,Montréal,Canada,2
-Bibliothèque de Verdun (Brown / Bannantyne),18,1,Montréal,Canada,2
+Bibliothèque de Verdun (Brown / Bannantyne),17,2,Montréal,Canada,2
 de Maisonneuve / Fullum,4,13,Montréal,Canada,2
 Parc Joyce (Rockland / Lajoie),13,2,Montréal,Canada,2
 16e avenue / St-Joseph,20,2,Montréal,Canada,2
-de Mentana / Roy,21,2,Montréal,Canada,2
+de Mentana / Roy,23,0,Montréal,Canada,2
 Mackay / de Maisonneuve,7,24,Montréal,Canada,2
 Roland-Therrien / Louise,7,12,Montréal,Canada,2
 Charles-Biddle / Atwater,5,22,Montréal,Canada,2
@@ -441,7 +441,7 @@ McKenna / Édouard-Montpetit,19,0,Montréal,Canada,2
 Clark / Prince-Arthur,22,7,Montréal,Canada,2
 Hochelaga / de l'Assomption,0,23,Montréal,Canada,2
 Parc Dan-Hanganu (Elgar / de l'Île-des-Sœurs),13,1,Montréal,Canada,2
-des Érables / Rachel,19,0,Montréal,Canada,2
+des Érables / Rachel,14,5,Montréal,Canada,2
 Messier / Rachel,26,1,Montréal,Canada,2
 des Récollets / McGill,1,22,Montréal,Canada,2
 Brébeuf / Curé-Poirier,6,13,Montréal,Canada,2
@@ -452,8 +452,8 @@ Metcalfe / de Maisonneuve,0,27,Montréal,Canada,2
 Parc Gordon (Desaulniers / Victoria),12,9,Montréal,Canada,2
 Veilleux / Dunant,10,9,Montréal,Canada,2
 Léa-Roback / Sir-Georges-Etienne-Cartier,2,40,Montréal,Canada,2
-Robert-Bourassa / Ste-Catherine,1,38,Montréal,Canada,2
-Fullum / Marie-Anne,27,0,Montréal,Canada,2
+Robert-Bourassa / Ste-Catherine,0,39,Montréal,Canada,2
+Fullum / Marie-Anne,26,1,Montréal,Canada,2
 Marquette / du Mont-Royal (sud),23,0,Montréal,Canada,2
 Beauregard / le Carrefour,5,18,Montréal,Canada,2
 Mackenzie / Westbury,10,8,Montréal,Canada,2
@@ -473,8 +473,8 @@ de la Vérendrye / Dollard,7,12,Montréal,Canada,2
 Lebrun / Bédard,7,7,Montréal,Canada,2
 Desaulniers / Marquette,15,6,Montréal,Canada,2
 Montmorency / Legrand,8,0,Montréal,Canada,2
-Émile-Journault / Christophe-Colomb,12,9,Montréal,Canada,2
-Smith / Peel,22,5,Montréal,Canada,2
+Émile-Journault / Christophe-Colomb,0,21,Montréal,Canada,2
+Smith / Peel,23,4,Montréal,Canada,2
 Lincoln / du Fort,19,0,Montréal,Canada,2
 de la Porte de Québec / St-André,15,8,Montréal,Canada,2
 Cégep Marie-Victorin,1,8,Montréal,Canada,2
@@ -486,7 +486,7 @@ Quai Yvon-Julien (Marie-Victorin / de Montarville),7,13,Montréal,Canada,2
 Édouard-Montpetit / Victoria,9,10,Montréal,Canada,2
 Egan / Laurendeau,9,6,Montréal,Canada,2
 Richardson / Montmorency,12,27,Montréal,Canada,2
-Frontenac / Ste-Catherine,4,15,Montréal,Canada,2
+Frontenac / Ste-Catherine,5,14,Montréal,Canada,2
 Métro Bonaventure (de la Gauchetière / Mansfield),2,29,Montréal,Canada,2
 Cartier / Masson,19,0,Montréal,Canada,2
 René-Lévesque / St-Jean-Baptiste,7,8,Montréal,Canada,2
@@ -496,21 +496,21 @@ Ste-Claire / Baldwin,2,19,Montréal,Canada,2
 Liébert / Hochelaga,18,1,Montréal,Canada,2
 Dorion / Ontario,15,19,Montréal,Canada,2
 Pratt / Bates,19,0,Montréal,Canada,2
-de l'Hôtel-de-Ville / Sherbrooke,4,23,Montréal,Canada,2
+de l'Hôtel-de-Ville / Sherbrooke,3,24,Montréal,Canada,2
 Chambord / Fleury,13,1,Montréal,Canada,2
 Ryde / Charlevoix,22,5,Montréal,Canada,2
-St-Mathieu / Lincoln,27,4,Montréal,Canada,2
+St-Mathieu / Lincoln,30,1,Montréal,Canada,2
 Gillespie / King Ouest,7,12,Montréal,Canada,2
 de Mentana / du Mont-Royal,1,22,Montréal,Canada,2
 Parc Henri-Julien (Legendre / Henri-Julien),1,14,Montréal,Canada,2
 Aréna Chaumont (Chaumont / des Ormeaux),15,3,Montréal,Canada,2
 Métro de la Savane (de Sorel / Labarre),5,14,Montréal,Canada,2
 Jean-Rivard / du Cirque,11,11,Montréal,Canada,2
-de Rouen / Lespérance,4,19,Montréal,Canada,2
+de Rouen / Lespérance,5,18,Montréal,Canada,2
 de Bordeaux / St-Zotique,21,0,Montréal,Canada,2
 Beaubien / 8e avenue,10,5,Montréal,Canada,2
-Messier / du Mont-Royal,35,0,Montréal,Canada,2
-Papineau / Émile-Journault,2,25,Montréal,Canada,2
+Messier / du Mont-Royal,34,1,Montréal,Canada,2
+Papineau / Émile-Journault,16,11,Montréal,Canada,2
 Ste-Catherine / Bishop,0,19,Montréal,Canada,2
 Grand Boulevard / de Terrebonne,17,5,Montréal,Canada,2
 Provost / 16e avenue,6,9,Montréal,Canada,2
@@ -521,21 +521,21 @@ Parc de Beauséjour (Gouin / Henri-d'Arles),8,9,Montréal,Canada,2
 Stationnement incitatif de Mortagne (Ampère),12,10,Montréal,Canada,2
 Métro Lucien-L'Allier (Lucien l'Allier / Argyle),14,2,Montréal,Canada,2
 St-Alexandre / Ste-Catherine,1,26,Montréal,Canada,2
-de Brébeuf / du Mont-Royal,8,15,Montréal,Canada,2
+de Brébeuf / du Mont-Royal,19,4,Montréal,Canada,2
 Ste-Rose E / Soubirous,0,31,Montréal,Canada,2
 Dorion / Ste-Catherine,8,11,Montréal,Canada,2
 Clanranald / de la Côte-St-Luc,20,3,Montréal,Canada,2
 Curé-Labelle / 77e Avenue,11,8,Montréal,Canada,2
-Duvernay / Charlevoix,1,21,Montréal,Canada,2
+Duvernay / Charlevoix,2,20,Montréal,Canada,2
 Hamel / Sauriol,4,8,Montréal,Canada,2
-St-Patrick / Briand,10,7,Montréal,Canada,2
+St-Patrick / Briand,11,6,Montréal,Canada,2
 Terminus Ste-Julie (Armand-Frappier),17,0,Montréal,Canada,2
 Ste-Émilie / Sir-Georges-Etienne-Cartier,11,8,Montréal,Canada,2
 Jean-Talon / de l'Épée,12,2,Montréal,Canada,2
-Marie / de Mont-Royal,7,13,Montréal,Canada,2
+Marie / de Mont-Royal,6,14,Montréal,Canada,2
 Gaétan-Laberge / de l'Église,3,16,Montréal,Canada,2
 Lionel-Groulx / Vinet,6,13,Montréal,Canada,2
-Ste-Catherine / St-Mathieu,31,0,Montréal,Canada,2
+Ste-Catherine / St-Mathieu,30,1,Montréal,Canada,2
 Jeanne-Mance / Sherbrooke,10,10,Montréal,Canada,2
 St-Zotique / St-Urbain,0,30,Montréal,Canada,2
 Lévesque O / 91e Avenue,9,14,Montréal,Canada,2
@@ -543,8 +543,8 @@ Parc du Mail (Bois de Coulonges / du Mail),6,8,Montréal,Canada,2
 Duke / Nazareth,3,16,Montréal,Canada,2
 Drummond / de Maisonneuve,0,27,Montréal,Canada,2
 Métro Édouard-Montpetit (Vincent-d'Indy / du Mont-Royal),2,21,Montréal,Canada,2
-St-Timothée / René-Lévesque,12,11,Montréal,Canada,2
-Préfontaine / Marcel-Pépin,18,1,Montréal,Canada,2
+St-Timothée / René-Lévesque,11,12,Montréal,Canada,2
+Préfontaine / Marcel-Pépin,19,0,Montréal,Canada,2
 Holt / Fullum,24,1,Montréal,Canada,2
 Métro Honoré-Beaugrand (Sherbrooke / Honoré-Beaugrand),1,21,Montréal,Canada,2
 Square du Petit-Prince (des Appalaches / Alexis-Nihon),3,12,Montréal,Canada,2
@@ -566,13 +566,13 @@ Henri-Julien / de Castelnau,6,25,Montréal,Canada,2
 St-Grégoire / Christophe-Colomb,32,7,Montréal,Canada,2
 Parc du Père-Marquette (de Bellechasse),28,7,Montréal,Canada,2
 Bassin olympique (Chemin du Chenal le Moyne),6,13,Montréal,Canada,2
-de la Gauchetière / de la Cathédrale,9,38,Montréal,Canada,2
+de la Gauchetière / de la Cathédrale,8,39,Montréal,Canada,2
 Ste-Catherine / Union,0,37,Montréal,Canada,2
 Beaucourt / St-Elzéar,3,20,Montréal,Canada,2
 Jeanne-Mance / Laurier,21,1,Montréal,Canada,2
 Darveau / de Lyon,12,2,Montréal,Canada,2
 Fabre / Laurier,22,0,Montréal,Canada,2
-St-Germain / de Rouen,18,1,Montréal,Canada,2
+St-Germain / de Rouen,19,0,Montréal,Canada,2
 Métro de la Concorde (Léo-Lacombe),0,15,Montréal,Canada,2
 de Courcelle / Acorn,9,11,Montréal,Canada,2
 Gagne / LaSalle,13,6,Montréal,Canada,2
@@ -590,17 +590,17 @@ Parc Chenier (de l'Aréna / Chenier),0,17,Montréal,Canada,2
 Parc Atwater (Saint-Charles),5,13,Montréal,Canada,2
 de Maisonneuve / Aylmer (est),0,21,Montréal,Canada,2
 Lajeunesse / Villeray,3,12,Montréal,Canada,2
-Boyer / St-Zotique,21,4,Montréal,Canada,2
+Boyer / St-Zotique,22,3,Montréal,Canada,2
 University / Milton,3,36,Montréal,Canada,2
-Parc Maurice-Bélanger (Hébert / Denommée),2,12,Montréal,Canada,2
+Parc Maurice-Bélanger (Hébert / Denommée),1,13,Montréal,Canada,2
 Métro D'Iberville (Louis-Hébert / Jean-Talon),0,15,Montréal,Canada,2
 Peel / Notre-Dame,1,42,Montréal,Canada,2
-Hillside / Ste-Catherine,10,5,Montréal,Canada,2
+Hillside / Ste-Catherine,9,6,Montréal,Canada,2
 des Récollets / Fleury,11,4,Montréal,Canada,2
 Parc Jean-Drapeau (Chemin MacDonald),12,22,Montréal,Canada,2
 Ateliers municipaux de St-Laurent (Cavendish / Poirier),1,14,Montréal,Canada,2
-Waverly / St-Viateur,22,9,Montréal,Canada,2
-de la Roche / Bélanger,21,0,Montréal,Canada,2
+Waverly / St-Viateur,23,8,Montréal,Canada,2
+de la Roche / Bélanger,20,1,Montréal,Canada,2
 St-Dominique / Laurier,14,8,Montréal,Canada,2
 Vallières / St-Laurent,13,10,Montréal,Canada,2
 Métro Charlevoix (Centre / Charlevoix),9,10,Montréal,Canada,2
@@ -609,8 +609,8 @@ Augustin-Cantin / Shearer,10,21,Montréal,Canada,2
 Sacré-Coeur / Gamache,6,13,Montréal,Canada,2
 Parc Beaubien Outremont (Stuart / St-Viateur),2,12,Montréal,Canada,2
 de Maisonneuve / de Bleury,2,34,Montréal,Canada,2
-Hélène-Baillargeon / St-Denis,23,0,Montréal,Canada,2
-Fabre / Villeray,21,2,Montréal,Canada,2
+Hélène-Baillargeon / St-Denis,22,0,Montréal,Canada,2
+Fabre / Villeray,20,3,Montréal,Canada,2
 Métro Jean-Talon (St-Vallier / Jean-Talon),0,19,Montréal,Canada,2
 Legendre / André-Grasset,14,9,Montréal,Canada,2
 Bégin / du Parc,1,22,Montréal,Canada,2
@@ -631,18 +631,18 @@ de Blois / des Grandes-Piles,10,8,Montréal,Canada,2
 de la Vérendrye / 75e avenue,18,1,Montréal,Canada,2
 Cavendish / Dr.-Frederick-Philips,13,5,Montréal,Canada,2
 Coloniale / Marie-Anne,22,1,Montréal,Canada,2
-Mackay / Ste-Catherine,12,11,Montréal,Canada,2
+Mackay / Ste-Catherine,13,10,Montréal,Canada,2
 St-Dominique / St-Viateur (nord),2,25,Montréal,Canada,2
 des Écores / de Bellechasse,23,0,Montréal,Canada,2
 Marquette / des Carrières,19,6,Montréal,Canada,2
 des Nénuphars / du Bord-de-l'Eau,10,9,Montréal,Canada,2
-Rielle / Wellington,2,21,Montréal,Canada,2
-Métro Parc  (Hutchison / Ogilvy),4,28,Montréal,Canada,2
-St-Patrick / Thomas-Keefer,13,18,Montréal,Canada,2
+Rielle / Wellington,1,22,Montréal,Canada,2
+Métro Parc  (Hutchison / Ogilvy),1,30,Montréal,Canada,2
+St-Patrick / Thomas-Keefer,14,17,Montréal,Canada,2
 de St-Vallier / St-Zotique,11,8,Montréal,Canada,2
 de Lanaudière / Rosemont,30,12,Montréal,Canada,2
 St-Nicolas / Place d'Youville,2,25,Montréal,Canada,2
-St-Dominique / Rachel,21,2,Montréal,Canada,2
+St-Dominique / Rachel,20,3,Montréal,Canada,2
 Boileau / Lacordaire,22,1,Montréal,Canada,2
 Jean-d’Estrées / Notre-Dame,7,16,Montréal,Canada,2
 Darling / Sherbrooke,14,8,Montréal,Canada,2
@@ -657,17 +657,17 @@ Jeanne-d'Arc / Ontario,2,21,Montréal,Canada,2
 de Bordeaux / Gilford,23,0,Montréal,Canada,2
 Cégep de Sherbrooke (du Cégep / Terrill),13,8,Montréal,Canada,2
 Gilford / St-Denis,34,4,Montréal,Canada,2
-Métro Square-Victoria-OACI (St-Jacques),2,19,Montréal,Canada,2
-de Gaspé / Jarry,3,12,Montréal,Canada,2
+Métro Square-Victoria-OACI (St-Jacques),4,17,Montréal,Canada,2
+de Gaspé / Jarry,2,13,Montréal,Canada,2
 Gare du Ruisseau (Dutrisac / Henri-Bourassa),10,8,Montréal,Canada,2
-Métro Villa-Maria (de Monkland / Décarie),13,13,Montréal,Canada,2
+Métro Villa-Maria (de Monkland / Décarie),12,14,Montréal,Canada,2
 St-Joseph / 8e avenue Lachine,9,17,Montréal,Canada,2
 Parc de la Confédération (Fielding / West Hill),9,14,Montréal,Canada,2
 de Marseille / de la Pépinière,9,13,Montréal,Canada,2
-Métro Acadie (de l'Acadie / Beaumont),3,18,Montréal,Canada,2
+Métro Acadie (de l'Acadie / Beaumont),4,17,Montréal,Canada,2
 6e avenue / Wellington,5,14,Montréal,Canada,2
 Parc St-Gabriel (Grand Trunk / Ropery),15,4,Montréal,Canada,2
-Calixa-Lavallée / Rachel (ouest),23,14,Montréal,Canada,2
+Calixa-Lavallée / Rachel (ouest),34,3,Montréal,Canada,2
 Galt Ouest / McManamy,11,10,Montréal,Canada,2
 St-Laurent / de Chambly,12,9,Montréal,Canada,2
 9e avenue / Masson,9,5,Montréal,Canada,2
@@ -677,7 +677,7 @@ Métro Place-d'Armes (St-Urbain / Viger),8,11,Montréal,Canada,2
 Montarville / Beaubien,4,11,Montréal,Canada,2
 Parc Garibaldi (Liénart / Bélanger),7,8,Montréal,Canada,2
 Collège Ahuntsic (St-Hubert / Émile-Journault),4,18,Montréal,Canada,2
-7e avenue / Masson,9,10,Montréal,Canada,2
+7e avenue / Masson,10,9,Montréal,Canada,2
 Ste-Catherine / Sanguinet,5,38,Montréal,Canada,2
 Clark / de Liège,3,15,Montréal,Canada,2
 Terminus Newman (Airlie / Lafleur),1,18,Montréal,Canada,2
@@ -685,7 +685,7 @@ de Gentilly / St-Jean,9,14,Montréal,Canada,2
 Parc Henri-Dunant (Léger / Henri-Dunant),5,21,Montréal,Canada,2
 Lebrun / Notre-Dame,9,14,Montréal,Canada,2
 Ste-Famille / Sherbrooke,31,0,Montréal,Canada,2
-Jeanne-Mance / St-Viateur,12,18,Montréal,Canada,2
+Jeanne-Mance / St-Viateur,13,17,Montréal,Canada,2
 St-Charles / De Pierrefonds,3,18,Montréal,Canada,2
 Parc Ludger-Duvernay (St-André / St-Hubert),15,4,Montréal,Canada,2
 Bourret / Victoria,19,4,Montréal,Canada,2
@@ -694,26 +694,26 @@ Michelet / Jean-Talon,10,13,Montréal,Canada,2
 St-Hubert / Laurier,7,12,Montréal,Canada,2
 Georges-Vanier / Notre-Dame,17,1,Montréal,Canada,2
 Parc Chénier (Albert / Pie-XII),9,18,Montréal,Canada,2
-7e avenue / St-Joseph,27,0,Montréal,Canada,2
+7e avenue / St-Joseph,26,1,Montréal,Canada,2
 Nielsen / Windsor,8,7,Montréal,Canada,2
 26e avenue / Bélanger,4,15,Montréal,Canada,2
-Empire / Régent,12,3,Montréal,Canada,2
+Empire / Régent,11,3,Montréal,Canada,2
 de Bordeaux / Masson,19,0,Montréal,Canada,2
 Métro Fabre (Fabre / Jean-Talon,8,3,Montréal,Canada,2
 Léonard-de-Vinci / Villeray,13,6,Montréal,Canada,2
 Ste-Hélène / Curé-Poirier,4,15,Montréal,Canada,2
-Marcil / Sherbrooke,20,7,Montréal,Canada,2
+Marcil / Sherbrooke,21,6,Montréal,Canada,2
 Parc Chamberland (Dorais / de l'Église),9,8,Montréal,Canada,2
 Gare REM Grand-Moulin (9e avenue / du Lac),10,10,Montréal,Canada,2
-Waverly / Bernard,11,20,Montréal,Canada,2
+Waverly / Bernard,12,19,Montréal,Canada,2
 Natatorium (LaSalle / Rolland),11,12,Montréal,Canada,2
 Stanley / René-Lévesque,0,19,Montréal,Canada,2
-Jeanne-Mance / René-Lévesque,7,54,Montréal,Canada,2
+Jeanne-Mance / René-Lévesque,9,52,Montréal,Canada,2
 de Chenonceau / Chomedey,14,8,Montréal,Canada,2
-Parc Villeray (Jarry / Christophe-Colomb),12,2,Montréal,Canada,2
+Parc Villeray (Jarry / Christophe-Colomb),11,3,Montréal,Canada,2
 St-Joseph / 21e avenue Lachine,3,16,Montréal,Canada,2
-de Maisonneuve / Greene,16,1,Montréal,Canada,2
-Calixa-Lavallée / Rachel,19,10,Montréal,Canada,2
+de Maisonneuve / Greene,17,1,Montréal,Canada,2
+Calixa-Lavallée / Rachel,29,0,Montréal,Canada,2
 Travaux publics LaSalle (Cordner / Léger),1,13,Montréal,Canada,2
 Duchesneau / de Marseille,5,13,Montréal,Canada,2
 St-Urbain / Laurier,17,1,Montréal,Canada,2
@@ -723,36 +723,36 @@ Parc de Dieppe (Pierre-Dupuy),11,23,Montréal,Canada,2
 St-Hubert / Duluth,22,1,Montréal,Canada,2
 Milton / St-Laurent,21,0,Montréal,Canada,2
 Parc Lucien-Blanchard (de la Pointe / Cabana),10,11,Montréal,Canada,2
-McGill / Place d'Youville,3,26,Montréal,Canada,2
+McGill / Place d'Youville,0,29,Montréal,Canada,2
 U. de Sherbrooke (Registrariat - Voie 3),14,7,Montréal,Canada,2
 Sun Valley / de Sillery,13,9,Montréal,Canada,2
-de la Commune / King,29,50,Montréal,Canada,2
+de la Commune / King,4,75,Montréal,Canada,2
 Hurteau / Springland,13,6,Montréal,Canada,2
 Laurier / de Brébeuf,31,0,Montréal,Canada,2
-Métro Angrignon (Lamont / des Trinitaires),1,22,Montréal,Canada,2
+Métro Angrignon (Lamont / des Trinitaires),0,23,Montréal,Canada,2
 Notre-Dame / St-Gabriel,2,8,Montréal,Canada,2
 Galt Ouest / Belvédère Sud,9,12,Montréal,Canada,2
 Complexe Desjardins (St-Urbain / René-Lévesque),2,39,Montréal,Canada,2
 Labonté / du Coteau-Rouge,10,13,Montréal,Canada,2
 du Séminaire / de la Montagne,20,15,Montréal,Canada,2
-de Côme / Houel,9,6,Montréal,Canada,2
+de Côme / Houel,7,7,Montréal,Canada,2
 de Gaspé / de Liège,22,1,Montréal,Canada,2
-University / Des Pins,2,29,Montréal,Canada,2
-Plessis / Ontario,10,9,Montréal,Canada,2
+University / Des Pins,1,30,Montréal,Canada,2
+Plessis / Ontario,11,8,Montréal,Canada,2
 Drolet / St-Zotique,18,5,Montréal,Canada,2
 Durocher / Beaumont,2,17,Montréal,Canada,2
-Chapleau / du Mont-Royal,12,6,Montréal,Canada,2
+Chapleau / du Mont-Royal,13,5,Montréal,Canada,2
 Place de la Fontaine / Berlioz,9,11,Montréal,Canada,2
 Jacques-Casault / Pierre-Dupaigne,17,6,Montréal,Canada,2
 Drolet / Marie-Anne,3,20,Montréal,Canada,2
-de Châteaubriand / Beaubien,14,8,Montréal,Canada,2
-Ste-Catherine / St-Clément,3,11,Montréal,Canada,2
+de Châteaubriand / Beaubien,13,9,Montréal,Canada,2
+Ste-Catherine / St-Clément,4,10,Montréal,Canada,2
 Boyer / Everett,6,13,Montréal,Canada,2
 de Mentana / Marie-Anne,25,2,Montréal,Canada,2
 Métro Viau (Pierre-de-Coubertin / Viau),3,52,Montréal,Canada,2
 Parc des Vétérans (des Vétérans / Broadway),6,4,Montréal,Canada,2
 Parc Beaulac (Élizabeth),9,5,Montréal,Canada,2
-de Lanaudière / du Mont-Royal,20,11,Montréal,Canada,2
+de Lanaudière / du Mont-Royal,21,10,Montréal,Canada,2
 Denault / Claire-Jolicoeur,10,11,Montréal,Canada,2
 Place des Festivals (du Président-Kennedy / de Bleury),0,27,Montréal,Canada,2
 St-André / Rachel,8,5,Montréal,Canada,2
@@ -771,9 +771,9 @@ Parc Hébert (Colbert / Provencher),13,2,Montréal,Canada,2
 St-Dominique / de Bellechasse,28,2,Montréal,Canada,2
 Lahaie / Meunier,6,8,Montréal,Canada,2
 Métro Georges-Vanier (Terrasse Coursol / Canning),7,12,Montréal,Canada,2
-Cartier / Rosemont,18,0,Montréal,Canada,2
+Cartier / Rosemont,17,1,Montréal,Canada,2
 St-Hubert / de Maisonneuve (nord),9,14,Montréal,Canada,2
-Métro Fabre (Papineau / Jean-Talon),3,20,Montréal,Canada,2
+Métro Fabre (Papineau / Jean-Talon),4,19,Montréal,Canada,2
 Parc Hilda-Ramacière (de Bullion / Prince-Arthur),24,3,Montréal,Canada,2
 Marquette / du Coteau-Rouge,8,11,Montréal,Canada,2
 Parc MacDonald (Clanranald / Isabella),5,10,Montréal,Canada,2
@@ -785,11 +785,11 @@ Métro Préfontaine (Moreau / Hochelaga),4,27,Montréal,Canada,2
 Cuvillier / de Chambly,4,14,Montréal,Canada,2
 Melrose / de Verdun,15,4,Montréal,Canada,2
 Théâtre du Vieux-Terrebonne (St-Pierre / des Braves),11,7,Montréal,Canada,2
-St-André / Ste-Catherine,8,19,Montréal,Canada,2
+St-André / Ste-Catherine,7,20,Montréal,Canada,2
 St-Antoine / Jean-Paul Riopelle,0,23,Montréal,Canada,2
 Jean-Paul-Vincent / Adoncour,10,5,Montréal,Canada,2
 Gilford / de la Roche,16,2,Montréal,Canada,2
-Métro Atwater (Atwater / Ste-Catherine ),19,12,Montréal,Canada,2
+Métro Atwater (Atwater / Ste-Catherine ),18,13,Montréal,Canada,2
 Langelier / Marie-Victorin,3,11,Montréal,Canada,2
 Parc Dakin (Kenilworth / Morrison),5,18,Montréal,Canada,2
 LaSalle / Crawford,3,12,Montréal,Canada,2
@@ -802,7 +802,7 @@ Henri-Julien / Duluth,23,4,Montréal,Canada,2
 Plage du Parc-Nature du Cap Saint-Jacques (de la Plage / Service),9,14,Montréal,Canada,2
 Parc St-Henri (Laporte / Guay),7,8,Montréal,Canada,2
 Parc Nature du Cap-St-Jacques (Gouin O./ Pilon),14,9,Montréal,Canada,2
-Gordon / de Verdun,13,2,Montréal,Canada,2
+Gordon / de Verdun,12,3,Montréal,Canada,2
 Bourget / Notre-Dame,4,19,Montréal,Canada,2
 Metcalfe / Ste-Catherine,0,19,Montréal,Canada,2
 Bloomfield / Bernard,24,3,Montréal,Canada,2
@@ -810,19 +810,19 @@ Berlioz / de l'Île des Soeurs,5,18,Montréal,Canada,2
 Métro Université de Montréal (Édouard-Montpetit / Louis-Collin),1,24,Montréal,Canada,2
 Gordon / Wellington,0,15,Montréal,Canada,2
 Thomas-Chapais / Notre-Dame,1,22,Montréal,Canada,2
-Bassin Peel (Smith / de la Commune),16,9,Montréal,Canada,2
+Bassin Peel (Smith / de la Commune),15,9,Montréal,Canada,2
 Berri / Rachel,14,4,Montréal,Canada,2
 8e avenue / Dandurand,17,2,Montréal,Canada,2
 Parc Le Boutillier (Eliot),11,12,Montréal,Canada,2
 3e avenue / Bannantyne,6,9,Montréal,Canada,2
 Métro Plamondon (de Kent / Victoria),4,27,Montréal,Canada,2
 de l'Hôtel-de-Ville / Rachel,13,1,Montréal,Canada,2
-Marquette / du Mont-Royal,23,0,Montréal,Canada,2
+Marquette / du Mont-Royal,22,1,Montréal,Canada,2
 Beatty / de Verdun,14,9,Montréal,Canada,2
 Masson / Molson,17,1,Montréal,Canada,2
-Clark / Laurier,15,3,Montréal,Canada,2
+Clark / Laurier,16,2,Montréal,Canada,2
 de l'Ontario / Walton,9,6,Montréal,Canada,2
-Maguire / de Gaspé,5,14,Montréal,Canada,2
+Maguire / de Gaspé,4,15,Montréal,Canada,2
 Métro Jarry (Berri / Jarry),20,3,Montréal,Canada,2
 de la Commune / Berri,4,50,Montréal,Canada,2
 Métro Snowdon (Circle / Queen-Mary),2,21,Montréal,Canada,2
@@ -839,10 +839,10 @@ Parc Marguerite-Bourgeoys (Liverpool / Wellington),7,8,Montréal,Canada,2
 Cathcart / McGill College,1,26,Montréal,Canada,2
 Parc Pratt (Dunlop / Van Horne),7,5,Montréal,Canada,2
 Letourneux / Ste-Catherine,9,8,Montréal,Canada,2
-Gilford / de Brébeuf,16,6,Montréal,Canada,2
+Gilford / de Brébeuf,15,7,Montréal,Canada,2
 Plymouth / Chem.Eden,2,10,Montréal,Canada,2
 Jeanne-Mance / Beaubien,10,5,Montréal,Canada,2
-Chabot / Beaubien,15,0,Montréal,Canada,2
+Chabot / Beaubien,14,1,Montréal,Canada,2
 des Récollets / Martial,5,14,Montréal,Canada,2
 Cégep Gérald-Godin (Gouin),9,13,Montréal,Canada,2
 Workman / Vinet,1,22,Montréal,Canada,2
@@ -850,16 +850,16 @@ Parc Van Horne (de la Peltrie / de Westbury),9,6,Montréal,Canada,2
 Parc Stoney-Point (St-Joseph / 47e avenue),10,9,Montréal,Canada,2
 Henri-Julien / Laurier,12,7,Montréal,Canada,2
 St-Denis / Ste-Catherine,2,41,Montréal,Canada,2
-Guizot / St-Denis,13,3,Montréal,Canada,2
+Guizot / St-Denis,14,2,Montréal,Canada,2
 Parc Georges St-Pierre (Oxford / Upper Lachine),7,11,Montréal,Canada,2
-Hutchison / Van Horne,21,2,Montréal,Canada,2
+Hutchison / Van Horne,22,1,Montréal,Canada,2
 des Jockeys / Décarie,10,9,Montréal,Canada,2
-15e avenue / Laurier,19,2,Montréal,Canada,2
+15e avenue / Laurier,18,3,Montréal,Canada,2
 Ste-Croix / Tassé,9,12,Montréal,Canada,2
 Lapierre / Serge,4,11,Montréal,Canada,2
-Dollard / Van Horne,12,11,Montréal,Canada,2
+Dollard / Van Horne,13,10,Montréal,Canada,2
 Mayfield / St-Martin O,10,9,Montréal,Canada,2
-St-Philippe / St-Ambroise,14,9,Montréal,Canada,2
+St-Philippe / St-Ambroise,13,10,Montréal,Canada,2
 Wilson / Sherbrooke,21,2,Montréal,Canada,2
 Grenet / Poirier,3,12,Montréal,Canada,2
 du Parc-La Fontaine / Duluth,28,3,Montréal,Canada,2
@@ -871,11 +871,11 @@ Parc Hôtel de Ville (de l'Hôtel-de-Ville / Principale),7,12,Montréal,Canada,2
 Dufour / de Chateaubriand,8,7,Montréal,Canada,2
 de la Commune / St-Sulpice,5,42,Montréal,Canada,2
 Parc D.-E.-Joyal (Édouard / Windsor),11,4,Montréal,Canada,2
-Parc Ottawa (de Belleville / Fleury),3,11,Montréal,Canada,2
+Parc Ottawa (de Belleville / Fleury),4,10,Montréal,Canada,2
 Maguire / Henri-Julien,1,18,Montréal,Canada,2
 41e avenue / Rosemont,14,3,Montréal,Canada,2
 des Bassins / Rioux,19,16,Montréal,Canada,2
-St-Hubert / René-Levesque,5,14,Montréal,Canada,2
+St-Hubert / René-Levesque,6,13,Montréal,Canada,2
 St-Rémi / Ste-Émilie,9,18,Montréal,Canada,2
 Cartier / Bélanger,21,1,Montréal,Canada,2
 de la Montagne / Sherbrooke,14,5,Montréal,Canada,2
@@ -891,7 +891,7 @@ Jean-Brillant / Decelles,6,16,Montréal,Canada,2
 Parc Michel-Chartrand (Adoncour / du Lac),13,7,Montréal,Canada,2
 Quai de la navette fluviale,9,8,Montréal,Canada,2
 HEC (Decelles / Jean-Brillant),13,10,Montréal,Canada,2
-Parc du Pélican (2e avenue / St-Joseph),18,1,Montréal,Canada,2
+Parc du Pélican (2e avenue / St-Joseph),19,0,Montréal,Canada,2
 Métro Jolicoeur (de Sève / Drake),1,17,Montréal,Canada,2
 Mairie d'arrondissement de Pierrefonds-Roxboro (St-Léon / de Pierrefonds),10,13,Montréal,Canada,2
 LaSalle / 90e avenue,5,9,Montréal,Canada,2
@@ -900,14 +900,14 @@ Fullum / Ste-Catherine,5,22,Montréal,Canada,2
 Guy / Barré,21,6,Montréal,Canada,2
 de Monaco / du Souvenir,8,15,Montréal,Canada,2
 U. Concordia - Campus Loyola (Sherbrooke / West Broadway),6,21,Montréal,Canada,2
-René-Lévesque / de Lorimier,6,15,Montréal,Canada,2
+René-Lévesque / de Lorimier,5,16,Montréal,Canada,2
 Métro Outremont (Stuart / Van Horne),21,2,Montréal,Canada,2
 Terminus de bus EXO (Côte de Terrebonne),11,10,Montréal,Canada,2
-Parthenais / du Mont-Royal,23,0,Montréal,Canada,2
-Métro Mont-Royal (Utilités publiques / Rivard),3,40,Montréal,Canada,2
-Ottawa / Young,6,32,Montréal,Canada,2
+Parthenais / du Mont-Royal,22,1,Montréal,Canada,2
+Métro Mont-Royal (Utilités publiques / Rivard),20,23,Montréal,Canada,2
+Ottawa / Young,7,31,Montréal,Canada,2
 1ère avenue / Rosemont,22,0,Montréal,Canada,2
-Clark / Rachel,18,5,Montréal,Canada,2
+Clark / Rachel,17,6,Montréal,Canada,2
 Bourgeoys / Favard,13,14,Montréal,Canada,2
 de la Côte St-Paul / St-Ambroise,7,19,Montréal,Canada,2
 Stanley / Sherbrooke,7,32,Montréal,Canada,2
@@ -915,13 +915,13 @@ Cégep Édouard-Montpetit (de Normandie),7,12,Montréal,Canada,2
 Le Royer / St-Laurent,5,14,Montréal,Canada,2
 du Fer-à-Cheval / des Hauts-Bois,10,5,Montréal,Canada,2
 Omer-Lavallée / du Midway,11,6,Montréal,Canada,2
-de Léry / Sherbrooke,2,25,Montréal,Canada,2
-Messier / St-Joseph,16,0,Montréal,Canada,2
+de Léry / Sherbrooke,1,26,Montréal,Canada,2
+Messier / St-Joseph,16,1,Montréal,Canada,2
 Jeanne-Mance / Milton,29,1,Montréal,Canada,2
 de Laprairie / Centre,10,13,Montréal,Canada,2
 Bourbonnière / Hochelaga,10,9,Montréal,Canada,2
 Parc St-Patrick (St-Patrick / St-Columban),6,13,Montréal,Canada,2
-Lanaudière / Bélanger,22,1,Montréal,Canada,2
+Lanaudière / Bélanger,21,1,Montréal,Canada,2
 Hôtel-de-Ville / Viger,18,5,Montréal,Canada,2
 Parc Benny (Benny / de Monkland),19,2,Montréal,Canada,2
 Parc Boisé des Moissons (25e Avenue / 23e Avenue),11,9,Montréal,Canada,2
@@ -945,25 +945,25 @@ St-Timothée / Ste-Catherine,8,14,Montréal,Canada,2
 de Normanville / Everett,6,17,Montréal,Canada,2
 Murray / du Conseil,10,5,Montréal,Canada,2
 Garnier / Gilford,19,0,Montréal,Canada,2
-du Souvenir / de l'Avenir,1,25,Montréal,Canada,2
+du Souvenir / de l'Avenir,0,26,Montréal,Canada,2
 University / Prince Arthur,1,46,Montréal,Canada,2
 Métro Place Saint-Henri (Charlebois / St-Ferdinand),6,15,Montréal,Canada,2
 Thibault / d'Amay,11,12,Montréal,Canada,2
 15e avenue / Dandurand,16,6,Montréal,Canada,2
 Métro St-Laurent (de Maisonneuve / St-Laurent),0,24,Montréal,Canada,2
-Hickson / Wellington,7,20,Montréal,Canada,2
+Hickson / Wellington,8,19,Montréal,Canada,2
 Parc Lefebvre (Hardy / Dollard),0,18,Montréal,Canada,2
 Lajeunesse / de Liège,13,1,Montréal,Canada,2
 Lincoln / St-Marc,11,12,Montréal,Canada,2
 Regent / Windsor,10,5,Montréal,Canada,2
 19e avenue / St-Zotique,8,15,Montréal,Canada,2
 Holy-Cross / Eadie,15,4,Montréal,Canada,2
-Place du Canada (Peel / des Canadiens-de-Montréal),2,21,Montréal,Canada,2
+Place du Canada (Peel / des Canadiens-de-Montréal),1,22,Montréal,Canada,2
 Queen / Wellington,0,19,Montréal,Canada,2
 Parc Wilfrid-Bastien (Lacordaire / des Galets),13,6,Montréal,Canada,2
 Bibliothèque d'Ahuntsic (Lajeunesse / Fleury),13,1,Montréal,Canada,2
 Goyer / Côte-des-Neiges,13,6,Montréal,Canada,2
-Villeneuve / du Parc,14,1,Montréal,Canada,2
+Villeneuve / du Parc,15,0,Montréal,Canada,2
 Parc St-Louis (St-Joseph / 34e avenue),1,22,Montréal,Canada,2
 Gare Montpellier (Muir / de la Côte-Vertu),9,1,Montréal,Canada,2
 de Chambly / de Rouen,2,9,Montréal,Canada,2
@@ -976,7 +976,7 @@ Parc Gentilly Ouest (Belcourt / Bagot),12,3,Montréal,Canada,2
 Parc du Mont-Royal (Remembrance),2,23,Montréal,Canada,2
 LaRocque / de Mère-Teresa,8,7,Montréal,Canada,2
 Churchill / Empire,8,13,Montréal,Canada,2
-Métro Rosemont (de St-Vallier / Rosemont),7,8,Montréal,Canada,2
+Métro Rosemont (de St-Vallier / Rosemont),12,3,Montréal,Canada,2
 Terminus de bus SRB Pie-IX (de la Concorde E / Rose-de-Lima),7,14,Montréal,Canada,2
 Beauregard / La Salle,7,12,Montréal,Canada,2
 Parc Dixie (Dixie / 54e avenue),14,4,Montréal,Canada,2
@@ -991,7 +991,7 @@ Beurling / Godin,8,11,Montréal,Canada,2
 Ste-Catherine / St-Marc,27,0,Montréal,Canada,2
 Gare Vimont (Bellerose O),8,12,Montréal,Canada,2
 de Batiscan / Hameury,10,9,Montréal,Canada,2
-Boyer / du Mont-Royal,6,17,Montréal,Canada,2
+Boyer / du Mont-Royal,20,3,Montréal,Canada,2
 Roland-Therrien / Jacques-Cartier,11,4,Montréal,Canada,2
 BIXI K5,0,14,Montréal,Canada,2
 Berri / Cherrier,31,8,Montréal,Canada,2
@@ -1005,8 +1005,8 @@ Christophe-Colomb / St-Joseph,21,6,Montréal,Canada,2
 Hutchison / Prince-Arthur,11,8,Montréal,Canada,2
 Parc Jarry (Gary-Carter),9,28,Montréal,Canada,2
 Fabrik8 (Waverly / Jean-Talon),1,20,Montréal,Canada,2
-Dézéry / Ontario,18,9,Montréal,Canada,2
-Métro Lionel-Groulx (St-Jacques / Atwater),2,31,Montréal,Canada,2
+Dézéry / Ontario,19,8,Montréal,Canada,2
+Métro Lionel-Groulx (St-Jacques / Atwater),4,29,Montréal,Canada,2
 Métro Longueuil - Université de Sherbrooke (du Terminus),17,18,Montréal,Canada,2
 du President-Kennedy / Union,0,31,Montréal,Canada,2
 Parc Olympique (Pie-IX / Sherbrooke),0,24,Montréal,Canada,2
@@ -1014,17 +1014,17 @@ St-Dominique / du Mont-Royal,20,6,Montréal,Canada,2
 Parc St-Sacrement (des Seigneurs / St-Sacrement),10,8,Montréal,Canada,2
 Hôpital Pierre-Boucher (Jacques-Cartier / Bourdon),6,11,Montréal,Canada,2
 Ste-Catherine / de Bullion,8,15,Montréal,Canada,2
-Roy / St-Denis,19,7,Montréal,Canada,2
+Roy / St-Denis,20,6,Montréal,Canada,2
 St-Dominique / Bernard,4,15,Montréal,Canada,2
 IUSMM (Georges-Villeneuve),8,11,Montréal,Canada,2
 de Lanaudière / Laurier,27,0,Montréal,Canada,2
 Hogan / Ontario,9,2,Montréal,Canada,2
-St-Dominique / Jean-Talon,8,23,Montréal,Canada,2
+St-Dominique / Jean-Talon,28,3,Montréal,Canada,2
 Centre des loisirs (Tassé / Grenet),9,3,Montréal,Canada,2
-Bourbonnière / du Mont-Royal,27,0,Montréal,Canada,2
+Bourbonnière / du Mont-Royal,24,3,Montréal,Canada,2
 de l'Épée / Laurier,25,1,Montréal,Canada,2
 du Mont-Royal / Augustin-Frigon,23,0,Montréal,Canada,2
-Louis-Hébert / Beaubien,14,9,Montréal,Canada,2
+Louis-Hébert / Beaubien,16,7,Montréal,Canada,2
 Hôtel de Ville (Chomedey / Cardinal),4,15,Montréal,Canada,2
 Fullum / Ontario,6,9,Montréal,Canada,2
 de Maisonneuve / Wood,1,18,Montréal,Canada,2
