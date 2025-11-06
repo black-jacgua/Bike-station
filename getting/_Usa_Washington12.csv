@@ -3,14 +3,14 @@ name,free_bikes,empty_slots,city,country,position
 Commerce St & Fayette St,8,7,Washington,Usa,12
 7th & Monroe St NE,1,14,Washington,Usa,12
 Columbia Pike & S Orme St,2,5,Washington,Usa,12
-Park Rd & Holmead Pl NW,31,0,Washington,Usa,12
+Park Rd & Holmead Pl NW,30,1,Washington,Usa,12
 N Pitt St & Montgomery St,4,11,Washington,Usa,12
 11th & F St NW,1,27,Washington,Usa,12
 Western Ave & Pinehurst Cir NW ,15,0,Washington,Usa,12
 Rockville Pike & Rose Ave,14,1,Washington,Usa,12
 10th & Quincy St NE / Turkey Thicket Rec,7,12,Washington,Usa,12
 4th & M St SE,8,11,Washington,Usa,12
-S Wayne St and 9th St S,2,12,Washington,Usa,12
+S Wayne St and 9th St S,3,12,Washington,Usa,12
 New Hampshire Ave & East-West Hwy,5,9,Washington,Usa,12
 Charles Arrington Dr & Manchester Lakes Dr ,3,8,Washington,Usa,12
 White Oak Transit Center,9,9,Washington,Usa,12
@@ -23,7 +23,7 @@ Long Bridge Aquatic Center,5,6,Washington,Usa,12
 Tenleytown / Wisconsin Ave & Albemarle St NW,0,15,Washington,Usa,12
 Minnesota Ave & R St SE,4,14,Washington,Usa,12
 Rhodes St & 16th St N,4,8,Washington,Usa,12
-Maryland Ave & E St NE,24,2,Washington,Usa,12
+Maryland Ave & E St NE,23,3,Washington,Usa,12
 Eastern Market / 7th & North Carolina Ave SE,0,15,Washington,Usa,12
 Spring St & 2nd Ave,5,10,Washington,Usa,12
 12th St & Pennsylvania Ave SE,8,10,Washington,Usa,12
@@ -61,7 +61,7 @@ Ballston Metro / Stuart St & 9th St N,4,20,Washington,Usa,12
 Columbia & Ontario Rd NW,19,3,Washington,Usa,12
 Tyco Rd & Boyd Pointe Way,12,0,Washington,Usa,12
 Wakefield High School,0,11,Washington,Usa,12
-5th St & Massachusetts Ave NW,11,8,Washington,Usa,12
+5th St & Massachusetts Ave NW,12,7,Washington,Usa,12
 Riggs Rd & East West Hwy,11,6,Washington,Usa,12
 4th & D St NW / Judiciary Square,5,9,Washington,Usa,12
 16th St & North Carolina Ave NE,6,13,Washington,Usa,12
@@ -138,12 +138,12 @@ S Wakefield St & 28th St S,8,7,Washington,Usa,12
 Washington Blvd & Walter Reed Dr ,4,8,Washington,Usa,12
 Benning Rd & East Capitol St NE / Benning Rd Metro,5,14,Washington,Usa,12
 E Fairfax St & S Washington St,9,3,Washington,Usa,12
-5th & K St NW,8,13,Washington,Usa,12
+5th & K St NW,9,12,Washington,Usa,12
 John McCormack Rd & Michigan Ave NE,2,9,Washington,Usa,12
 N Hampton Dr & Ford Ave,8,3,Washington,Usa,12
 Wilson Blvd & N Illinois St ,4,11,Washington,Usa,12
-USDA / 12th & C St SW,28,18,Washington,Usa,12
-18th & New Hampshire Ave NW,8,10,Washington,Usa,12
+USDA / 12th & C St SW,29,18,Washington,Usa,12
+18th & New Hampshire Ave NW,10,8,Washington,Usa,12
 Roosevelt Island,7,9,Washington,Usa,12
 Washington & Independence Ave SW/HHS,20,18,Washington,Usa,12
 Reston Pkwy & Spectrum Dr,1,10,Washington,Usa,12
@@ -329,7 +329,7 @@ Fillmore & Bisdorf,8,3,Washington,Usa,12
 Arlington Blvd & Allen St,12,0,Washington,Usa,12
 Tysons Metro North,8,6,Washington,Usa,12
 14th & Girard St NW,9,12,Washington,Usa,12
-Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,7,12,Washington,Usa,12
+Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,6,13,Washington,Usa,12
 14th & Newton St NW,18,0,Washington,Usa,12
 Tanner Park,14,3,Washington,Usa,12
 Park Run & Onyx Dr,2,9,Washington,Usa,12
@@ -365,7 +365,7 @@ Connecticut Ave & Macomb St NW / Cleveland Park,7,4,Washington,Usa,12
 10th St & Constitution Ave NW,40,7,Washington,Usa,12
 Four Mile Rd & Milan Dr,7,8,Washington,Usa,12
 20th & I St NW,9,15,Washington,Usa,12
-Hamlin & 7th St NE,7,7,Washington,Usa,12
+Hamlin & 7th St NE,8,6,Washington,Usa,12
 Market Square / King St & Royal St,4,10,Washington,Usa,12
 Randle Circle & Minnesota Ave SE,6,5,Washington,Usa,12
 Park Pl & Rock Creek Church Rd NW,15,2,Washington,Usa,12
@@ -410,7 +410,7 @@ Grant Circle,8,10,Washington,Usa,12
 Georgia Ave & Emerson St NW,12,7,Washington,Usa,12
 Rockville Metro East,1,12,Washington,Usa,12
 3rd & M St SE,3,20,Washington,Usa,12
-Columbus Circle / Union Station,5,50,Washington,Usa,12
+Columbus Circle / Union Station,7,48,Washington,Usa,12
 Smithsonian-National Mall / Jefferson Dr & 12th St SW,27,8,Washington,Usa,12
 Guilford Drive & Rowalt Drive / UMD,2,13,Washington,Usa,12
 Jones Branch & Westbranch Dr,10,3,Washington,Usa,12
@@ -451,7 +451,7 @@ N Howard St & Taney Ave,2,9,Washington,Usa,12
 Washington Blvd & 7th St N,7,5,Washington,Usa,12
 South Dakota Ave & 33rd St NE,9,6,Washington,Usa,12
 10th St & Florida Ave NW,12,7,Washington,Usa,12
-9th St & Pennsylvania Ave NW,24,3,Washington,Usa,12
+9th St & Pennsylvania Ave NW,25,2,Washington,Usa,12
 3rd & K St NW,8,15,Washington,Usa,12
 Henry Bacon Dr & Lincoln Memorial Circle NW,2,17,Washington,Usa,12
 Yuma St & Tenley Circle NW,3,15,Washington,Usa,12
@@ -501,7 +501,7 @@ S Jordan St & Venable St,11,4,Washington,Usa,12
 Fishers Ln & Rock Creek Mill Rd,4,11,Washington,Usa,12
 Soapstone Dr Convenience Center,3,9,Washington,Usa,12
 New Dominion Pkwy & Fountain Dr,3,8,Washington,Usa,12
-Potomac & Pennsylvania Ave SE,11,2,Washington,Usa,12
+Potomac & Pennsylvania Ave SE,10,3,Washington,Usa,12
 3rd & Tingey St SE,0,24,Washington,Usa,12
 Maryland Ave & 17th St NE,18,0,Washington,Usa,12
 Aurora Hills Cmty Ctr / 18th St & S Hayes St,3,9,Washington,Usa,12
@@ -551,7 +551,7 @@ Wheeler Ave & S. Floyd St.,7,5,Washington,Usa,12
 N Veitch St & Key Blvd,3,7,Washington,Usa,12
 11th & Kenyon St NW,27,9,Washington,Usa,12
 12th & U St NW,24,12,Washington,Usa,12
-16th & K St NW/BLM Plaza,19,20,Washington,Usa,12
+16th & K St NW/BLM Plaza,0,20,Washington,Usa,12
 4th & E St SW,12,10,Washington,Usa,12
 Wilson Blvd & N Franklin Rd,1,10,Washington,Usa,12
 Reading Ave & Merton Ct,6,5,Washington,Usa,12
@@ -575,7 +575,7 @@ Wisconsin Ave & Newark St NW,13,5,Washington,Usa,12
 Columbia Rd & Belmont St NW,16,3,Washington,Usa,12
 13th & D St NE,35,0,Washington,Usa,12
 1st & Q St SW,11,4,Washington,Usa,12
-15th & W St NW,13,6,Washington,Usa,12
+15th & W St NW,12,7,Washington,Usa,12
 18th St & Pennsylvania Ave NW,1,23,Washington,Usa,12
 Connecticut Ave & Ordway St NW / Cleveland Park Metro ,13,1,Washington,Usa,12
 21st St & Pennsylvania Ave NW,0,19,Washington,Usa,12
@@ -612,18 +612,18 @@ New Hampshire & Kirklynn Ave,12,3,Washington,Usa,12
 South Dakota Ave & Decatur St NE ,8,7,Washington,Usa,12
 37th & Ely Pl SE,2,13,Washington,Usa,12
 8th & F St NE,20,2,Washington,Usa,12
-34th St & Wisconsin Ave NW,12,3,Washington,Usa,12
+34th St & Wisconsin Ave NW,13,2,Washington,Usa,12
 Seatrend Way & Topsails Ln,4,6,Washington,Usa,12
 8th Rd & S Frederick St,7,5,Washington,Usa,12
 17th & P St NW,7,10,Washington,Usa,12
-Connecticut Ave & Yuma St NW,9,10,Washington,Usa,12
+Connecticut Ave & Yuma St NW,10,9,Washington,Usa,12
 South Lakes Dr and Reston Pkwy,3,9,Washington,Usa,12
 Georgia Ave & Fairmont St NW,10,5,Washington,Usa,12
 10th & E St NW,4,11,Washington,Usa,12
 Arlington Mill Cmty Center / Columbia Pike & S Dinwiddie St,7,8,Washington,Usa,12
 Layton Hall Dr & University Dr,12,0,Washington,Usa,12
 Clarendon Metro / Wilson Blvd & N Highland St,1,19,Washington,Usa,12
-Colorado Ave & Longfellow St NW,9,9,Washington,Usa,12
+Colorado Ave & Longfellow St NW,8,10,Washington,Usa,12
 N Pershing Dr & N Quebec St,11,3,Washington,Usa,12
 Calvert & Biltmore St NW,11,12,Washington,Usa,12
 Fleet St & Waterfront St,3,12,Washington,Usa,12
