@@ -1,13 +1,13 @@
 name,free_bikes,empty_slots,city,country,position
 Greifswalder Straße/Lehderstraße,1,3.0,Berlin,Germany,15
 Linienstraße/Weydingerstraße,1,3.0,Berlin,Germany,15
-U Schloßstraße,1,3.0,Berlin,Germany,15
+U Schloßstraße,0,4.0,Berlin,Germany,15
 Jelbi U Walther-Scheiber-Platz/Lefèvrestraße (FRI/LE),0,7.0,Berlin,Germany,15
 Jelbi Paulstraße/Magnus-Hirschfeld-Ufer (MOA/PA),0,8.0,Berlin,Germany,15
 Pankower Straße (Pasewalker Straße),3,1.0,Berlin,Germany,15
 Reichenberger Straße/Lausitzer Straße,1,3.0,Berlin,Germany,15
 Jelbi Selchower Straße/Schillerpromenade (NEU/SE),6,3.0,Berlin,Germany,15
-S Ostkreuz (Südost),0,12.0,Berlin,Germany,15
+S Ostkreuz (Südost),1,11.0,Berlin,Germany,15
 Gartenplatz/Ackerstraße (Mobilitätsstation),0,4.0,Berlin,Germany,15
 Schwedter Straße/Korsörer Straße,0,3.0,Berlin,Germany,15
 Kufsteiner Straße/Freiherr-vom-Stein-Straße,0,4.0,Berlin,Germany,15
@@ -164,7 +164,7 @@ S Springpfuhl,0,4.0,Berlin,Germany,15
 "HfS ""Ernst Busch"" (Südwest)",0,4.0,Berlin,Germany,15
 Köpenicker Chausee/Zur alten Flussbadeanstalt,4,0.0,Berlin,Germany,15
 Wrangelstraße (Oberstufenzentrum Handel 1),4,0.0,Berlin,Germany,15
-Rotherstraße/Ehrenbergstraße,2,2.0,Berlin,Germany,15
+Rotherstraße/Ehrenbergstraße,1,3.0,Berlin,Germany,15
 Neue Christstraße/Nehringstraße,2,2.0,Berlin,Germany,15
 S Ostkreuz (Südwest),1,5.0,Berlin,Germany,15
 Köpenicker Landstraße/Baumschulenstraße,0,4.0,Berlin,Germany,15
@@ -177,7 +177,7 @@ Ludwigkirchplatz/Pfalzburger Straße,0,4.0,Berlin,Germany,15
 Anna-Seghers-Straße/Silberberger Straße,1,3.0,Berlin,Germany,15
 Schwäbische Straße/Barbarossastraße,0,4.0,Berlin,Germany,15
 U Weberwiese (Hildegard-Jadamowitz-Straße),0,7.0,Berlin,Germany,15
-EDEKA Treugut (Maybachufer),7,0.0,Berlin,Germany,15
+EDEKA Treugut (Maybachufer),8,0.0,Berlin,Germany,15
 S Savignyplatz (West),1,3.0,Berlin,Germany,15
 Jelbi Dorothea-Schlegel-Platz (MIT/DS),5,0.0,Berlin,Germany,15
 Rummelsburger Straße/Minna-Todenhagen-Straße,0,4.0,Berlin,Germany,15
@@ -205,7 +205,7 @@ Weißenseer Weg/Landsberger Allee,0,4.0,Berlin,Germany,15
 Hauptstraße (65),0,4.0,Berlin,Germany,15
 Jelbi U Hansaplatz (HAN/HA),3,6.0,Berlin,Germany,15
 EDEKA Leher (Fürstenwalder Allee/Lagunenweg),0,4.0,Berlin,Germany,15
-S+U Zoologischer Garten (Hardenbergplatz),7,0.0,Berlin,Germany,15
+S+U Zoologischer Garten (Hardenbergplatz),6,0.0,Berlin,Germany,15
 Regensburger Straße/Grainauer Straße,0,4.0,Berlin,Germany,15
 Meiningenallee (Spandauer Damm),0,4.0,Berlin,Germany,15
 Salvador-Allende-Straße/Müggelschößchenweg (Krankenhaus Köpenick),0,4.0,Berlin,Germany,15
@@ -252,7 +252,7 @@ Adlergestell/Neltestraße,1,3.0,Berlin,Germany,15
 Landshuter Straße/Barbarossastraße,1,3.0,Berlin,Germany,15
 Preussenstadion (Kamenzer Damm),0,4.0,Berlin,Germany,15
 M Roederplatz (Weißenseer Weg),0,4.0,Berlin,Germany,15
-Frankfurter Allee/Stasi (Mobilitätsstation),7,0.0,Berlin,Germany,15
+Frankfurter Allee/Stasi (Mobilitätsstation),6,0.0,Berlin,Germany,15
 Zachertstraße/Lincolnstraße,0,4.0,Berlin,Germany,15
 S Bornholmer Straße (Ost),0,4.0,Berlin,Germany,15
 S Tegel (Ost),1,3.0,Berlin,Germany,15
@@ -274,7 +274,7 @@ Jelbi Große Hamburger Straße/Auguststraße (MIT/GR),5,0.0,Berlin,Germany,15
 S Bundesplatz (Nordost),0,10.0,Berlin,Germany,15
  Raumerstraße/Lychener Straße (Mobilitätsstation),4,6.0,Berlin,Germany,15
 Oberseestraße (Orankesee/Obersee),1,3.0,Berlin,Germany,15
-Auguststraße/Tucholskystraße (Mobilitätsstation),4,0.0,Berlin,Germany,15
+Auguststraße/Tucholskystraße (Mobilitätsstation),3,1.0,Berlin,Germany,15
 EDEKA Center Tempelhof (Ordensmeisterstraße),1,3.0,Berlin,Germany,15
 Jelbi - S Landsberger Allee/Otto-Ostrowski-Straße (PRE/OOS),0,10.0,Berlin,Germany,15
 Am Tierpark/Alfred-Kowalke-Straße,1,2.0,Berlin,Germany,15
@@ -322,13 +322,13 @@ Jelbi Betriebshof Indira-Gandhi-Straße (ALT/IN),5,0.0,Berlin,Germany,15
 Orber Straße/Friedrichsruher Straße,0,4.0,Berlin,Germany,15
 Hasselwerderstraße/Hainstraße,0,4.0,Berlin,Germany,15
 Jelbi Schloßstraße/Gutsmuthsstraße (STE/GU),0,9.0,Berlin,Germany,15
-Jelbi-Punkt U Mohrenstraße (MIT/MS),8,2.0,Berlin,Germany,15
+Jelbi-Punkt U Mohrenstraße (MIT/MS),7,3.0,Berlin,Germany,15
 Alt-Stralau/Tunnelstraße,1,3.0,Berlin,Germany,15
 U Biesdorf-Süd (Nord),0,4.0,Berlin,Germany,15
 Französische Straße/Oberwallstraße (Mobilitätsstation),1,3.0,Berlin,Germany,15
 Amalienstraße/Parkstraße,2,2.0,Berlin,Germany,15
 Olympiastadion Berlin (Olympischer Platz Süd),0,4.0,Berlin,Germany,15
-Kiefholzstraße/Eichbuschallee,1,5.0,Berlin,Germany,15
+Kiefholzstraße/Eichbuschallee,2,4.0,Berlin,Germany,15
 S Attilastraße,0,4.0,Berlin,Germany,15
 Stiftsweg (Damerowstraße),2,2.0,Berlin,Germany,15
 Prenzlauer Promenade/Kissingenstraße,0,4.0,Berlin,Germany,15
@@ -392,7 +392,7 @@ Barbarossastraße/Karl-Schrader-Straße,0,4.0,Berlin,Germany,15
 IKEA Lichtenberg,3,1.0,Berlin,Germany,15
 Mosischstraße/Kiefholzstraße,0,4.0,Berlin,Germany,15
 Jelbi Mariannenstraße/ Skalitzer Straße (KRE/MA),0,6.0,Berlin,Germany,15
-Stuckstraße/Puderstraße,1,3.0,Berlin,Germany,15
+Stuckstraße/Puderstraße,0,4.0,Berlin,Germany,15
 Jelbi HTW Campus Wilhelminenhof (OBE/CW),0,4.0,Berlin,Germany,15
 Prinz-Georg-Straße/Ebersstraße,0,3.0,Berlin,Germany,15
 Margaretenstraße/Weitlingstraße,0,4.0,Berlin,Germany,15
@@ -404,7 +404,7 @@ Bruno-Bauer-Straße/Glasower Straße,0,4.0,Berlin,Germany,15
 virtuell - Wipperstraße/Schöneweider Straße,0,4.0,Berlin,Germany,15
 Erdmannstraße/Heimstraße,0,4.0,Berlin,Germany,15
 Jelbi Charité Campus Benjamin Franklin - Eingang Nord (LIC/EI),6,0.0,Berlin,Germany,15
-**Jelbi S+U Zoologischer Garten/Hardenbergplatz (CHA/HA),7,1.0,Berlin,Germany,15
+**Jelbi S+U Zoologischer Garten/Hardenbergplatz (CHA/HA),8,0.0,Berlin,Germany,15
 Knaackstraße / Rykestraße,1,9.0,Berlin,Germany,15
 U Mehringdamm (Gneisenaustraße/Süd),2,4.0,Berlin,Germany,15
 Jelbi Mohrenstraße/Friedrichstraße (MIT/MO),7,3.0,Berlin,Germany,15
@@ -414,7 +414,7 @@ Fritz-Elsas-Straße/Erfurter Straße,0,4.0,Berlin,Germany,15
 Potsdamer Straße - EDEKA (U Bülowstraße),0,4.0,Berlin,Germany,15
 S Friedenau (Dürerplatz),1,3.0,Berlin,Germany,15
 U Hallesches Tor (Waterloo-Ufer),2,5.0,Berlin,Germany,15
-U Krumme Lanke (EDEKA Zahl),1,3.0,Berlin,Germany,15
+U Krumme Lanke (EDEKA Zahl),0,4.0,Berlin,Germany,15
 S Lichterfelde Ost (Jungfernstieg),1,3.0,Berlin,Germany,15
 Jelbi Schillerpromenade/Leinenstraße (NEU/SL),0,4.0,Berlin,Germany,15
 U Tierpark (Mobilitätsstation),0,3.0,Berlin,Germany,15
@@ -431,7 +431,7 @@ EDEKA Viktoria-Luise-Straße,1,3.0,Berlin,Germany,15
 S Julius-Leber-Brücke (Nordost),6,2.0,Berlin,Germany,15
 Alliiertenmuseum (Clayallee),0,4.0,Berlin,Germany,15
 Große-Leege-Straße/Freienwalder Straße,0,4.0,Berlin,Germany,15
-Jelbi U Platz der Luftbrücke (TEM/PLA),6,4.0,Berlin,Germany,15
+Jelbi U Platz der Luftbrücke (TEM/PLA),5,5.0,Berlin,Germany,15
 Kaulsdorfer Straße/Kleinschewskystraße,2,2.0,Berlin,Germany,15
 Hansastraße (Alexianer St. Joseph-Krankenhaus Berlin-Weißensee),0,4.0,Berlin,Germany,15
 U Tierpark/Nord (Mobilitätsstation),1,5.0,Berlin,Germany,15
@@ -466,11 +466,11 @@ Fischerhüttenstraße/Elvirasteig,1,3.0,Berlin,Germany,15
 Lauterstraße/Perelsplatz,0,4.0,Berlin,Germany,15
 Filehner Straße/Wongrowitzer Steig,0,4.0,Berlin,Germany,15
 Hertha-Block-Promenade/Wilhelm-Kabus-Straße,0,4.0,Berlin,Germany,15
-S Prenzlauer Allee,6,2.0,Berlin,Germany,15
+S Prenzlauer Allee,7,1.0,Berlin,Germany,15
 Gitschiner Straße/Alexandrinenstraße,1,3.0,Berlin,Germany,15
 Bugenhagenstraße/Bremer Straße,0,4.0,Berlin,Germany,15
 Onkel-Tom-Straße/Sven-Hedin-Straße,0,4.0,Berlin,Germany,15
-Jelbi S Treptower Park/Puschkinallee (ATR/PU),3,5.0,Berlin,Germany,15
+Jelbi S Treptower Park/Puschkinallee (ATR/PU),2,6.0,Berlin,Germany,15
 Ueckermünder Straße/Malmöer Straße,0,4.0,Berlin,Germany,15
 Baumschulenstraße/Frauenlobstraße,0,4.0,Berlin,Germany,15
 Pariser Straße/Emser Straße,1,3.0,Berlin,Germany,15
@@ -514,7 +514,7 @@ U Magdalenenstraße (Mobilitätsstation),1,5.0,Berlin,Germany,15
 U Osloer Straße (West),0,3.0,Berlin,Germany,15
 Kucharskistraße/Pascalstraße,1,3.0,Berlin,Germany,15
 Adalbertstraße (Adalbertbrücke),1,2.0,Berlin,Germany,15
-Wohnheim Coppistraße Hans und Hilde Coppi (Nord),0,4.0,Berlin,Germany,15
+Wohnheim Coppistraße Hans und Hilde Coppi (Nord),1,3.0,Berlin,Germany,15
 U Adenauerplatz (Nordost),1,6.0,Berlin,Germany,15
 Oderstraße/Emser Straße,0,4.0,Berlin,Germany,15
 Wegenerstraße/Brandenburgische Straße,1,3.0,Berlin,Germany,15
@@ -528,7 +528,7 @@ Waldstraße (Vivantes - Ambulatorium Seelische Gesundheit - Tagesklinik),1,3.0,B
 Bürgerpark Pankow (Grabbeallee),0,4.0,Berlin,Germany,15
 Stadion Buschallee/Suermondtstraße,0,4.0,Berlin,Germany,15
 Aristotelessteig (6),2,0.0,Berlin,Germany,15
-Jelbi Geschwister-Scholl-Straße/Georgenstraße (MIT/GS),8,4.0,Berlin,Germany,15
+Jelbi Geschwister-Scholl-Straße/Georgenstraße (MIT/GS),7,5.0,Berlin,Germany,15
 S+U Frankfurter Allee/Gürtelstraße,4,0.0,Berlin,Germany,15
 S+U Gesundbrunnen (Bellermannstraße),0,4.0,Berlin,Germany,15
 Rummelsburger Straße/Kraetkestraße,0,4.0,Berlin,Germany,15
@@ -571,7 +571,7 @@ Köpenicker Allee/Rheinstraße,4,0.0,Berlin,Germany,15
 EDEKA Rigaer Straße,1,3.0,Berlin,Germany,15
 EDEKA Berlin Müggelschlößchenweg,0,4.0,Berlin,Germany,15
 Edinburger Straße/Schöningstraße (Mobilitätsstation),0,4.0,Berlin,Germany,15
-Jelbi Eisenacher Straße/Nollendorfstraße (SCH/EI),1,5.0,Berlin,Germany,15
+Jelbi Eisenacher Straße/Nollendorfstraße (SCH/EI),2,4.0,Berlin,Germany,15
 Bäumerplan (Werner-Voß-Damm),1,3.0,Berlin,Germany,15
 Jelbi S+U Friedrichstraße/Georgenstraße (MIT/FG),5,5.0,Berlin,Germany,15
 S Lichterfelde Ost (Lankwitzer Straße),1,3.0,Berlin,Germany,15
@@ -587,7 +587,7 @@ Luitpoldstraße/Eisenacher Straße,1,3.0,Berlin,Germany,15
 Jelbi S Biesdorf (BIE/BI),0,4.0,Berlin,Germany,15
 Jelbi Forum Adlershof (ADL/FOR),1,3.0,Berlin,Germany,15
 Jelbi Fasanerieallee (TIE/FA),0,8.0,Berlin,Germany,15
-**DB Mobility Hub S+U Gesundbrunnen,8,2.0,Berlin,Germany,15
+**DB Mobility Hub S+U Gesundbrunnen,6,4.0,Berlin,Germany,15
 Jelbi U Onkel Toms Hütte/Riemeisterstraße (ZEH/UON),1,3.0,Berlin,Germany,15
 Gradestraße 91,2,2.0,Berlin,Germany,15
 Mohrenstraße/Charlottenstraße (Mobilitätsstation),1,5.0,Berlin,Germany,15
@@ -637,7 +637,7 @@ Jelbi-Punkt Graefestr./Urbanstr.,3,5.0,Berlin,Germany,15
 Ostendstraße/Waldowstraße,2,2.0,Berlin,Germany,15
 Jelbi Lindenhof (LIB/LI),1,9.0,Berlin,Germany,15
 Spiekermannstrase/Prenzlauer Promenade,0,4.0,Berlin,Germany,15
-Reinickendorfer Straße/Wiesenstraße,1,3.0,Berlin,Germany,15
+Reinickendorfer Straße/Wiesenstraße,3,1.0,Berlin,Germany,15
 Jelbi Betriebshof Lichtenberg (LIB/BL),2,1.0,Berlin,Germany,15
 Jelbi Schloßstraße/Muthesiusstraße (STE/SM),2,4.0,Berlin,Germany,15
 Ritterstraße/Prinzenstraße,0,4.0,Berlin,Germany,15
@@ -708,8 +708,8 @@ Mellenseestraße/Dolgenseestraße,0,4.0,Berlin,Germany,15
 Pablo-Neruda-Straße (Müggelheimer Straße),1,3.0,Berlin,Germany,15
 Schleiermacherstraße/Blücherstraße,1,3.0,Berlin,Germany,15
 Medaillonplatz/An der Bucht,0,4.0,Berlin,Germany,15
-S+U Jannowitzbrücke (Süd),5,0.0,Berlin,Germany,15
-S Sonnenallee (Nordwest),1,7.0,Berlin,Germany,15
+S+U Jannowitzbrücke (Süd),4,0.0,Berlin,Germany,15
+S Sonnenallee (Nordwest),0,8.0,Berlin,Germany,15
 Jülicher Straße/Kleverstraße (Mobilitätsstation),1,2.0,Berlin,Germany,15
 Jonasstraße/Ilsestraße,0,4.0,Berlin,Germany,15
 Oberseestraße,3,7.0,Berlin,Germany,15
@@ -730,7 +730,7 @@ Tulpenweg (Goerdelersteg),1,3.0,Berlin,Germany,15
 Wisbyer Straße/Lewaldstraße,2,2.0,Berlin,Germany,15
 Koenigsallee/Delbrückstraße,0,4.0,Berlin,Germany,15
 Josef-Nawrocki-Straße/Müggelseedamm,1,3.0,Berlin,Germany,15
-EDEKA (S+U Schönhauser Allee),3,2.0,Berlin,Germany,15
+EDEKA (S+U Schönhauser Allee),4,1.0,Berlin,Germany,15
 S Wollankstraße (Sternstraße),1,3.0,Berlin,Germany,15
 Werderscher Markt/Schinkelplatz,6,0.0,Berlin,Germany,15
 Amrumer Straße/Brüsseler Straße,0,4.0,Berlin,Germany,15
@@ -743,11 +743,11 @@ Mohrenstraße/Markgrafenstraße (Mobilitätsstation),2,3.0,Berlin,Germany,15
 Jelbi Kienitzer Straße/Schillerpromenade (NEU/KS),1,5.0,Berlin,Germany,15
 Jelbi S+U Tempelhof/Manfred-von-Richthofen-Str (TEM/TE),1,9.0,Berlin,Germany,15
 Buschkrug (Buschkrugallee),0,4.0,Berlin,Germany,15
-U Konstanzer Straße (Süd) ,1,7.0,Berlin,Germany,15
+U Konstanzer Straße (Süd) ,0,8.0,Berlin,Germany,15
 Jelbi U Kochstraße/Puttkamer Straße (KRE/PU),0,4.0,Berlin,Germany,15
 Haarlemer Straße (Neue Späthstraße),0,4.0,Berlin,Germany,15
 Fritz-Wildung-Straße (Stadtbad Wilmersdorf),5,0.0,Berlin,Germany,15
-Jelbi Gabriel-Max-Straße/ Wühlischstraße (FHA/GA),1,5.0,Berlin,Germany,15
+Jelbi Gabriel-Max-Straße/ Wühlischstraße (FHA/GA),2,4.0,Berlin,Germany,15
 U Senefelder Platz (Nord),2,6.0,Berlin,Germany,15
 U Rosa-Luxemburg-Platz/Süd (Mobilitätsstation),0,10.0,Berlin,Germany,15
 Munsterdamm (Sommerbad am Insulaner),0,4.0,Berlin,Germany,15
@@ -759,16 +759,16 @@ S Pichelsberg (Ost),3,1.0,Berlin,Germany,15
 Höchste Straße/Weinstraße,1,3.0,Berlin,Germany,15
 Spandauer Damm (DRK-Kliniken Westend),0,3.0,Berlin,Germany,15
 Stargarder Straße 72 (Mobilitätsstation),0,10.0,Berlin,Germany,15
-Jelbi Tiergarten/Klopstockstraße (TIE/TI),10,2.0,Berlin,Germany,15
+Jelbi Tiergarten/Klopstockstraße (TIE/TI),11,1.0,Berlin,Germany,15
 Reichenhaller Straße/Kolberger Platz (Nordwest),2,2.0,Berlin,Germany,15
 Jelbi Gedenkstätte Berliner Mauer (MIT/BM),0,5.0,Berlin,Germany,15
 S+U Hauptbahnhof (Invalidenstraße/Minna-Cauer-Straße),1,3.0,Berlin,Germany,15
-Havelberger Straße/Stephanstraße,4,0.0,Berlin,Germany,15
+Havelberger Straße/Stephanstraße,3,0.0,Berlin,Germany,15
 Jelbi Dresdner Straße (KRE/DR),2,10.0,Berlin,Germany,15
 U Mierendorffplatz (Brahestraße/Keplerstraße),0,4.0,Berlin,Germany,15
 S Zehlendorf (Süd),2,2.0,Berlin,Germany,15
 Alt-Stralau/Bootsbauerstraße,5,0.0,Berlin,Germany,15
-Jelbi S Ostkreuz/Sonntagstraße (FHA/OS),2,6.0,Berlin,Germany,15
+Jelbi S Ostkreuz/Sonntagstraße (FHA/OS),3,5.0,Berlin,Germany,15
 U Olympia-Stadion (West),2,2.0,Berlin,Germany,15
 Jelbi U Rosenthaler Platz Nord (MIT/RN),4,2.0,Berlin,Germany,15
 Jelbi Johannisgärten (JOH/JO),2,2.0,Berlin,Germany,15
@@ -820,7 +820,7 @@ Triftstraße/Genter Straße (Mobilitätsstation),0,4.0,Berlin,Germany,15
 Schlesische Straße (Mobilitätsstation),0,4.0,Berlin,Germany,15
 Jelbi Freie Universität/Silberlaube (DAH/SI),1,3.0,Berlin,Germany,15
 Siemensstraße/Wattstraße,0,4.0,Berlin,Germany,15
-Schillerstraße/Krumme Straße,0,4.0,Berlin,Germany,15
+Schillerstraße/Krumme Straße,1,3.0,Berlin,Germany,15
 Oberlandstraße/Bacharacher Straße,1,3.0,Berlin,Germany,15
 Saarstraße/Rheinstraße,0,4.0,Berlin,Germany,15
 Köpenicker Landstraße/Schnellerstraße,2,2.0,Berlin,Germany,15
@@ -836,7 +836,7 @@ Bodestraße (Friedrichsbrücke),0,4.0,Berlin,Germany,15
 Palisadenstraße/Strausberger Straße,0,4.0,Berlin,Germany,15
 Samoastraße/Sprengelstraße (Mobilitätsstation),1,3.0,Berlin,Germany,15
 Pankstraße/Wiesenstraße,0,4.0,Berlin,Germany,15
-Rykestraße/Wörther Straße,1,3.0,Berlin,Germany,15
+Rykestraße/Wörther Straße,0,4.0,Berlin,Germany,15
 S Marzahn,0,4.0,Berlin,Germany,15
 Jelbi Katharina-Paulus-Straße/Alt-Moabit (MOA/KA),3,5.0,Berlin,Germany,15
 ZOB Berlin (Südwest),0,4.0,Berlin,Germany,15
@@ -865,7 +865,7 @@ EDEKA Siemensstraße,1,3.0,Berlin,Germany,15
 Kulturforum,2,2.0,Berlin,Germany,15
 U Kurt-Schumacher-Platz (Ost),2,2.0,Berlin,Germany,15
 Köthener Straße/Bernburger Straße (Mobilitätsstation),1,3.0,Berlin,Germany,15
-Boxhagener Platz/Südwest (Mobilitätsstation),1,3.0,Berlin,Germany,15
+Boxhagener Platz/Südwest (Mobilitätsstation),2,2.0,Berlin,Germany,15
 Louise-Schroeder-Platz,1,3.0,Berlin,Germany,15
 Masurenstraße/Mühlenstraße,1,3.0,Berlin,Germany,15
 Tucholskystraße/Linienstraße 2 (Mobilitätsstation),0,4.0,Berlin,Germany,15
@@ -882,12 +882,12 @@ Rennbahnstraße/Roelckestraße,1,3.0,Berlin,Germany,15
 Osloer Straße/Stettiner Straße,2,2.0,Berlin,Germany,15
 Torfstraße/Luxemburger Straße (Mobilitätsstation),0,4.0,Berlin,Germany,15
 Nordhauser Straße/Wernideroder Straße,1,3.0,Berlin,Germany,15
-Jägerstraße/Oberwallstraße (Mobilitätsstation),3,1.0,Berlin,Germany,15
+Jägerstraße/Oberwallstraße (Mobilitätsstation),2,2.0,Berlin,Germany,15
 S Gehrenseestraße,0,4.0,Berlin,Germany,15
 Schegelstraße/Eichendorffstraße (Mobilitätsstation),0,3.0,Berlin,Germany,15
 Jelbi U Südstern/Fontanepromenade (KRE/SUE),0,8.0,Berlin,Germany,15
 virtuell - Ederstraße/Weserstraße,0,4.0,Berlin,Germany,15
-Jelbi U Görlitzer Bahnhof/Manteuffelstraße (KRE/GM),2,10.0,Berlin,Germany,15
+Jelbi U Görlitzer Bahnhof/Manteuffelstraße (KRE/GM),1,11.0,Berlin,Germany,15
 M Platz der Vereinten Nationen,4,2.0,Berlin,Germany,15
 virtuell - Treptower Straße/Wilhelm-Busch-Straße,0,4.0,Berlin,Germany,15
 Jelbi U Walther-Schreiber-Platz / Peschkestraße (FRI/PE),0,1.0,Berlin,Germany,15
@@ -899,7 +899,7 @@ Schnellerstraße/Hainstraße,0,4.0,Berlin,Germany,15
 Jelbi U Friedrichsfelde (FRF/FR),0,6.0,Berlin,Germany,15
 Rathaus Tiergarten (U Turmstraße),0,7.0,Berlin,Germany,15
 Straße zum FEZ (Mahnmal gegen Kindesmissbrauch),0,4.0,Berlin,Germany,15
-S Westend (Spandauer Damm),8,0.0,Berlin,Germany,15
+S Westend (Spandauer Damm),9,0.0,Berlin,Germany,15
 Am Berg (Wendenschloßstraße),0,4.0,Berlin,Germany,15
 Durstexpress HQ,0,4.0,Berlin,Germany,15
 Gubener Straße/Torellstraße,4,0.0,Berlin,Germany,15
@@ -924,18 +924,18 @@ Albrechtstraße/Klingsorstraße,1,3.0,Berlin,Germany,15
 Jelbi Simon-Dach-Straße/ Revaler Straße (FHA/SI),1,4.0,Berlin,Germany,15
 Mellenseestraße/Sewanstraße (Nord),0,4.0,Berlin,Germany,15
 Fritschestraße/Haubachstraße,0,4.0,Berlin,Germany,15
-Jelbi U Boddinstraße (NEU/BO),7,3.0,Berlin,Germany,15
+Jelbi U Boddinstraße (NEU/BO),6,4.0,Berlin,Germany,15
 Helmholtzstraße/Fritz-Kirsch-Zeile,2,2.0,Berlin,Germany,15
 Erich-Weinert-Straße/Greifenhagener Straße,0,4.0,Berlin,Germany,15
 U Schlesisches Tor (Nord),0,8.0,Berlin,Germany,15
-Jelbi Schillerstraße/Wilmersdorfer Straße (CHA/SC),0,6.0,Berlin,Germany,15
+Jelbi Schillerstraße/Wilmersdorfer Straße (CHA/SC),1,5.0,Berlin,Germany,15
 Weserstraße/Nansenstraße,3,1.0,Berlin,Germany,15
 Glienicker Straße (Grünauer Straße),0,4.0,Berlin,Germany,15
 Rüdigerstraße/Atzpodienstraße,0,4.0,Berlin,Germany,15
 Homburger Straße/Ahrweilerstraße,0,4.0,Berlin,Germany,15
 virtuell - Richardstraße/Böhmische Straße,1,3.0,Berlin,Germany,15
 Jelbi Monbijouplatz (MIT/MB),2,8.0,Berlin,Germany,15
-Jelbi Rathausstraße/Berliner Fernsehturm (MIT/RB),3,7.0,Berlin,Germany,15
+Jelbi Rathausstraße/Berliner Fernsehturm (MIT/RB),4,6.0,Berlin,Germany,15
 Schloßstraße/Braillestraße,0,4.0,Berlin,Germany,15
 Jelbi Oranienplatz/Naunynstraße (KRE/ON),2,9.0,Berlin,Germany,15
 Kurfürstendamm/Bornstedter Straße,1,3.0,Berlin,Germany,15
@@ -986,7 +986,7 @@ Jelbi Trebbiner Straße (KRE/TR),1,9.0,Berlin,Germany,15
 Haus der Kulturen,0,4.0,Berlin,Germany,15
 Maßmannstraße/Kreuznacher Straße,1,3.0,Berlin,Germany,15
 Wattstraße/Fritz-Kirsch-Zeile,0,4.0,Berlin,Germany,15
-Schlesische Straße/Falckensteinstraße (Süd),2,2.0,Berlin,Germany,15
+Schlesische Straße/Falckensteinstraße (Süd),0,4.0,Berlin,Germany,15
 Weimaer Straße/Goethestraße,1,5.0,Berlin,Germany,15
 Max-Schmeling-Halle,1,9.0,Berlin,Germany,15
 M Scheffelstraße (Paul-Junius-Straße),1,3.0,Berlin,Germany,15
@@ -1003,7 +1003,7 @@ Jelbi Mauerstraße/Taubenstraße (MIT/MT),0,3.0,Berlin,Germany,15
 EDEKA Jenaerstraße,0,4.0,Berlin,Germany,15
 Emserstraße/Altenbraker Straße,0,4.0,Berlin,Germany,15
 S Treptower Park (Südost),1,5.0,Berlin,Germany,15
-Modersohnstraße (Am Rudolfplatz),5,0.0,Berlin,Germany,15
+Modersohnstraße (Am Rudolfplatz),6,0.0,Berlin,Germany,15
 U Borsigwerke (Südost),0,4.0,Berlin,Germany,15
 S Köllnische Heide (Nord),4,0.0,Berlin,Germany,15
 Gontermannstraße/Wüsthoffstraße,1,3.0,Berlin,Germany,15
@@ -1012,7 +1012,7 @@ Ringstraße/Kurfürstenstraße,0,4.0,Berlin,Germany,15
 Storkower Straße/Einsteinstraße,3,1.0,Berlin,Germany,15
 Neumannstraße/Jenny-Lind-Straße,0,4.0,Berlin,Germany,15
 Schützenstraße (ALBA Berlin Trainingszentrum),0,4.0,Berlin,Germany,15
-Merseburger Straße/Apostel-Paulus-Straße,1,3.0,Berlin,Germany,15
+Merseburger Straße/Apostel-Paulus-Straße,2,2.0,Berlin,Germany,15
 Joachimstraße/Annenallee,0,4.0,Berlin,Germany,15
 U Warschauer Straße (Süd),1,7.0,Berlin,Germany,15
 Jelbi Dieffenbachstr./Grimmstr. (KRE/DG),2,8.0,Berlin,Germany,15
@@ -1048,7 +1048,7 @@ Grüntaler Straße/Bellermannstraße,0,4.0,Berlin,Germany,15
 U Rathaus Neukölln (Schönstedtstraße),4,4.0,Berlin,Germany,15
 Jelbi U Rosenthaler Platz Süd (MIT/RS),5,4.0,Berlin,Germany,15
 Jelbi Behrenstraße/Glinkastraße (MIT/BG),2,2.0,Berlin,Germany,15
-**Jelbi S Warschauer Straße (FHA/WA),3,12.0,Berlin,Germany,15
+**Jelbi S Warschauer Straße (FHA/WA),13,2.0,Berlin,Germany,15
 Seelenbinderstraße/Puchanstraße,0,4.0,Berlin,Germany,15
 U Ruhleben (Nordost),1,3.0,Berlin,Germany,15
 Samoastraße/Triftstraße (Mobilitätsstation),0,4.0,Berlin,Germany,15
@@ -1101,7 +1101,7 @@ Spreestraße (Müggelseedamm),0,4.0,Berlin,Germany,15
 Freiaplatz (Rüdigerstraße),0,4.0,Berlin,Germany,15
 Deutschhofer Allee (Kaulsdorfer Straße),1,3.0,Berlin,Germany,15
 M Herzbergstraße/Industriegebiet,0,4.0,Berlin,Germany,15
-S Charlottenburg (Südwest),2,2.0,Berlin,Germany,15
+S Charlottenburg (Südwest),1,3.0,Berlin,Germany,15
 Köpenicker Straße/Verlängerte Köpenicker Straße,0,4.0,Berlin,Germany,15
 Tucholskystraße (Mobilitätsstation),3,1.0,Berlin,Germany,15
 Weidenweg (105a),0,4.0,Berlin,Germany,15
@@ -1110,7 +1110,7 @@ Jordanstraße/Bouchéstraße,1,3.0,Berlin,Germany,15
 Muskauerstraße/Manteuffelstraße,0,3.0,Berlin,Germany,15
 Jelbi Gendarmenmarkt/Jägerstraße (MIT/GD),6,2.0,Berlin,Germany,15
 Ahornallee/Eichenallee,0,4.0,Berlin,Germany,15
-Tschaikowskistraße (Grabbeallee),3,1.0,Berlin,Germany,15
+Tschaikowskistraße (Grabbeallee),4,0.0,Berlin,Germany,15
 Mannheimer Straße/Berliner Straße,0,4.0,Berlin,Germany,15
 U Sophie-Charlotte-Platz (Nordwest),0,6.0,Berlin,Germany,15
 EDEKA Albrechtstraße (Plantagenstraße),0,4.0,Berlin,Germany,15
@@ -1152,12 +1152,12 @@ Ottomar-Geschke-Straße (Dörpfeldstraße),0,4.0,Berlin,Germany,15
 Im Dol (Pacelliallee),0,4.0,Berlin,Germany,15
 EDEKA Genthiner Straße,0,4.0,Berlin,Germany,15
 EDEKA Hannemann (Bizetstraße),2,2.0,Berlin,Germany,15
-U Leopoldplatz (Süd) Job Center/Bibliothek,2,2.0,Berlin,Germany,15
+U Leopoldplatz (Süd) Job Center/Bibliothek,1,3.0,Berlin,Germany,15
 Amt für Gesundheit und Verbraucherschutz (Mobilitätsstation),0,4.0,Berlin,Germany,15
 S Lichterfelde West (Knesebeckstraße),1,3.0,Berlin,Germany,15
 Licht- und Luftbad Müggelsee,0,4.0,Berlin,Germany,15
-Damaschkestraße/Hektorstraße,7,0.0,Berlin,Germany,15
-Seumestraße/Wühlischstraße,1,3.0,Berlin,Germany,15
+Damaschkestraße/Hektorstraße,8,0.0,Berlin,Germany,15
+Seumestraße/Wühlischstraße,0,4.0,Berlin,Germany,15
 Feuerbachstraße/Körnerstraße,0,4.0,Berlin,Germany,15
 Lehrter Straße (51),1,3.0,Berlin,Germany,15
 EDEKA Treugut (Heidelberger Straße),0,4.0,Berlin,Germany,15
@@ -1223,7 +1223,7 @@ EDEKA Ulrich (Bernauer Straße),0,4.0,Berlin,Germany,15
 Leuthener Straße/Leberstraße,1,3.0,Berlin,Germany,15
 S+U Heidelberger Platz,0,10.0,Berlin,Germany,15
 Bochumer Straße/Essener Straße,0,4.0,Berlin,Germany,15
-HTW Campus Berlin Haus F,3,7.0,Berlin,Germany,15
+HTW Campus Berlin Haus F,2,8.0,Berlin,Germany,15
 Balatonstraße (Lichtenberg),0,4.0,Berlin,Germany,15
 Jelbi Klinikum Am Urban/Planufer (KRE/KL),6,0.0,Berlin,Germany,15
 Hagenstraße/Richard-Strauss-Straße,0,4.0,Berlin,Germany,15
@@ -1288,7 +1288,7 @@ Florastraße/Görschstraße,0,4.0,Berlin,Germany,15
 Jelbi Behrenstraße/Wilhelmstraße (MIT/BE),8,2.0,Berlin,Germany,15
 EDEKA Reske (Frankfurter Allee),0,4.0,Berlin,Germany,15
 Kranoldplatz (Bruno-Bauer-straße),0,4.0,Berlin,Germany,15
-Bouchéstraße/Harzer Straße,0,4.0,Berlin,Germany,15
+Bouchéstraße/Harzer Straße,1,3.0,Berlin,Germany,15
 Fritz-Elsas-Straße/Innsbrucker Straße,0,4.0,Berlin,Germany,15
 EDEKA Haase (Salzbrunner Straße),1,3.0,Berlin,Germany,15
 S+U Karl-Bonhoeffer-Nervenklinik (Oranienburger Straße/West),0,4.0,Berlin,Germany,15
@@ -1308,7 +1308,7 @@ Körnerpark (Jonasstraße/Wittmannsdorfer Straße),0,4.0,Berlin,Germany,15
 Jelbi Bundesdruckerei (KRE/BU),0,10.0,Berlin,Germany,15
 Fidcinstraße / Friesenstraße (Mobilitätsstation),0,4.0,Berlin,Germany,15
 Uber Platz (Nord-Ost),1,3.0,Berlin,Germany,15
-Friedrichsstraße/Schützenstraße/Ost (Mobilitätsstation),0,6.0,Berlin,Germany,15
+Friedrichsstraße/Schützenstraße/Ost (Mobilitätsstation),1,5.0,Berlin,Germany,15
 Fredersdorfer Straße/Marchlewskistraße,0,4.0,Berlin,Germany,15
 S Wuhlheide,0,4.0,Berlin,Germany,15
 S+U Westhafen (Friedrich-Krause-Ufer),0,3.0,Berlin,Germany,15
@@ -1321,12 +1321,12 @@ Preußenallee/Westendallee (Johanna-Moosdorf-Bibliothek),2,2.0,Berlin,Germany,15
 Rathausstraße/Prühstraße,0,4.0,Berlin,Germany,15
 Döberitzer Verbindung (Vabali),4,0.0,Berlin,Germany,15
 S Nöldnerplatz ,0,6.0,Berlin,Germany,15
-Jelbi Zietenplatz (MIT/ZP),5,3.0,Berlin,Germany,15
+Jelbi Zietenplatz (MIT/ZP),6,2.0,Berlin,Germany,15
 Jelbi- S Landsberger Allee/SSE (PRE/LA),1,4.0,Berlin,Germany,15
 Sewanstraße/Volkradstraße,0,4.0,Berlin,Germany,15
 Forckenbeckstraße (Sommerbad Wilmersdorf),2,1.0,Berlin,Germany,15
 Wartburgstraße/Salzburger Straße,0,4.0,Berlin,Germany,15
-Werner-Voß-Damm/Gontermannstraße,0,4.0,Berlin,Germany,15
+Werner-Voß-Damm/Gontermannstraße,1,3.0,Berlin,Germany,15
 Stargarder Straße/Dunckerstraße,0,3.0,Berlin,Germany,15
 Lehmbruckstraße,1,3.0,Berlin,Germany,15
 S Hermannstraße (Südost),0,4.0,Berlin,Germany,15
@@ -1411,7 +1411,7 @@ Albestraße/Handjerystraße,0,4.0,Berlin,Germany,15
 Seelenbinderstraße/Weinbergstraße,0,4.0,Berlin,Germany,15
 Jelbi Admiralbrücke (KRE/ADM),6,5.0,Berlin,Germany,15
 virtuell - Böhmischer Platz (Süd),1,3.0,Berlin,Germany,15
-EDEKA Kollwitzstraße,2,8.0,Berlin,Germany,15
+EDEKA Kollwitzstraße,3,7.0,Berlin,Germany,15
 Jelbi U Podbielskiallee (DAH/UP),0,5.0,Berlin,Germany,15
 Berliner Allee/Rennbahnstraße,4,0.0,Berlin,Germany,15
 Steglitzer Damm/Sedanstraße,1,3.0,Berlin,Germany,15
@@ -1437,10 +1437,10 @@ Jelbi Landsberger Allee/Danziger str. (FHA/LD),1,7.0,Berlin,Germany,15
 EDEKA Brehm (Mahlsdorfer Straße),2,2.0,Berlin,Germany,15
 Olympiastadion (Süd),0,4.0,Berlin,Germany,15
 Schleizer Straße/Arendsweg,1,3.0,Berlin,Germany,15
-Minna-Flake-Platz,1,3.0,Berlin,Germany,15
-Jelbi S+U Rathaus Steglitz/Berlinickestraße (STE/RAT),2,12.0,Berlin,Germany,15
+Minna-Flake-Platz,0,4.0,Berlin,Germany,15
+Jelbi S+U Rathaus Steglitz/Berlinickestraße (STE/RAT),3,11.0,Berlin,Germany,15
 Segelfliegerdamm/Alter Segelfliegerdamm,0,4.0,Berlin,Germany,15
-S Beusselstraße (Südost),0,8.0,Berlin,Germany,15
+S Beusselstraße (Südost),1,7.0,Berlin,Germany,15
 Sonnenallee/Baumschulenstraße,0,4.0,Berlin,Germany,15
 U Bernauer Straße (Rheinsberger Straße),8,2.0,Berlin,Germany,15
 Sewanstraße/Michiganseestraße,5,0.0,Berlin,Germany,15
@@ -1449,7 +1449,7 @@ S Landsberger Allee (Storkower Straße),0,4.0,Berlin,Germany,15
 M Altenhofer Straße (Mittelstraße),0,4.0,Berlin,Germany,15
 Danziger Straße/Lychener Straße,6,4.0,Berlin,Germany,15
 Jelbi Otto-Braun-Straße/Alexanderstraße (MIT/OT),3,15.0,Berlin,Germany,15
-U Theodor-Heuss-Platz,1,3.0,Berlin,Germany,15
+U Theodor-Heuss-Platz,0,4.0,Berlin,Germany,15
 Smetanastraße/Gounodstraße,0,4.0,Berlin,Germany,15
 Gotlindestraße/Schottstraße,2,2.0,Berlin,Germany,15
 Willibald-Alexis-Straße/Friesenstraße,0,4.0,Berlin,Germany,15
@@ -1503,15 +1503,15 @@ Stadtbad Charlottenburg (Alte Halle),0,4.0,Berlin,Germany,15
 S Biesdorf (Süd),0,4.0,Berlin,Germany,15
 Jelbi Herrfurthplatz West (NEU/HW),2,7.0,Berlin,Germany,15
 **Jelbi S+U Hauptbahnhof/Europaplatz Ost (MOA/EO),1,7.0,Berlin,Germany,15
-Siegfriedstraße/Ilsestraße,0,4.0,Berlin,Germany,15
-S Rummelsburg (Nöldnerstraße),2,3.0,Berlin,Germany,15
+Siegfriedstraße/Ilsestraße,1,3.0,Berlin,Germany,15
+S Rummelsburg (Nöldnerstraße),1,4.0,Berlin,Germany,15
 S Schöneberg (West),0,8.0,Berlin,Germany,15
 M Siemensstraße/Nalepastraße,0,4.0,Berlin,Germany,15
 Maybachufer (Harzer Straße),0,8.0,Berlin,Germany,15
 Steffelbauerstraße/An der Wuhlheide,2,2.0,Berlin,Germany,15
 Hönower Wiesenweg/Blockdammweg,1,3.0,Berlin,Germany,15
 Goßlerstraße/Stubenrauchstraße,1,3.0,Berlin,Germany,15
-Ritterstraße/Alte Jakobstraße,1,4.0,Berlin,Germany,15
+Ritterstraße/Alte Jakobstraße,0,5.0,Berlin,Germany,15
 M Danziger Straße/Prenzlauer Allee (Ost),5,5.0,Berlin,Germany,15
 U Rüdesheimer Platz (Nord),0,4.0,Berlin,Germany,15
 Hildegardstraße/Schrammstraße,0,4.0,Berlin,Germany,15
@@ -1549,13 +1549,13 @@ Minna-Todenhagen-Straße/Nalepastraße,0,4.0,Berlin,Germany,15
 S Schöneberg (Gustav-Freytag-Straße),0,4.0,Berlin,Germany,15
 U Nauener Platz,3,0.0,Berlin,Germany,15
 Oderbergerstraße 1 (Mobilitätsstation),1,9.0,Berlin,Germany,15
-Marheinekeplatz,1,6.0,Berlin,Germany,15
-Grazer Damm/Grazer Platz,0,4.0,Berlin,Germany,15
+Marheinekeplatz,0,7.0,Berlin,Germany,15
+Grazer Damm/Grazer Platz,1,3.0,Berlin,Germany,15
 Mühlendamm/Spreeufer,1,3.0,Berlin,Germany,15
 S Friedrichshagen (Fürstenwalder Damm),0,4.0,Berlin,Germany,15
 **Treskowallee/Römerweg (HTW Berlin),0,4.0,Berlin,Germany,15
 Alte Jakobstraße/Sebastianstraße,1,2.0,Berlin,Germany,15
-Jelbi Oberbaumbrücke (FHA/OB),4,8.0,Berlin,Germany,15
+Jelbi Oberbaumbrücke (FHA/OB),3,9.0,Berlin,Germany,15
 Wollankstraße 2 (Mobilitätsstation),0,4.0,Berlin,Germany,15
 Jelbi U Görlitzer Bahnhof/Skalitzer Straße (KRE/GS) ,5,1.0,Berlin,Germany,15
 Schlangenbader Straße/Homburger Straße,1,3.0,Berlin,Germany,15
@@ -1587,7 +1587,7 @@ EDEKA Danckelmannstraße,0,4.0,Berlin,Germany,15
 Weserstraße/Jungstraße,0,4.0,Berlin,Germany,15
 Bossestraße/Corinthstraße,0,3.0,Berlin,Germany,15
 Müllerstraße/Utrechter Straße,0,4.0,Berlin,Germany,15
-Martin-Opitz-Straße/Gottschedstraße,2,2.0,Berlin,Germany,15
+Martin-Opitz-Straße/Gottschedstraße,3,1.0,Berlin,Germany,15
 Prinzregentenstraße (Volkshochschule City West),0,4.0,Berlin,Germany,15
 Linienstraße/Tucholskystraße 1 (Mobilitätsstation),1,3.0,Berlin,Germany,15
 Berliner Straße/Hallandstraße,0,4.0,Berlin,Germany,15
@@ -1614,7 +1614,7 @@ Jelbi Messe/City Cube (WES/CI),2,5.0,Berlin,Germany,15
 Jelbi U Museumsinsel (MIT/UM),7,3.0,Berlin,Germany,15
 Sophienstraße/Weitlingstraße,2,2.0,Berlin,Germany,15
 Campus ESCP (Heubnerweg/Pulsstraße),0,4.0,Berlin,Germany,15
-EDEKA Straßburger Straße,0,4.0,Berlin,Germany,15
+EDEKA Straßburger Straße,1,3.0,Berlin,Germany,15
  Jelbi Klinikum Am Urban/Dieffenbachstraße (KRE/KD),0,5.0,Berlin,Germany,15
 Rummelsburger Straße/Robert-Uhrig-Straße,0,4.0,Berlin,Germany,15
 EDEKA am Südkreuz (Hedwig-Dohm-Straße),0,4.0,Berlin,Germany,15
@@ -1634,9 +1634,9 @@ U Grenzallee,2,2.0,Berlin,Germany,15
 Hartmannsweilerweg (Fischerhüttenstraße),1,3.0,Berlin,Germany,15
 S Bundesplatz (Südwest),2,2.0,Berlin,Germany,15
 Betriebshof Köpenick (Wendenschloßstraße),1,3.0,Berlin,Germany,15
-Friedrichsstraße/Schützenstraße/West (Mobilitätsstation),2,4.0,Berlin,Germany,15
+Friedrichsstraße/Schützenstraße/West (Mobilitätsstation),1,5.0,Berlin,Germany,15
 Ehrlichstraße/Liepnitzstraße,1,3.0,Berlin,Germany,15
-S Rummelsburg (Süd),1,3.0,Berlin,Germany,15
+S Rummelsburg (Süd),0,4.0,Berlin,Germany,15
 Wilhelminenhofstraße/Rathenaustraße,2,2.0,Berlin,Germany,15
 U Frankfurter Tor (Südwest),1,7.0,Berlin,Germany,15
 Cheruskerstraße/Roßbachstraße,1,3.0,Berlin,Germany,15
@@ -1683,7 +1683,7 @@ S Köpenick (Süd),0,6.0,Berlin,Germany,15
 Frankfurter Allee (Sana Klinikum Lichtenberg),0,4.0,Berlin,Germany,15
 Jelbi Libauer Straße/ Kopernikusstraße (FHA/LK),4,1.0,Berlin,Germany,15
 EDEKA Peth (Berliner Allee),1,3.0,Berlin,Germany,15
-Köpenicker Straße/Am Köllnischen Park (Mobilitätsstation),1,8.0,Berlin,Germany,15
+Köpenicker Straße/Am Köllnischen Park (Mobilitätsstation),2,7.0,Berlin,Germany,15
 Weserstraße/Innstraße,3,0.0,Berlin,Germany,15
 Richardstraße/Kirchgasse,0,4.0,Berlin,Germany,15
 EDEKA Simon (Levetzowstraße),0,4.0,Berlin,Germany,15
@@ -1734,7 +1734,7 @@ Lahnstraße/Naumburger Straße,1,3.0,Berlin,Germany,15
 Jelbi Bundesministerium der Finanzen (MIT/BF),0,5.0,Berlin,Germany,15
 Münsterlandstraße/Eitelstraße,0,4.0,Berlin,Germany,15
 Hänselstraße/Heidekampweg,0,4.0,Berlin,Germany,15
-Jelbi U Samariterstraße/Silvio-Meier-Straße (FHA/SL),4,0.0,Berlin,Germany,15
+Jelbi U Samariterstraße/Silvio-Meier-Straße (FHA/SL),5,0.0,Berlin,Germany,15
 Seestraße (Heideglühen/West),0,4.0,Berlin,Germany,15
 Jelbi S Hackescher Markt (MIT/HM),5,7.0,Berlin,Germany,15
 Pankstraße/Böttgerstraße,0,4.0,Berlin,Germany,15
@@ -1743,7 +1743,7 @@ Volkshochschule Berlin-Lichtenberg,0,4.0,Berlin,Germany,15
 EDEKA Ritterstraße,0,4.0,Berlin,Germany,15
 S Karlshorst (Theatergasse),1,3.0,Berlin,Germany,15
 Bodelschwinghstraße/Rinkartstraße,0,4.0,Berlin,Germany,15
-Jelbi S+U Hauptbahnhof/Europaplatz (Ersatzstandort) (MOA/EU),12,0.0,Berlin,Germany,15
+Jelbi S+U Hauptbahnhof/Europaplatz (Ersatzstandort) (MOA/EU),11,0.0,Berlin,Germany,15
 EDEKA Schatz (Miraustraße),0,4.0,Berlin,Germany,15
 Klingelhöferstraße,2,2.0,Berlin,Germany,15
 Reichstagsufer/Paul-Löbe-Allee,2,4.0,Berlin,Germany,15
@@ -1796,7 +1796,7 @@ Groß-Berliner Damm/Greifstraße,0,4.0,Berlin,Germany,15
 Fontanestraße/An der Wuhlheide,2,2.0,Berlin,Germany,15
 Luxemburger Straße (Campusbibliothek),3,1.0,Berlin,Germany,15
 S Hohenzollerndamm (Süd),0,8.0,Berlin,Germany,15
-Friedrichsstraße/Schützenstraße/Süd (Mobilitätsstation),1,5.0,Berlin,Germany,15
+Friedrichsstraße/Schützenstraße/Süd (Mobilitätsstation),2,4.0,Berlin,Germany,15
 S Baumschulenweg (Südost),1,3.0,Berlin,Germany,15
 Messelstraße (Clayallee),0,4.0,Berlin,Germany,15
 Vorarlberger Damm/Grazer Damm,2,2.0,Berlin,Germany,15
@@ -1806,7 +1806,7 @@ Friedensplatz (Albrechtstraße),0,4.0,Berlin,Germany,15
 EDEKA Urbschat (U Siemensdamm),2,2.0,Berlin,Germany,15
 EDEKA Bergmannstraße,0,5.0,Berlin,Germany,15
 Richardstraße/Herrnhuter Weg,0,3.0,Berlin,Germany,15
-**Jelbi S+U Hauptbahnhof/Europaplatz West (MOA/EW),30,0.0,Berlin,Germany,15
+**Jelbi S+U Hauptbahnhof/Europaplatz West (MOA/EW),31,0.0,Berlin,Germany,15
 Botanischer Garten,3,1.0,Berlin,Germany,15
 Jelbi Eingang Crashgate (NEU/EI),0,10.0,Berlin,Germany,15
 S Schlachtensee (Süd),0,4.0,Berlin,Germany,15
@@ -1817,13 +1817,13 @@ U Borsigwerke (Südwest),0,4.0,Berlin,Germany,15
 Transvaalstraße/Afrikanische Straße,0,4.0,Berlin,Germany,15
 Jelbi U Nollendorfplatz (SCH/NOL1),0,10.0,Berlin,Germany,15
 Landsberger Allee (Schwimmhalle Anton-Seafow-Platz),0,4.0,Berlin,Germany,15
-Jelbi Jägerstraße/Friedrichstraße (MIT/JA),2,6.0,Berlin,Germany,15
+Jelbi Jägerstraße/Friedrichstraße (MIT/JA),1,7.0,Berlin,Germany,15
 Püttbergeweg (Fürstenwalder Allee),0,4.0,Berlin,Germany,15
 Jelbi-Punkt Herrfurthplatz Ost (NEU/HO),2,8.0,Berlin,Germany,15
 Richard-Ermisch-Straße/Zur Marktflagge,0,4.0,Berlin,Germany,15
 Stromstraße (IPU / Lessingbrücke),1,3.0,Berlin,Germany,15
 Rudower Chaussee/Hermann-Dorner-Allee,1,3.0,Berlin,Germany,15
-Jelbi Kleine Rosenthaler Straße/Steinstraße (MIT/RO),8,0.0,Berlin,Germany,15
+Jelbi Kleine Rosenthaler Straße/Steinstraße (MIT/RO),7,1.0,Berlin,Germany,15
 Griechische Allee/Edisonstraße,1,3.0,Berlin,Germany,15
 Tucholskystraße/Torstraße (Mobilitätsstation),1,3.0,Berlin,Germany,15
 Rummelsburger Straße/Sewanstraße,0,3.0,Berlin,Germany,15
@@ -1862,7 +1862,7 @@ M Zechliner Straße (Landsberger Allee),0,4.0,Berlin,Germany,15
 Jelbi Tieckstraße/Eichendorffstraße (MIT/EI),2,3.0,Berlin,Germany,15
 EDEKA Vaupel (Fuldastraße),0,4.0,Berlin,Germany,15
 Zenner,5,0.0,Berlin,Germany,15
-Jelbi U Weinmeisterstraße/Gormannstraße (MIT/GO),1,7.0,Berlin,Germany,15
+Jelbi U Weinmeisterstraße/Gormannstraße (MIT/GO),0,8.0,Berlin,Germany,15
 Fehrbelliner Straße/Veteranenstraße (Mobilitätsstation,0,4.0,Berlin,Germany,15
 Jelbi Adalbertstraße/Naunynstraße (KRE/AN),2,6.0,Berlin,Germany,15
 Scharmweberstraße/Drachholzstraße,0,4.0,Berlin,Germany,15
@@ -1871,7 +1871,7 @@ S Poelchaustraße,1,3.0,Berlin,Germany,15
 Mecklenburgische Straße/Rudolf-Mosse-Straße,2,2.0,Berlin,Germany,15
 U Eisenacher Straße (Schwäbische Straße),1,6.0,Berlin,Germany,15
 Jelbi Herrfurthstraße (NEU/HE),0,12.0,Berlin,Germany,15
-Jelbi Jägerstraße/Friedrichstraße (MIT/JA),3,9.0,Berlin,Germany,15
+Jelbi Jägerstraße/Friedrichstraße (MIT/JA),4,8.0,Berlin,Germany,15
 S Grunewald (West),0,4.0,Berlin,Germany,15
 U Seestraße (Nordwest),0,4.0,Berlin,Germany,15
 M Danziger Straße/Winsstraße,7,3.0,Berlin,Germany,15
@@ -1880,7 +1880,7 @@ Weserstraße/Roseggerstraße,0,4.0,Berlin,Germany,15
 M Leoperplatz (Möllendorffstraße),0,4.0,Berlin,Germany,15
 S Adlershof (Weerthstraße),0,4.0,Berlin,Germany,15
 Bundesratufer/Krefelder Straße,0,4.0,Berlin,Germany,15
-S Köllnische Heide (Planetenstraße),1,4.0,Berlin,Germany,15
+S Köllnische Heide (Planetenstraße),0,5.0,Berlin,Germany,15
 Berthelsdorfer Straße/Richardstraße,2,2.0,Berlin,Germany,15
 Haushoferstraße/Königsheideweg,0,4.0,Berlin,Germany,15
 Aronsstraße (Weiße Siedlung),0,4.0,Berlin,Germany,15
@@ -1957,7 +1957,7 @@ Rahnsdorf/Waldschänke,0,4.0,Berlin,Germany,15
 Soldiner Straße/Provinzstraße,0,4.0,Berlin,Germany,15
 Vorarlberger Damm (Sportplatz),2,2.0,Berlin,Germany,15
 Flughafenstraße/IsarStraße,2,1.0,Berlin,Germany,15
-EDEKA Zahl (Dovestraße),1,3.0,Berlin,Germany,15
+EDEKA Zahl (Dovestraße),0,4.0,Berlin,Germany,15
 Müggelschlößchenweg/Erwin-Bock-Straße,0,4.0,Berlin,Germany,15
 Bänschstraße/Voigtstraße,0,4.0,Berlin,Germany,15
 Jelbi Bundeswehrkrankenhaus (MIT/BW),7,0.0,Berlin,Germany,15
@@ -1966,23 +1966,23 @@ Görlitzer Straße (Landwehrkanal),0,4.0,Berlin,Germany,15
 EDEKA Hennig (Lehrter Straße),1,2.0,Berlin,Germany,15
 S Schönhauser Allee (Nordost) ,1,7.0,Berlin,Germany,15
 S Priesterweg (Nord),0,4.0,Berlin,Germany,15
-Jelbi U Kottbusser Tor/Zentrum Kreuzberg (KRE/KO),3,9.0,Berlin,Germany,15
+Jelbi U Kottbusser Tor/Zentrum Kreuzberg (KRE/KO),4,8.0,Berlin,Germany,15
 Koenigsallee/Erdener Straße,0,4.0,Berlin,Germany,15
 Wirmerzeile (Reichweindamm),0,4.0,Berlin,Germany,15
 Görlitzer Straße/Falckensteinstraße (Mobilitätsstation),1,3.0,Berlin,Germany,15
 Jelbi Freie Universität/Koserstraße (DAH/KO),0,4.0,Berlin,Germany,15
 Alt-Stralau/Fischzug,0,3.0,Berlin,Germany,15
 Königin-Luise-Straße/Englerallee,2,2.0,Berlin,Germany,15
-Schmollerplatz,0,4.0,Berlin,Germany,15
+Schmollerplatz,1,3.0,Berlin,Germany,15
 U Nonnendammallee (Nordwest),0,4.0,Berlin,Germany,15
-HTW CAMPUS Schöneweide (Osmar-Klemm-Straße/Peter-Behrens-Straße),3,1.0,Berlin,Germany,15
+HTW CAMPUS Schöneweide (Osmar-Klemm-Straße/Peter-Behrens-Straße),4,0.0,Berlin,Germany,15
 Theodor-Heuss-Platz/Masurenallee,0,4.0,Berlin,Germany,15
 Leipziger Straße/Markgrafenstraße,2,4.0,Berlin,Germany,15
 Neue Bahnhofstraße/Boxhagener Straße (Süd),0,3.0,Berlin,Germany,15
 Verwaltungsstandort Lichtenberg,0,4.0,Berlin,Germany,15
 VRAO 434 - Glasgower Straße/Dubliner Straße (Abstellfläche Mikromobilität),0,4.0,Berlin,Germany,15
 U Paracelsus-Bad (Südwest),0,4.0,Berlin,Germany,15
-Jelbi Graefestraße/Planufer (KRE/GP),5,6.0,Berlin,Germany,15
+Jelbi Graefestraße/Planufer (KRE/GP),3,8.0,Berlin,Germany,15
 U Bundestag (Nord),2,2.0,Berlin,Germany,15
 Jelbi U Amrumer Straße (WED/AMR),4,3.0,Berlin,Germany,15
 Schöneberger Straße/Ringbahnstraße,0,6.0,Berlin,Germany,15
@@ -1990,7 +1990,7 @@ EDEKA Otto-Suhr-Allee (U Richard-Wagner-Platz),0,4.0,Berlin,Germany,15
 Fröbelstraße/Diesterwegstraße,1,3.0,Berlin,Germany,15
 Lützowstraße/Potsdamer Straße (Mobilitätsstation),5,1.0,Berlin,Germany,15
 Emserstraße/Neißestraße,0,4.0,Berlin,Germany,15
-Jelbi Volksbühne (MIT/VB),12,0.0,Berlin,Germany,15
+Jelbi Volksbühne (MIT/VB),13,0.0,Berlin,Germany,15
 Gartenstraße (Stadtbad Mitte),2,2.0,Berlin,Germany,15
 Krankenhaus Köpenick (Schleife),0,4.0,Berlin,Germany,15
 Lobeckstraße/Moritzstraße,0,4.0,Berlin,Germany,15
@@ -2000,7 +2000,7 @@ Firlstraße/Wilhelminenstraße,1,3.0,Berlin,Germany,15
 Vorarlberger Damm/Rubensstraße,0,4.0,Berlin,Germany,15
 Mühlenstraße Uber Platz (Mobilitätsstation),0,4.0,Berlin,Germany,15
 Tschaikowskistraße (Grabbeallee),3,1.0,Berlin,Germany,15
-U Spittelmarkt (West),0,7.0,Berlin,Germany,15
+U Spittelmarkt (West),1,6.0,Berlin,Germany,15
 Ritterstraße/Bergfriedstraße (Mobilitätsstation),0,3.0,Berlin,Germany,15
 S Hohenzollerndamm (Südwest),0,4.0,Berlin,Germany,15
 Bulgarische Straße/Neue Krugallee,1,3.0,Berlin,Germany,15
@@ -2009,10 +2009,10 @@ Radenzer Straße/Südostallee,0,4.0,Berlin,Germany,15
 Rathausstraße/Kaiserstraße,1,5.0,Berlin,Germany,15
 S+U Lichtenberg Frankfurter Allee (Mobilitätsstation),2,2.0,Berlin,Germany,15
 Kurfürstenstraße/Blumenthalstraße,0,4.0,Berlin,Germany,15
-EDEKA Moch (Voltairestraße),2,1.0,Berlin,Germany,15
+EDEKA Moch (Voltairestraße),3,0.0,Berlin,Germany,15
 Jelbi Besselpark (KRE/BE),1,6.0,Berlin,Germany,15
 Jelbi - Okerstr./Schillerpromenade (NEU/OK)),1,2.0,Berlin,Germany,15
-Richardplatz,0,4.0,Berlin,Germany,15
+Richardplatz,1,3.0,Berlin,Germany,15
 Alexanderplatz/Dircksenstraße/ALEXA (Mobilitätsstation),4,2.0,Berlin,Germany,15
 Jelbi Eingang Tempelhofer Feld/Columbiadamm (TEM/CO),4,4.0,Berlin,Germany,15
 Ring-Center (Am Containerbahnhof),0,4.0,Berlin,Germany,15
@@ -2065,11 +2065,11 @@ Jelbi U Wilmersdorfer Straße/Stuttgarter Platz (CHA/ST),0,10.0,Berlin,Germany,1
 U Holzhauser Straße (West),1,3.0,Berlin,Germany,15
 Fürstenstraße (Potsdamer Straße),0,4.0,Berlin,Germany,15
 Lückstraße/Giselastraße,0,4.0,Berlin,Germany,15
-virtuell - Hertzbergstraße/Böhmische Straße,0,4.0,Berlin,Germany,15
+virtuell - Hertzbergstraße/Böhmische Straße,1,3.0,Berlin,Germany,15
 S Schöneberg (Ost),0,4.0,Berlin,Germany,15
 Bundesring/Schreiberring,4,0.0,Berlin,Germany,15
 M Freienwalder Straße (Konrad-Wolf-Straße),0,4.0,Berlin,Germany,15
-Jelbi S+U Zoologischer Garten/Jebensstraße (CHA/JE),11,0.0,Berlin,Germany,15
+Jelbi S+U Zoologischer Garten/Jebensstraße (CHA/JE),12,0.0,Berlin,Germany,15
 Heerstraße/Kastanienallee (Bürgeramt Charlottenburg-Wilmersdorf),0,4.0,Berlin,Germany,15
 EDEKA Schnelle (Alt-Stralau),5,0.0,Berlin,Germany,15
 Gotthardstraße/Holländerstraße,0,4.0,Berlin,Germany,15
